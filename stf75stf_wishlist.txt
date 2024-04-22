@@ -319,6 +319,133 @@ dimwishlist:item=3211624072&perks=2846385770,591790007
 dimwishlist:item=3211624072&perks=1359896290,1890422124
 
 
+// The Messenger (Adept) (pvp,controller)
+//notes: rewind96 https://www.youtube.com/watch?v=vUiVYXMRDB0 mw: range. mod: counterbalance stock tags:pvp,controller
+dimwishlist:item=364665267&perks=839105230,1885400500,588594999,460017080
+dimwishlist:item=364665267&perks=839105230,1885400500,247725512,460017080
+
+
+// Relentless (pvp,controller)
+//notes: rewind96 https://www.youtube.com/watch?v=vUiVYXMRDB0 mw: range. mod: targeting adjuster tags:pvp,controller
+dimwishlist:item=435821041&perks=3250034553,1885400500,3619207468,460017080
+
+
+// Relentless (pvp)
+//notes: giornogaming https://www.youtube.com/watch?v=ETBu22tBmYw mv: handling mod: counterbalance stock tags:pvp
+dimwishlist:item=435821041&perks=3250034553,1885400500,1168162263,460017080
+
+
+// Drang (Baroque) (pvp,controller)
+//notes: rewind96 https://www.youtube.com/watch?v=vUiVYXMRDB0 mw: range. mod: counterbalance stock tags:pvp,controller
+dimwishlist:item=502356570&perks=1482024992,3142289711,588594999,2387244414
+dimwishlist:item=502356570&perks=1482024992,3142289711,588594999,1748774930
+dimwishlist:item=502356570&perks=1482024992,3142289711,588594999,3425386926
+dimwishlist:item=502356570&perks=1482024992,3142289711,588594999,288411554
+dimwishlist:item=502356570&perks=1482024992,3142289711,2717805783,2387244414
+dimwishlist:item=502356570&perks=1482024992,3142289711,2717805783,1748774930
+dimwishlist:item=502356570&perks=1482024992,3142289711,2717805783,3425386926
+dimwishlist:item=502356570&perks=1482024992,3142289711,2717805783,288411554
+
+
+// Adjudicator (pvp,controller)
+//notes: rewind96 https://www.youtube.com/watch?v=VR9cEhwHIRI mw: range. mod: counterbalance stock tags:pvp,controller
+dimwishlist:item=1013434963&perks=3250034553,3142289711,1428297954,3425386926
+dimwishlist:item=1013434963&perks=3250034553,3142289711,1428297954,95528736
+dimwishlist:item=1013434963&perks=3250034553,3142289711,1428297954,365154968
+dimwishlist:item=1013434963&perks=3250034553,3142289711,1359896290,3425386926
+dimwishlist:item=1013434963&perks=3250034553,3142289711,1359896290,95528736
+dimwishlist:item=1013434963&perks=3250034553,3142289711,1359896290,365154968
+dimwishlist:item=1013434963&perks=1482024992,3142289711,1428297954,3425386926
+dimwishlist:item=1013434963&perks=1482024992,3142289711,1428297954,95528736
+dimwishlist:item=1013434963&perks=1482024992,3142289711,1428297954,365154968
+dimwishlist:item=1013434963&perks=1482024992,3142289711,1359896290,3425386926
+dimwishlist:item=1013434963&perks=1482024992,3142289711,1359896290,95528736
+dimwishlist:item=1013434963&perks=1482024992,3142289711,1359896290,365154968
+
+
+// Igneous Hammer (pvp,controller)
+//notes: rewind96 https://www.youtube.com/watch?v=vUiVYXMRDB0 mw: range. mod: adept stability tags:pvp,controller
+dimwishlist:item=1973107014&perks=1840239774,1885400500,3619207468,555281244
+dimwishlist:item=1973107014&perks=1482024992,1885400500,3619207468,555281244
+dimwishlist:item=1973107014&perks=839105230,1885400500,3619207468,555281244
+dimwishlist:item=1973107014&perks=4090651448,1885400500,3619207468,555281244
+
+
+// Ammit AR2 (pvp,controller)
+//notes: rewind96 https://www.youtube.com/watch?v=vUiVYXMRDB0 mw: range. mod: counterbalance stock tags:pvp,controller
+dimwishlist:item=2119346509&perks=1482024992,1885400500,1359896290,1890422124
+dimwishlist:item=2119346509&perks=1482024992,1885400500,1359896290,1523649716
+dimwishlist:item=2119346509&perks=1482024992,1885400500,3060983774,1890422124
+dimwishlist:item=2119346509&perks=1482024992,1885400500,3060983774,1523649716
+
+
+// Igneous Hammer (Adept) (pvp,controller)
+//notes: rewind96 https://www.youtube.com/watch?v=vUiVYXMRDB0 mw: range. mod: adept stability tags:pvp,controller
+dimwishlist:item=2314610827&perks=839105230,1885400500,3619207468,555281244
+dimwishlist:item=2314610827&perks=4090651448,1885400500,3619207468,555281244
+dimwishlist:item=2314610827&perks=1840239774,1885400500,3619207468,555281244
+dimwishlist:item=2314610827&perks=1482024992,1885400500,3619207468,555281244
+
+
+// Unending Tempest (pvp,controller)
+//notes: rewind96 https://www.youtube.com/watch?v=vUiVYXMRDB0 mw: range. mod: counterbalance stock tags:pvp,controller
+dimwishlist:item=2510526114&perks=1482024992,3142289711,1359896290,1890422124
+
+
+// Matador 64 (pvp,controller)
+//notes: rewind96 https://www.youtube.com/watch?v=vUiVYXMRDB0 mw: range. mod: quick access sling tags:pvp,controller
+dimwishlist:item=2563012876&perks=4090651448,3142289711,4071163871,47981717
+
+
+// The Slammer (pve)
+//notes: giornogaming https://www.youtube.com/watch?v=ekK-roxf6Yw tags:pve
+dimwishlist:item=2889501828&perks=938542991,2349202967,1749209109,3078487919
+dimwishlist:item=2889501828&perks=938542991,2349202967,1749209109,3650930298
+dimwishlist:item=2889501828&perks=938542991,2349202967,2077819806,3078487919
+dimwishlist:item=2889501828&perks=938542991,2349202967,2077819806,3650930298
+dimwishlist:item=2889501828&perks=938542991,2349202967,2396489472,3078487919
+dimwishlist:item=2889501828&perks=938542991,2349202967,2396489472,3650930298
+dimwishlist:item=2889501828&perks=3666208348,2349202967,1749209109,3078487919
+dimwishlist:item=2889501828&perks=3666208348,2349202967,1749209109,3650930298
+dimwishlist:item=2889501828&perks=3666208348,2349202967,2077819806,3078487919
+dimwishlist:item=2889501828&perks=3666208348,2349202967,2077819806,3650930298
+dimwishlist:item=2889501828&perks=3666208348,2349202967,2396489472,3078487919
+dimwishlist:item=2889501828&perks=3666208348,2349202967,2396489472,3650930298
+dimwishlist:item=2889501828&perks=2827049491,2349202967,1749209109,3078487919
+dimwishlist:item=2889501828&perks=2827049491,2349202967,1749209109,3650930298
+dimwishlist:item=2889501828&perks=2827049491,2349202967,2077819806,3078487919
+dimwishlist:item=2889501828&perks=2827049491,2349202967,2077819806,3650930298
+dimwishlist:item=2889501828&perks=2827049491,2349202967,2396489472,3078487919
+dimwishlist:item=2889501828&perks=2827049491,2349202967,2396489472,3650930298
+
+
+// Prosecutor (pvp,controller)
+//notes: rewind96 https://www.youtube.com/watch?v=vUiVYXMRDB0 https://www.youtube.com/watch?v=9LFFEs4i1ow mw: stability. mod: counterbalance stock tags:pvp,controller
+dimwishlist:item=3483591058&perks=3250034553,1885400500,3619207468,2610012052
+dimwishlist:item=3483591058&perks=1482024992,1885400500,3619207468,2610012052
+
+
+// Shayura's Wrath (pvp,controller)
+//notes: rewind96 https://www.youtube.com/watch?v=vUiVYXMRDB0 tags:pvp,controller
+dimwishlist:item=3682803680&perks=1840239774,3142289711,588594999,2610012052
+
+
+// The Messenger (pvp,controller)
+//notes: rewind96 https://www.youtube.com/watch?v=vUiVYXMRDB0 mw: range. mod: counterbalance stock tags:pvp,controller
+dimwishlist:item=3796795102&perks=839105230,1885400500,588594999,460017080
+dimwishlist:item=3796795102&perks=839105230,1885400500,247725512,460017080
+
+
+// Shayura's Wrath (Adept) (pvp,controller)
+//notes: rewind96 https://www.youtube.com/watch?v=vUiVYXMRDB0 tags:pvp,controller
+dimwishlist:item=4023807721&perks=1840239774,3142289711,588594999,2610012052
+
+
+// A Sudden Death (pvp)
+//notes: giornogaming https://www.youtube.com/watch?v=ETBu22tBmYw mw: range mod: quick access sling tags:pvp
+dimwishlist:item=4097972038&perks=466087222,679225683,3161816588,47981717
+
+
 
 
 
