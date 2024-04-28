@@ -1,6 +1,480 @@
 title: stf75stf wishlist
 
-title: 20240421 `source:intothelight` Weapons
+title:blueberries.gg - Brave Weapons
+
+// Forbearance - All-Around (god-pve)
+//notes: https://www.blueberries.gg/weapons/forbearance-god-rolls/ All-Around "Making sure that Handling is as high as possible is always good in PvE in order to make weapons feel nicer to use, so Quick Launch and High-Velocity Rounds are the best options here with a Reload Speed or Handling Masterwork. Perk 1 allows you to choose between Demolitionist and Ambitious Assassin. Demolitionist is unique to this variant of Forbearance and should definitely be the focus, as you can always choose Ambitious Assassin on your Vow of the Disciple roll. Chain Reaction is the best perk for slot 2, but One for All is usable." MW: Reload Speed (also good: Handling) tags:god-pve
+dimwishlist:item=568611921&perks=3525010810,2822142346,3523296417,2396489472
+dimwishlist:item=568611921&perks=3525010810,2822142346,3523296417,4049631843
+dimwishlist:item=568611921&perks=3525010810,2822142346,2010801679,2396489472
+dimwishlist:item=568611921&perks=3525010810,2822142346,2010801679,4049631843
+
+
+// Forbearance - All-Around (god-pvp)
+//notes: https://www.blueberries.gg/weapons/forbearance-god-rolls/ All-Around "High Handling is key in PvP, in particular, making Quick Launch, High-Velocity Rounds, and Handling must-haves as they make the gun feel much nicer to use. Disruption Break in the first column allows players to potentially use Forbearance as a swap weapon, making it rather potent in this regard. However, the second column is entirely useless in this regard as the point of Disruption Break is to secure the kill with your Kinetic weapon. However, Golden Tricorn provides the highest 7-second kill buff at base, making it the best out of a bad bunch in the second column." MW: Handling tags:god-pvp
+dimwishlist:item=568611921&perks=3525010810,2822142346,1683379515,2610012052
+dimwishlist:item=568611921&perks=3525010810,2822142346,3436462433,2610012052
+
+
+// The Mountaintop - DPS (god-pve)
+//notes: https://www.blueberries.gg/weapons/mountaintop-god-rolls/ DPS "If you’re instead using The Mountaintop in a DPS rotation, simply go for Auto-Loading Holster and Recombination for your perks. While Vorpal Weapon seems interesting in the final column, most DPS phases cater more toward Recombination. Recommended Loadout: The Mountaintop, Merciless, Apex Predator." MW: Velocity tags:god-pve
+dimwishlist:item=568611922&perks=3525010810,3301904089,3300816228,469285294
+
+
+// The Mountaintop - All-Around (god-pve)
+//notes: https://www.blueberries.gg/weapons/mountaintop-god-rolls/ All-Around "The Mountaintop can fit any role you need it to in PvE, making it a must-have for any Guardians planning on battling The Witness in The Final Shape. We’ll start with Quick Launch and a velocity masterwork for higher velocity, as well as Spike Grenades for a bump in damage. From there, Auto-Loading Holster is the best general pick for perk one, although Demolitionist and Lead from Gold are both honorable mentions. As for the final column, it’s a toss-up between Frenzy and Recombination—Frenzy is a more consistent (but less potent) buff, while Recombination can allow for one extremely powerful shot. Recommended Loadout: The Mountaintop, Sunshot, Apex Predator." MW: Velocity tags:god-pve
+dimwishlist:item=568611922&perks=3525010810,3301904089,3300816228,4104185692
+dimwishlist:item=568611922&perks=3525010810,3301904089,3300816228,469285294
+dimwishlist:item=568611922&perks=3525010810,3301904089,3523296417,4104185692
+dimwishlist:item=568611922&perks=3525010810,3301904089,3523296417,469285294
+
+
+// The Mountaintop - All-Around (god-pvp)
+//notes: https://www.blueberries.gg/weapons/mountaintop-god-rolls/ All-Around "The Mountaintop’s power doesn’t stop with its PvP rolls—it’s also extremely powerful in The Crucible. Volatile Launch and a velocity masterwork will grant the weapon reduced projectile speed; as for the magazine, you’re looking at either High-Velocity Rounds or Sticky Grenades, the latter only being better if you plan on strategically setting “traps” around the battlefield. For main perks, column one offers Impulse Amplifier, making the weapon’s velocity skyrocket even more. And while nothing stands out in the final column, Harmony makes for an alright choice if you play around it." MW: Velocity tags:god-pvp
+dimwishlist:item=568611922&perks=1478423395,2822142346,951095735,438098033
+dimwishlist:item=568611922&perks=1478423395,2822142346,951095735,1546637391
+
+
+// Edge Transit - Boss Damage (god-pve)
+//notes: https://www.blueberries.gg/weapons/edge-transit-god-rolls/ Boss Damage "For PvE, we’ll begin with Quick Launch, Spike Grenades, and either a velocity or handling masterwork. From there, any veteran player knows the exact perk combo we’re going to suggest: Envious Assassin and Bait and Switch. This combination made Cataphract GL3 so popular a couple of months ago and continues to be the dominant choice for heavy grenade launchers in the current meta. The only swap we’d ever recommend making is Cascade Point instead of Envious Assassin, solely for high burst damage (or simply for fun) if that’s something you’re interested in. However, nine times out of ten, Envious Assassin is the dominant pick regardless. Recommended Loadout: The Mountaintop, Sunshot, Edge Transit." MW: Velocity or Handling tags:god-pve
+dimwishlist:item=568611923&perks=3525010810,3301904089,968510818,3078487919
+dimwishlist:item=568611923&perks=3525010810,3301904089,3751912585,3078487919
+
+
+// Edge Transit - All-Around (god-pvp)
+//notes: https://www.blueberries.gg/weapons/edge-transit-god-rolls/ All-Around "Edge Transit simply isn’t as powerful in The Crucible, but that doesn’t stop it from excelling with the right combination of perks. Volatile Launch, High-Velocity Rounds, and a velocity masterwork allow for a nice split between velocity and blast radius, two vital stats in PvP. Impulse Amplifier is an easy pick in column one, making the weapon significantly easier to use against moving Guardians. As for your final perk, Explosive Light is our pick, although solely for the additional blast radius it offers. Realistically, this final perk doesn’t make all that big of a difference either way, so we recommend experimenting to find what works for you." MW: Velocity tags:god-pvp
+dimwishlist:item=568611923&perks=1478423395,2822142346,951095735,3194351027
+
+
+// The Recluse - Void Build (god-pve)
+//notes: https://www.blueberries.gg/weapons/the-recluse-god-rolls/ Void Build "As a compliment for your Void build, The Recluse is pretty easy: just look for subclass-related perks like Repulsor Brace, Destabilizing Rounds, and the new Desperate Measures. We find Desperate Measures to be significantly more potent than Destabilizing Rounds here, but it entirely depends on how your chosen build functions. Recommended Loadout: Scatter Signal or Tusk of the Boar, The Recluse, Commemoration." MW: Range or Stability tags:god-pve
+dimwishlist:item=1050806815&perks=1482024992,3230963543,776531651,2109543898
+dimwishlist:item=1050806815&perks=1482024992,3230963543,776531651,2048641572
+
+
+// The Recluse - Ad Clear (god-pve)
+//notes: https://www.blueberries.gg/weapons/the-recluse-god-rolls/ Ad Clear "If you’re looking for raw power, Frenzy is a clear choice in the final column due to its multitude of buffs (even though other picks offer more damage). As for column one, there really isn’t anything outstanding or synergistic—that’s why we opt for Repulsor Brace since you’re likely to encounter Void debuffs from your team regardless of your chosen subclass. In contrast, if you instead feel comfortable getting up close and personal with your enemies, the combination of Threat Detector and Surrounded can’t be overlooked. While it does place you in a risky spot, both perks are extremely potent and synergize perfectly with one another. Recommended Loadout: Scatter Signal, The Recluse, Apex Predator." MW: Range or Stability tags:god-pve
+dimwishlist:item=1050806815&perks=1482024992,3230963543,776531651,4104185692
+dimwishlist:item=1050806815&perks=1482024992,3230963543,776531651,3708227201
+dimwishlist:item=1050806815&perks=1482024992,3230963543,4071163871,4104185692
+dimwishlist:item=1050806815&perks=1482024992,3230963543,4071163871,3708227201
+
+
+// The Recluse - 6v6 Modes (god-pvp)
+//notes: https://www.blueberries.gg/weapons/the-recluse-god-rolls/ 6v6 Modes "Generally speaking, 6v6 Crucible modes cater more toward kill-activated perks rather than neutral ones. For that reason, we recommend Master of Arms in the final column—while not the strongest, it’s the best thing The Recluse offers. For the first column, nothing really stands out, so we recommend Dynamic Sway Reduction (that said, if another neutral perk fits your style more, this one can be easily swapped)." MW: Range tags:god-pvp
+dimwishlist:item=1050806815&perks=3250034553,1885400500,1359896290,3081867624
+
+
+// The Recluse - 3v3 Modes (god-pvp)
+//notes: https://www.blueberries.gg/weapons/the-recluse-god-rolls/ 3v3 Modes "For our 3v3 roll, we’re simply looking at any perk that increases The Recluse’s consistency. Through our chosen set of perks (Dynamic Sway Reduction, Tap the Trigger, and a potent barrel and magazine), you won’t be gaining any extra damage but instead more accuracy for each shot you fire." MW: Range tags:god-pvp
+dimwishlist:item=1050806815&perks=3250034553,1885400500,1359896290,1890422124
+
+
+// Hung Jury SR4 - GMs (god-pve)
+//notes: https://www.blueberries.gg/weapons/hung-jury-god-rolls/ GMs "
+Handling and Reload Speed are important on Hung Jury, so we chose Fluted Barrel and Tactical Magazine for our barrel and magazine slots. Kinetic Tremors is a must-pick for PvE on Hung Jury as it helps deal some massive AoE damage, which is always handy on a Scout Rifle. Explosive Payload and Precision Instrument are both good options. Explosive Payload provides a more general buff, but Precision Instrument is better when using Hung Jury to take down a higher health target. Recommended Loadout: Hung Jury SR4, Cartesian Coordinate, Gjallarhorn." MW: Reload Speed tags:god-pve
+dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,3038247973
+dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,555281244
+
+
+// Hung Jury SR4 - Ad Clear (god-pve)
+//notes: https://www.blueberries.gg/weapons/hung-jury-god-rolls/ Ad Clear "Again, handling and Reload Speed are very important for the general feel of the weapon, meaning a Reload Speed Masterwork with Fluted Barrel and Tactical Mag is best. Kinetic Tremors and Firefly provide the most AoE possible on this weapon. However, Explosive Payload is a valid alternative that provides a 15% damage bonus on bodyshots and a 9% damage bonus on crits, making it a solid alternative. Recommended Loadout: Hung Jury SR4, Forbearance, Gjallarhorn." MW: Reload Speed tags:god-pve
+dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,3824105627
+dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,3038247973
+
+
+// Hung Jury SR4 - 3v3 Modes (god-pvp)
+//notes: https://www.blueberries.gg/weapons/hung-jury-god-rolls/ 3v3 Modes "Maximising Stability is the most important thing on PvP weapons, especially in Trials where missing a shot could wind up losing your team the round, meaning Fluted Barrel, Steady Rounds, and a Stability Masterwork are preferable. In terms of perks, Rapid Hit is still the go-to option due to its Reload Speed and Stability bumps. Box Breathing is the best option for Trials, as perks that activate after a kill are often weaker in these sorts of environments. Cascade Point can be used as an okay alternative, but Box Breathing is preferred." MW: Stability tags:god-pvp
+dimwishlist:item=1453235079&perks=1840239774,3177308360,247725512,2551157718
+
+
+// Hung Jury SR4 - 6v6 Modes (god-pvp)
+//notes: https://www.blueberries.gg/weapons/hung-jury-god-rolls/ 6v6 Modes "Maximizing Stability in order to reduce incoming flinch is paramount in PvP, meaning Fluted Barrel and Steady Rounds are great options for our Barrel and Magazine; meanwhile, the choice between Stability or Handling for the Masterwork is up to the player. Rapid Hit is a good quality-of-life perk, providing bumps to Reload Speed and Stability. In 6v6, pairing this with Cascade Point allows you to go on killing sprees very easily, dropping the time-to-kill to 0.6s, which is blindingly fast. Box Breathing is a good alternative, but it may be too slow for a more chaotic 6v6 environment. However, on larger maps, Box Breathing can do very well." MW: Stability tags:god-pvp
+dimwishlist:item=1453235079&perks=1840239774,3177308360,247725512,3751912585
+
+
+// Falling Guillotine - Uitily/Casual (god-pve)
+//notes: https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/ Uitily/Casual "As always, Jagged Edge and Swordmaster’s Guard are the preferred picks for Swords as they increase damage by the highest amount, but Honed Edge isn’t awful, either. The first perk doesn’t matter too much, as the main draw of this version of Falling Guillotine is the movement capabilities of Eager Edge. However, Frenzy and Relentless Strikes are both the best options available in the first column. Building this sword with Eager Edge allows for incredible movement, especially with certain techniques like Shatterskating or Wellskating. Recommended Loadout: Riptide, Sunshot, Falling Guillotine." MW: Impact tags:god-pve
+dimwishlist:item=1815105249&perks=3666208348,269888150,4104185692,2077819806
+dimwishlist:item=1815105249&perks=3666208348,269888150,1749209109,2077819806
+
+
+// Falling Guillotine - DPS (god-pve)
+//notes: https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/ DPS "Once again, the Blade and Guard options of Jagged Edge and Swordmaster’s Guard are quite standard. In terms of perks, there are a ton of avenues you can go down. Frenzy provides a higher damage buff, and also increases Handling, making it better on paper than Vorpal Weapon, but Vorpal Weapon doesn’t have an activation condition. For perk 2, Bait and Switch and Surrounded provide the same damage buff, but Surrounded requires enemies; meanwhile, Bait and Switch requires you to use all weapons, making it a toss-up for which will be more popular. Recommended Loadout: Witherhoard, Zaouli’s Bane, Falling Guillotine." MW: Impact tags:god-pve
+dimwishlist:item=1815105249&perks=3666208348,269888150,4104185692,3708227201
+dimwishlist:item=1815105249&perks=3666208348,269888150,4104185692,3078487919
+dimwishlist:item=1815105249&perks=3666208348,269888150,1749209109,3708227201
+dimwishlist:item=1815105249&perks=3666208348,269888150,1749209109,3078487919
+
+
+// Falling Guillotine - All-Around (god-pvp)
+//notes: https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/ All-Around "The Blade and Guard options don’t really matter inside of PvP, meaning players can opt for any Blade and Guard they really want. However, the perks may make a bit of a difference in certain situations. Vorpal Weapon could potentially make a difference against certain Supers that have lower damage resistance, and Eager Edge allows you to move around the map much faster, making it a fun and viable option." MW: Impact tags:god-pvp
+dimwishlist:item=1815105249&perks=436053704,269888150,1546637391,2077819806
+
+
+// Hammerhead - All-Around (god-pve)
+//notes: https://www.blueberries.gg/weapons/hammerhead-god-rolls/ All-Around "We’ll opt for Arrowhead Break, Appended Mag, and a Handling masterwork to get more handling and a more manageable recoil. From there, Rampage and Killing Tally is our preferred combo, as it is what makes the Hammerhead unique. Plus, this is the perfect combo if you want to go all in on the damage output. Rewind Rounds and Killing Tally is also an excellent combination, but there’s tons of room for mixing it up here. Fourth Time’s the Charm, Feeding Frenzy, and Envious Assassin all provide similar benefits to Rewind Rounds. Onslaught is also worth mentioning in the final column, which just got re-released and pairs perfectly with something like Rampage. Recommended Loadout: The Mountaintop, Sunshot, Hammerhead." MW: Handling tags:god-pve
+dimwishlist:item=1896309757&perks=839105230,1087426260,3425386926,557221067
+dimwishlist:item=1896309757&perks=839105230,1087426260,3425386926,95528736
+dimwishlist:item=1896309757&perks=839105230,1087426260,3418782618,557221067
+dimwishlist:item=1896309757&perks=839105230,1087426260,3418782618,95528736
+dimwishlist:item=1896309757&perks=839105230,2420895100,3425386926,557221067
+dimwishlist:item=1896309757&perks=839105230,2420895100,3425386926,95528736
+dimwishlist:item=1896309757&perks=839105230,2420895100,3418782618,557221067
+dimwishlist:item=1896309757&perks=839105230,2420895100,3418782618,95528736
+
+
+// Hammerhead - All-Around (god-pvp)
+//notes: https://www.blueberries.gg/weapons/hammerhead-god-rolls/ All-Around "We’ll begin by opting for higher stability through Arrowhead Break, Ricochet Rounds, and a Stability masterwork. Rampage may seem like a strange choice for perk one, but its increased damage is realistically the best thing you can get out of this column for The Crucible. As for the final column, we chose Tap the Trigger since two damage perks seemed like overkill. However, if you want to try for an extremely short TTK instead of wanting more consistency, exploring other offerings in this column isn’t a bad idea." MW: Stability tags:god-pvp
+dimwishlist:item=1896309757&perks=839105230,1885400500,3425386926,1890422124
+dimwishlist:item=1896309757&perks=839105230,1885400500,1870851715,1890422124
+
+
+// Blast Furnace - All-Around (god-pve)
+//notes: https://www.blueberries.gg/weapons/blast-furnace-god-rolls/ All-Around "Pulses in PvE have seen highs and lows, but Blast Furnace might be able to break the mold they have been in for quite some time. Its amazing base stats means not much needs to be kicked up, but its handling is objectively sub-par, so we’ll use Fluted Barrel to kick it up a notch. Pair it with Flared Magwell for a reload speed buff, as well as a slight stability bump. For perk 1, it’s a “no contest” for Kinetic Tremors. Shoot to Loot, while nice to have, feels like a waste when a free damage perk is in the same slot. Since Blast Furnace fires 4 shots a burst, it’ll only take 3 bursts to activate it, as opposed to 4 on all others. Perk 2 has a lot of good in it, but it’s a toss-up between Desperate Measures and One-For-All. Desperate Measures requires a kill with the weapon or abilities to activate, whereas One-For-All doesn’t, and will also activate from Kinetic Tremors. " MW: Handling tags:god-pve
+dimwishlist:item=2372514508&perks=1840239774,1087426260,3891536761,2109543898
+dimwishlist:item=2372514508&perks=1840239774,1087426260,3891536761,4049631843
+dimwishlist:item=2372514508&perks=1840239774,1087426260,3700496672,2109543898
+dimwishlist:item=2372514508&perks=1840239774,1087426260,3700496672,4049631843
+
+
+// Blast Furnace - 3v3s (Trials) God Roll (god-pvp)
+//notes: https://www.blueberries.gg/weapons/blast-furnace-god-rolls/ 3v3s (Trials) "PvP is where Blast Furnace will shine. A base of 79 range and 64 stability puts it above all other pulses in its frame, with the only downside being the base 65 recoil, but that’s easily fixable with Arrowhead Break, which will put it to 95 before a Counterbalance Stock mods bumps it to 100. Accurized Rounds will provide a +10 to your range, which is perfect for fighting longer range weapons. Perk 1 has many good PvP perks that it’s hard to narrow them down, but Zen Moment or Headseeker are what most are going to look for. Zen Moment will keep your reticle on target throughout the duel, and Headseeker can help push the fight in your favor if you miss a crit or two. Perk 2 really only has Rapid-Hit for 3v3 modes, as all the others are kill based, but who’s going to say ‘no’ to even more stability?" MW: Stability or Handling tags:god-pvp
+dimwishlist:item=2372514508&perks=839105230,3142289711,2387244414,247725512
+dimwishlist:item=2372514508&perks=839105230,3142289711,460017080,247725512
+
+
+// Blast Furnace - 6v6s God Roll (god-pvp)
+//notes: https://www.blueberries.gg/weapons/blast-furnace-god-rolls/ 6v6s "PvP is where Blast Furnace will shine. A base of 79 range and 64 stability puts it above all other pulses in its frame, with the only downside being the base 65 recoil, but that’s easily fixable with Arrowhead Break, which will put it to 95 before a Counterbalance Stock mods bumps it to 100. Accurized Rounds will provide a +10 to your range, which is perfect for fighting longer range weapons. In 6v6 modes, you’ll find more use in Keep Away or Perpetual Motion given how they play. Keep Away gives a nice range buff, but Perpetual Motion gives you free stability for simply moving around. For Perk 2, any of the kill-based perks will work best, but Kill Clip and Rampage will probably be the easiest to use. Desperate Measures gets an honorable mention, too." MW: Stability or Handling tags:god-pvp
+dimwishlist:item=2372514508&perks=839105230,3142289711,3619207468,1015611457
+dimwishlist:item=2372514508&perks=839105230,3142289711,3619207468,3425386926
+dimwishlist:item=2372514508&perks=839105230,3142289711,1428297954,1015611457
+dimwishlist:item=2372514508&perks=839105230,3142289711,1428297954,3425386926
+
+
+// Elsie's Rifle - GMs (god-pve)
+//notes: https://www.blueberries.gg/weapons/elsies-rifle-god-rolls/ GMs "As previously mentioned, pulse rifles in end-game PvE aren’t that common for a variety of reasons, but they can still hold their own, with the right perks. Fluted Barrel will make it feel less clunky, and Tactical Mag provides some stability as well as an extra burst in the mag. Rewind Rounds is arguably the strongest in Column 3, given the high health of endgame enemies. Kill-based perks can be viable, but not on puls Recommended Loadout: Forerunner, Elsie’s Rifle, Apex Predator" MW: Reload Speed tags:god-pve
+dimwishlist:item=2372514509&perks=1840239774,106909392,3418782618,4104185692
+dimwishlist:item=2372514509&perks=1840239774,3230963543,3418782618,4104185692
+
+
+// Elsie's Rifle - Ad Clear (god-pve)
+//notes: https://www.blueberries.gg/weapons/elsies-rifle-god-rolls/ Ad Clear "For general content, getting kills with pulses is much easier, so perks like Repulsor Brace and Destabilizing Rounds can be great for chaining an overshield, or Feeding Frenzy and Desperate Measures for pure damage output. Recommended Loadout: Any Special ammo weapon, Elsie’s Rifle, Deterministic Chaos." MW: Reload Speed tags:god-pve
+dimwishlist:item=2372514509&perks=1840239774,106909392,776531651,2048641572
+dimwishlist:item=2372514509&perks=1840239774,106909392,776531651,2109543898
+dimwishlist:item=2372514509&perks=1840239774,106909392,2779035018,2048641572
+dimwishlist:item=2372514509&perks=1840239774,106909392,2779035018,2109543898
+dimwishlist:item=2372514509&perks=1840239774,3230963543,776531651,2048641572
+dimwishlist:item=2372514509&perks=1840239774,3230963543,776531651,2109543898
+dimwishlist:item=2372514509&perks=1840239774,3230963543,2779035018,2048641572
+dimwishlist:item=2372514509&perks=1840239774,3230963543,2779035018,2109543898
+
+
+// Elsie's Rifle - 3v3 (Trials) (god-pvp)
+//notes: https://www.blueberries.gg/weapons/elsies-rifle-god-rolls/ 3v3 (Trials) "High-Impacts continue to dominate the sandbox, so it’s only right that we beef this one up as much as possible. Arrowhead Break is your best barrel since the max range roll only pushes the effective TTK range by 2 meters, and being able to actually hit your shots is more important than how far they can hit. Pair with Ricochet Rounds for even more stability and a slight range bump. Zen Moment or Keep Away are equally good, but keep in mind that Keep Away drops the moment a single person is close by, though the range buff is quite nice. Headseeker will help keep your shots on target in the event you hit a body shot." MW: Range tags:god-pvp
+dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,460017080
+dimwishlist:item=2372514509&perks=839105230,1885400500,3619207468,460017080
+
+
+// Elsie's Rifle - 6v6 (god-pvp)
+//notes: https://www.blueberries.gg/weapons/elsies-rifle-god-rolls/ 6v6 "High-Impacts continue to dominate the sandbox, so it’s only right that we beef this one up as much as possible. Arrowhead Break is your best barrel since the max range roll only pushes the effective TTK range by 2 meters, and being able to actually hit your shots is more important than how far they can hit. Pair with Ricochet Rounds for even more stability and a slight range bump. The only real difference here are the perks. Desperado, though nerfed, is still an excellent perk when multiple targets are available at once, letting you take full advantage of your temporary 600 RPM pulse rifle. Kill Clip is also great, providing a 25% damage buff that can be refreshed!" MW: Range tags:god-pvp
+dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,3047969693
+dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,1015611457
+dimwishlist:item=2372514509&perks=839105230,1885400500,3619207468,3047969693
+dimwishlist:item=2372514509&perks=839105230,1885400500,3619207468,1015611457
+
+
+// Midnight Coup - All-Around (god-pve)
+//notes: https://www.blueberries.gg/weapons/midnight-coup-god-rolls/ All-Around "As always, Fluted Barrel is the go-to for our barrel option as it provides a good amount of Handling, making the weapon feel much nicer. On top of this, we can opt for Appended Mag as we already have Reload Speed from either Firefly or Frenzy, no matter which alternate perk you go for. Firefly provides some much-needed AoE damage as Hand Cannons typically struggle with add-clear, but Explosive is a decent utility-based alternative. Frenzy is generally the best all-round option as it also works with Explosive Payload, but One for All has great synergy with Firefly, making it a valid alternative when paired with an AoE perk. Recommended Loadout: Midnight Coup, Forbearance, or any Fusion Rifle, Gjallarhorn." MW: Handling tags:god-pve
+dimwishlist:item=2763843898&perks=1840239774,1087426260,3824105627,4104185692
+dimwishlist:item=2763843898&perks=1840239774,1087426260,3824105627,4049631843
+dimwishlist:item=2763843898&perks=1840239774,1087426260,3038247973,4104185692
+dimwishlist:item=2763843898&perks=1840239774,1087426260,3038247973,4049631843
+
+
+// Midnight Coup - All-Around (god-pvp)
+//notes: https://blueberries.gg/weapons/midnight-coup-god-rolls/ All-Around "Range and Stability is the name of the game on PvP Hand Cannons, meaning Smallbore and Accurised Rounds are the best picks for our barrel and magazine slots. Explosive Payload is generally the best available option on Hand Cannons as they artificially extend range while also flinching the opponent more, however, some may not like the feel of Explosive Payload, making Moving Target a great alternative. Zen Moment and Opening Shot are both brilliant options in the second column. Zen Moment provides a lot of consistency and makes the gun easier to use, but some may prefer the advantages of Opening Shot instead." MW: Range tags:god-pvp
+dimwishlist:item=2763843898&perks=1482024992,3142289711,3038247973,2387244414
+dimwishlist:item=2763843898&perks=1482024992,3142289711,3038247973,47981717
+dimwishlist:item=2763843898&perks=1482024992,3142289711,588594999,2387244414
+dimwishlist:item=2763843898&perks=1482024992,3142289711,588594999,47981717
+
+
+// Luna's Howl - Ad Clear (god-pve)
+//notes: https://www.blueberries.gg/weapons/lunas-howl-god-rolls/ Ad Clear "PvE is awash with people using Solar hand cannons right now, namely Zaouli’s and Sunshot, so this is a perfect placeholder for them. As with most PvE weapons, run Fluted Barrel for a handling bump and Flared Magwell for the reload speed. You could opt for Light Mag if you want the range, though that’s not really necessary. Perk 1 has solid PvP options, but only one really good perk for PvE: Heal Clip. Now that this heals 120 HP instead of the 60 it used to, Heal Clip is perfect for survivability builds. If that isn’t your dig, Enlightened Action can help speed up the reloads. For perk 2, Incandescent or Desperate Measures are the best. Incandescent for the scorch damage, Desperate Measures for raw damage." MW: Reload Speed tags:god-pve
+dimwishlist:item=2763843899&perks=1840239774,3230963543,3017780555,4293542123
+dimwishlist:item=2763843899&perks=1840239774,3230963543,3017780555,2109543898
+dimwishlist:item=2763843899&perks=1840239774,3230963543,3828510309,4293542123
+dimwishlist:item=2763843899&perks=1840239774,3230963543,3828510309,2109543898
+
+
+// Luna's Howl - 3v3 (Trials) (god-pvp)
+//notes: https://www.blueberries.gg/weapons/lunas-howl-god-rolls/ 3v3 (Trials) "PvP has long awaited the return of Luna’s, and to ensure it performs at its peak, we’ll be bumping its range as far as we can take it. Hammer-Forged Rifling gives the best range buff without losing any other stats, and Ricochet Rounds gives a little more while buffing stability. Perk 1 has some very good options for PvP, some of the best for hand cannons, actually. Eye of the Storm will be a duelists’ dream for the accuracy bonuses, and Slideshot for the true peek-shoot players. Perk 2 has some great choices, but the two that standout for 3’s are Precision Instrument and Opening Shot. Precision can push the 3-tap range out through the damage buff, and Opening Shot can take the range to 100 when paired with Slideshot!" MW: Range tags:god-pvp
+dimwishlist:item=2763843899&perks=3250034553,1885400500,699525795,555281244
+dimwishlist:item=2763843899&perks=3250034553,1885400500,699525795,47981717
+dimwishlist:item=2763843899&perks=3250034553,1885400500,3161816588,555281244
+dimwishlist:item=2763843899&perks=3250034553,1885400500,3161816588,47981717
+
+
+// Luna's Howl - 6v6 (god-pvp)
+//notes: https://www.blueberries.gg/weapons/lunas-howl-god-rolls/ 6v6 "PvP has long awaited the return of Luna’s, and to ensure it performs at its peak, we’ll be bumping its range as far as we can take it. Hammer-Forged Rifling gives the best range buff without losing any other stats, and Ricochet Rounds gives a little more while buffing stability. For 6’s, it’s a toss up between Encore or Eye of the Storm. Encore at max stacks gives a +20 to range and +40 to stability, which is easy to achieve given how many players are on the field. For Perk 2, take your pick from any of the damage perks. Mag Howl will pair nicely with Encore given the need for precision final blows, but really anything works here if you are comfortable with it." MW: Range tags:god-pvp
+dimwishlist:item=2763843899&perks=3250034553,1885400500,1195158366,2720533289
+dimwishlist:item=2763843899&perks=3250034553,1885400500,1195158366,1015611457
+dimwishlist:item=2763843899&perks=3250034553,1885400500,699525795,2720533289
+dimwishlist:item=2763843899&perks=3250034553,1885400500,699525795,1015611457
+
+
+// Succession - Champion & Boss Damage (god-pve)
+//notes: https://www.blueberries.gg/weapons/succession-god-rolls/ Champion & Boss Damage "For PvE, we’ll start Succession off by opting for Fluted Barrel, Extended Mag, and Handling. While Extended Mag is typically an unpopular choice, you’ll never be affected by the slow reload speed with the perk combination we’re going for, so the extra bullet in the magazine is worth it. Speaking of our perk choices, we’re going for the classic combo of Reconstruction and Recombination. While Firing Line is a close contender in the second column (if you’re in a fireteam), Recombination’s buffed shot is simply too potent in such a wide range of scenarios. Recommended Loadout: Succession, Sunshot, Apex Predator." MW: Handling tags:god-pve
+dimwishlist:item=3612338554&perks=1840239774,2420895100,1523832109,469285294
+dimwishlist:item=3612338554&perks=1840239774,2420895100,1523832109,1771339417
+dimwishlist:item=3612338554&perks=1840239774,2420895100,1556840489,469285294
+dimwishlist:item=3612338554&perks=1840239774,2420895100,1556840489,1771339417
+
+
+// Succession - All-Around (god-pvp)
+//notes: https://www.blueberries.gg/weapons/succession-god-rolls/ All-Around "In The Crucible, Succession’s god roll is relatively simple. Start by opting for high handling, range, and stability through Fluted Barrel, Accurized Rounds, and a handling masterwork. Jumping over to perk two, Snapshot Sights is the clear winner, a perk that is basically necessary on any sniper you plan on using in PvP. As for perk one, our choice is Moving Target. However, if you have a habit of standing still while finding the perfect shot, something like Firmly Planted or No Distractions may be for you." MW: Handling tags:god-pvp
+dimwishlist:item=3612338554&perks=1840239774,3142289711,588594999,957782887
+
+
+
+// Forbearance - All-Around (god-pve) (Holofoil)
+//notes: https://www.blueberries.gg/weapons/forbearance-god-rolls/ All-Around "Making sure that Handling is as high as possible is always good in PvE in order to make weapons feel nicer to use, so Quick Launch and High-Velocity Rounds are the best options here with a Reload Speed or Handling Masterwork. Perk 1 allows you to choose between Demolitionist and Ambitious Assassin. Demolitionist is unique to this variant of Forbearance and should definitely be the focus, as you can always choose Ambitious Assassin on your Vow of the Disciple roll. Chain Reaction is the best perk for slot 2, but One for All is usable." MW: Reload Speed (also good: Handling) tags:god-pve
+dimwishlist:item=2480074702&perks=3525010810,2822142346,3523296417,2396489472
+dimwishlist:item=2480074702&perks=3525010810,2822142346,3523296417,4049631843
+dimwishlist:item=2480074702&perks=3525010810,2822142346,2010801679,2396489472
+dimwishlist:item=2480074702&perks=3525010810,2822142346,2010801679,4049631843
+
+
+// Forbearance - All-Around (god-pvp) (Holofoil)
+//notes: https://www.blueberries.gg/weapons/forbearance-god-rolls/ All-Around "High Handling is key in PvP, in particular, making Quick Launch, High-Velocity Rounds, and Handling must-haves as they make the gun feel much nicer to use. Disruption Break in the first column allows players to potentially use Forbearance as a swap weapon, making it rather potent in this regard. However, the second column is entirely useless in this regard as the point of Disruption Break is to secure the kill with your Kinetic weapon. However, Golden Tricorn provides the highest 7-second kill buff at base, making it the best out of a bad bunch in the second column." MW: Handling tags:god-pvp
+dimwishlist:item=2480074702&perks=3525010810,2822142346,1683379515,2610012052
+dimwishlist:item=2480074702&perks=3525010810,2822142346,3436462433,2610012052
+
+
+// The Mountaintop - DPS (god-pve) (Holofoil)
+//notes: https://www.blueberries.gg/weapons/mountaintop-god-rolls/ DPS "If you’re instead using The Mountaintop in a DPS rotation, simply go for Auto-Loading Holster and Recombination for your perks. While Vorpal Weapon seems interesting in the final column, most DPS phases cater more toward Recombination. Recommended Loadout: The Mountaintop, Merciless, Apex Predator." MW: Velocity tags:god-pve
+dimwishlist:item=4043921923&perks=3525010810,3301904089,3300816228,469285294
+
+
+// The Mountaintop - All-Around (god-pve) (Holofoil)
+//notes: https://www.blueberries.gg/weapons/mountaintop-god-rolls/ All-Around "The Mountaintop can fit any role you need it to in PvE, making it a must-have for any Guardians planning on battling The Witness in The Final Shape. We’ll start with Quick Launch and a velocity masterwork for higher velocity, as well as Spike Grenades for a bump in damage. From there, Auto-Loading Holster is the best general pick for perk one, although Demolitionist and Lead from Gold are both honorable mentions. As for the final column, it’s a toss-up between Frenzy and Recombination—Frenzy is a more consistent (but less potent) buff, while Recombination can allow for one extremely powerful shot. Recommended Loadout: The Mountaintop, Sunshot, Apex Predator." MW: Velocity tags:god-pve
+dimwishlist:item=4043921923&perks=3525010810,3301904089,3300816228,4104185692
+dimwishlist:item=4043921923&perks=3525010810,3301904089,3300816228,469285294
+dimwishlist:item=4043921923&perks=3525010810,3301904089,3523296417,4104185692
+dimwishlist:item=4043921923&perks=3525010810,3301904089,3523296417,469285294
+
+
+// The Mountaintop - All-Around (god-pvp) (Holofoil)
+//notes: https://www.blueberries.gg/weapons/mountaintop-god-rolls/ All-Around "The Mountaintop’s power doesn’t stop with its PvP rolls—it’s also extremely powerful in The Crucible. Volatile Launch and a velocity masterwork will grant the weapon reduced projectile speed; as for the magazine, you’re looking at either High-Velocity Rounds or Sticky Grenades, the latter only being better if you plan on strategically setting “traps” around the battlefield. For main perks, column one offers Impulse Amplifier, making the weapon’s velocity skyrocket even more. And while nothing stands out in the final column, Harmony makes for an alright choice if you play around it." MW: Velocity tags:god-pvp
+dimwishlist:item=4043921923&perks=1478423395,2822142346,951095735,438098033
+dimwishlist:item=4043921923&perks=1478423395,2822142346,951095735,1546637391
+
+
+// Edge Transit - Boss Damage (god-pve) (Holofoil)
+//notes: https://www.blueberries.gg/weapons/edge-transit-god-rolls/ Boss Damage "For PvE, we’ll begin with Quick Launch, Spike Grenades, and either a velocity or handling masterwork. From there, any veteran player knows the exact perk combo we’re going to suggest: Envious Assassin and Bait and Switch. This combination made Cataphract GL3 so popular a couple of months ago and continues to be the dominant choice for heavy grenade launchers in the current meta. The only swap we’d ever recommend making is Cascade Point instead of Envious Assassin, solely for high burst damage (or simply for fun) if that’s something you’re interested in. However, nine times out of ten, Envious Assassin is the dominant pick regardless. Recommended Loadout: The Mountaintop, Sunshot, Edge Transit." MW: Velocity or Handling tags:god-pve
+dimwishlist:item=2228325504&perks=3525010810,3301904089,968510818,3078487919
+dimwishlist:item=2228325504&perks=3525010810,3301904089,3751912585,3078487919
+
+
+// Edge Transit - All-Around (god-pvp) (Holofoil)
+//notes: https://www.blueberries.gg/weapons/edge-transit-god-rolls/ All-Around "Edge Transit simply isn’t as powerful in The Crucible, but that doesn’t stop it from excelling with the right combination of perks. Volatile Launch, High-Velocity Rounds, and a velocity masterwork allow for a nice split between velocity and blast radius, two vital stats in PvP. Impulse Amplifier is an easy pick in column one, making the weapon significantly easier to use against moving Guardians. As for your final perk, Explosive Light is our pick, although solely for the additional blast radius it offers. Realistically, this final perk doesn’t make all that big of a difference either way, so we recommend experimenting to find what works for you." MW: Velocity tags:god-pvp
+dimwishlist:item=2228325504&perks=1478423395,2822142346,951095735,3194351027
+
+
+// The Recluse - Void Build (god-pve) (Holofoil)
+//notes: https://www.blueberries.gg/weapons/the-recluse-god-rolls/ Void Build "As a compliment for your Void build, The Recluse is pretty easy: just look for subclass-related perks like Repulsor Brace, Destabilizing Rounds, and the new Desperate Measures. We find Desperate Measures to be significantly more potent than Destabilizing Rounds here, but it entirely depends on how your chosen build functions. Recommended Loadout: Scatter Signal or Tusk of the Boar, The Recluse, Commemoration." MW: Range or Stability tags:god-pve
+dimwishlist:item=3098328572&perks=1482024992,3230963543,776531651,2109543898
+dimwishlist:item=3098328572&perks=1482024992,3230963543,776531651,2048641572
+
+
+// The Recluse - Ad Clear (god-pve) (Holofoil)
+//notes: https://www.blueberries.gg/weapons/the-recluse-god-rolls/ Ad Clear "If you’re looking for raw power, Frenzy is a clear choice in the final column due to its multitude of buffs (even though other picks offer more damage). As for column one, there really isn’t anything outstanding or synergistic—that’s why we opt for Repulsor Brace since you’re likely to encounter Void debuffs from your team regardless of your chosen subclass. In contrast, if you instead feel comfortable getting up close and personal with your enemies, the combination of Threat Detector and Surrounded can’t be overlooked. While it does place you in a risky spot, both perks are extremely potent and synergize perfectly with one another. Recommended Loadout: Scatter Signal, The Recluse, Apex Predator." MW: Range or Stability tags:god-pve
+dimwishlist:item=3098328572&perks=1482024992,3230963543,776531651,4104185692
+dimwishlist:item=3098328572&perks=1482024992,3230963543,776531651,3708227201
+dimwishlist:item=3098328572&perks=1482024992,3230963543,4071163871,4104185692
+dimwishlist:item=3098328572&perks=1482024992,3230963543,4071163871,3708227201
+
+
+// The Recluse - 6v6 Modes (god-pvp) (Holofoil)
+//notes: https://www.blueberries.gg/weapons/the-recluse-god-rolls/ 6v6 Modes "Generally speaking, 6v6 Crucible modes cater more toward kill-activated perks rather than neutral ones. For that reason, we recommend Master of Arms in the final column—while not the strongest, it’s the best thing The Recluse offers. For the first column, nothing really stands out, so we recommend Dynamic Sway Reduction (that said, if another neutral perk fits your style more, this one can be easily swapped)." MW: Range tags:god-pvp
+dimwishlist:item=3098328572&perks=3250034553,1885400500,1359896290,3081867624
+
+
+// The Recluse - 3v3 Modes (god-pvp) (Holofoil)
+//notes: https://www.blueberries.gg/weapons/the-recluse-god-rolls/ 3v3 Modes "For our 3v3 roll, we’re simply looking at any perk that increases The Recluse’s consistency. Through our chosen set of perks (Dynamic Sway Reduction, Tap the Trigger, and a potent barrel and magazine), you won’t be gaining any extra damage but instead more accuracy for each shot you fire." MW: Range tags:god-pvp
+dimwishlist:item=3098328572&perks=3250034553,1885400500,1359896290,1890422124
+
+
+Handling and Reload Speed are important on Hung Jury, so we chose Fluted Barrel and Tactical Magazine for our barrel and magazine slots. Kinetic Tremors is a must-pick for PvE on Hung Jury as it helps deal some massive AoE damage, which is always handy on a Scout Rifle. Explosive Payload and Precision Instrument are both good options. Explosive Payload provides a more general buff, but Precision Instrument is better when using Hung Jury to take down a higher health target. Recommended Loadout: Hung Jury SR4, Cartesian Coordinate, Gjallarhorn." MW: Reload Speed tags:god-pve
+// Hung Jury SR4 - GMs (god-pve) (Holofoil)
+//notes: https://www.blueberries.gg/weapons/hung-jury-god-rolls/ GMs "
+dimwishlist:item=205225492&perks=1840239774,106909392,3891536761,3038247973
+dimwishlist:item=205225492&perks=1840239774,106909392,3891536761,555281244
+
+
+// Hung Jury SR4 - Ad Clear (god-pve) (Holofoil)
+//notes: https://www.blueberries.gg/weapons/hung-jury-god-rolls/ Ad Clear "Again, handling and Reload Speed are very important for the general feel of the weapon, meaning a Reload Speed Masterwork with Fluted Barrel and Tactical Mag is best. Kinetic Tremors and Firefly provide the most AoE possible on this weapon. However, Explosive Payload is a valid alternative that provides a 15% damage bonus on bodyshots and a 9% damage bonus on crits, making it a solid alternative. Recommended Loadout: Hung Jury SR4, Forbearance, Gjallarhorn." MW: Reload Speed tags:god-pve
+dimwishlist:item=205225492&perks=1840239774,106909392,3891536761,3824105627
+dimwishlist:item=205225492&perks=1840239774,106909392,3891536761,3038247973
+
+
+// Hung Jury SR4 - 3v3 Modes (god-pvp) (Holofoil)
+//notes: https://www.blueberries.gg/weapons/hung-jury-god-rolls/ 3v3 Modes "Maximising Stability is the most important thing on PvP weapons, especially in Trials where missing a shot could wind up losing your team the round, meaning Fluted Barrel, Steady Rounds, and a Stability Masterwork are preferable. In terms of perks, Rapid Hit is still the go-to option due to its Reload Speed and Stability bumps. Box Breathing is the best option for Trials, as perks that activate after a kill are often weaker in these sorts of environments. Cascade Point can be used as an okay alternative, but Box Breathing is preferred." MW: Stability tags:god-pvp
+dimwishlist:item=205225492&perks=1840239774,3177308360,247725512,2551157718
+
+
+// Hung Jury SR4 - 6v6 Modes (god-pvp) (Holofoil)
+//notes: https://www.blueberries.gg/weapons/hung-jury-god-rolls/ 6v6 Modes "Maximizing Stability in order to reduce incoming flinch is paramount in PvP, meaning Fluted Barrel and Steady Rounds are great options for our Barrel and Magazine; meanwhile, the choice between Stability or Handling for the Masterwork is up to the player. Rapid Hit is a good quality-of-life perk, providing bumps to Reload Speed and Stability. In 6v6, pairing this with Cascade Point allows you to go on killing sprees very easily, dropping the time-to-kill to 0.6s, which is blindingly fast. Box Breathing is a good alternative, but it may be too slow for a more chaotic 6v6 environment. However, on larger maps, Box Breathing can do very well." MW: Stability tags:god-pvp
+dimwishlist:item=205225492&perks=1840239774,3177308360,247725512,3751912585
+
+
+// Falling Guillotine - Uitily/Casual (god-pve) (Holofoil)
+//notes: https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/ Uitily/Casual "As always, Jagged Edge and Swordmaster’s Guard are the preferred picks for Swords as they increase damage by the highest amount, but Honed Edge isn’t awful, either. The first perk doesn’t matter too much, as the main draw of this version of Falling Guillotine is the movement capabilities of Eager Edge. However, Frenzy and Relentless Strikes are both the best options available in the first column. Building this sword with Eager Edge allows for incredible movement, especially with certain techniques like Shatterskating or Wellskating. Recommended Loadout: Riptide, Sunshot, Falling Guillotine." MW: Impact tags:god-pve
+dimwishlist:item=243425374&perks=3666208348,269888150,4104185692,2077819806
+dimwishlist:item=243425374&perks=3666208348,269888150,1749209109,2077819806
+
+
+// Falling Guillotine - DPS (god-pve) (Holofoil)
+//notes: https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/ DPS "Once again, the Blade and Guard options of Jagged Edge and Swordmaster’s Guard are quite standard. In terms of perks, there are a ton of avenues you can go down. Frenzy provides a higher damage buff, and also increases Handling, making it better on paper than Vorpal Weapon, but Vorpal Weapon doesn’t have an activation condition. For perk 2, Bait and Switch and Surrounded provide the same damage buff, but Surrounded requires enemies; meanwhile, Bait and Switch requires you to use all weapons, making it a toss-up for which will be more popular. Recommended Loadout: Witherhoard, Zaouli’s Bane, Falling Guillotine." MW: Impact tags:god-pve
+dimwishlist:item=243425374&perks=3666208348,269888150,4104185692,3708227201
+dimwishlist:item=243425374&perks=3666208348,269888150,4104185692,3078487919
+dimwishlist:item=243425374&perks=3666208348,269888150,1749209109,3708227201
+dimwishlist:item=243425374&perks=3666208348,269888150,1749209109,3078487919
+
+
+// Falling Guillotine - All-Around (god-pvp) (Holofoil)
+//notes: https://www.blueberries.gg/weapons/falling-guillotine-god-rolls/ All-Around "The Blade and Guard options don’t really matter inside of PvP, meaning players can opt for any Blade and Guard they really want. However, the perks may make a bit of a difference in certain situations. Vorpal Weapon could potentially make a difference against certain Supers that have lower damage resistance, and Eager Edge allows you to move around the map much faster, making it a fun and viable option." MW: Impact tags:god-pvp
+dimwishlist:item=243425374&perks=436053704,269888150,1546637391,2077819806
+
+
+// Hammerhead - All-Around (god-pve) (Holofoil)
+//notes: https://www.blueberries.gg/weapons/hammerhead-god-rolls/ All-Around "We’ll opt for Arrowhead Break, Appended Mag, and a Handling masterwork to get more handling and a more manageable recoil. From there, Rampage and Killing Tally is our preferred combo, as it is what makes the Hammerhead unique. Plus, this is the perfect combo if you want to go all in on the damage output. Rewind Rounds and Killing Tally is also an excellent combination, but there’s tons of room for mixing it up here. Fourth Time’s the Charm, Feeding Frenzy, and Envious Assassin all provide similar benefits to Rewind Rounds. Onslaught is also worth mentioning in the final column, which just got re-released and pairs perfectly with something like Rampage. Recommended Loadout: The Mountaintop, Sunshot, Hammerhead." MW: Handling tags:god-pve
+dimwishlist:item=211732170&perks=839105230,1087426260,3425386926,557221067
+dimwishlist:item=211732170&perks=839105230,1087426260,3425386926,95528736
+dimwishlist:item=211732170&perks=839105230,1087426260,3418782618,557221067
+dimwishlist:item=211732170&perks=839105230,1087426260,3418782618,95528736
+dimwishlist:item=211732170&perks=839105230,2420895100,3425386926,557221067
+dimwishlist:item=211732170&perks=839105230,2420895100,3425386926,95528736
+dimwishlist:item=211732170&perks=839105230,2420895100,3418782618,557221067
+dimwishlist:item=211732170&perks=839105230,2420895100,3418782618,95528736
+
+
+// Hammerhead - All-Around (god-pvp) (Holofoil)
+//notes: https://www.blueberries.gg/weapons/hammerhead-god-rolls/ All-Around "We’ll begin by opting for higher stability through Arrowhead Break, Ricochet Rounds, and a Stability masterwork. Rampage may seem like a strange choice for perk one, but its increased damage is realistically the best thing you can get out of this column for The Crucible. As for the final column, we chose Tap the Trigger since two damage perks seemed like overkill. However, if you want to try for an extremely short TTK instead of wanting more consistency, exploring other offerings in this column isn’t a bad idea." MW: Stability tags:god-pvp
+dimwishlist:item=211732170&perks=839105230,1885400500,3425386926,1890422124
+dimwishlist:item=211732170&perks=839105230,1885400500,1870851715,1890422124
+
+
+// Blast Furnace - All-Around (god-pve) (Holofoil)
+//notes: https://www.blueberries.gg/weapons/blast-furnace-god-rolls/ All-Around "Pulses in PvE have seen highs and lows, but Blast Furnace might be able to break the mold they have been in for quite some time. Its amazing base stats means not much needs to be kicked up, but its handling is objectively sub-par, so we’ll use Fluted Barrel to kick it up a notch. Pair it with Flared Magwell for a reload speed buff, as well as a slight stability bump. For perk 1, it’s a “no contest” for Kinetic Tremors. Shoot to Loot, while nice to have, feels like a waste when a free damage perk is in the same slot. Since Blast Furnace fires 4 shots a burst, it’ll only take 3 bursts to activate it, as opposed to 4 on all others. Perk 2 has a lot of good in it, but it’s a toss-up between Desperate Measures and One-For-All. Desperate Measures requires a kill with the weapon or abilities to activate, whereas One-For-All doesn’t, and will also activate from Kinetic Tremors. " MW: Handling tags:god-pve
+dimwishlist:item=2533990645&perks=1840239774,1087426260,3891536761,2109543898
+dimwishlist:item=2533990645&perks=1840239774,1087426260,3891536761,4049631843
+dimwishlist:item=2533990645&perks=1840239774,1087426260,3700496672,2109543898
+dimwishlist:item=2533990645&perks=1840239774,1087426260,3700496672,4049631843
+
+
+// Blast Furnace - 3v3s (Trials) God Roll (god-pvp) (Holofoil)
+//notes: https://www.blueberries.gg/weapons/blast-furnace-god-rolls/ 3v3s (Trials) "PvP is where Blast Furnace will shine. A base of 79 range and 64 stability puts it above all other pulses in its frame, with the only downside being the base 65 recoil, but that’s easily fixable with Arrowhead Break, which will put it to 95 before a Counterbalance Stock mods bumps it to 100. Accurized Rounds will provide a +10 to your range, which is perfect for fighting longer range weapons. Perk 1 has many good PvP perks that it’s hard to narrow them down, but Zen Moment or Headseeker are what most are going to look for. Zen Moment will keep your reticle on target throughout the duel, and Headseeker can help push the fight in your favor if you miss a crit or two. Perk 2 really only has Rapid-Hit for 3v3 modes, as all the others are kill based, but who’s going to say ‘no’ to even more stability?" MW: Stability or Handling tags:god-pvp
+dimwishlist:item=2533990645&perks=839105230,3142289711,2387244414,247725512
+dimwishlist:item=2533990645&perks=839105230,3142289711,460017080,247725512
+
+
+// Blast Furnace - 6v6s God Roll (god-pvp) (Holofoil)
+//notes: https://www.blueberries.gg/weapons/blast-furnace-god-rolls/ 6v6s "PvP is where Blast Furnace will shine. A base of 79 range and 64 stability puts it above all other pulses in its frame, with the only downside being the base 65 recoil, but that’s easily fixable with Arrowhead Break, which will put it to 95 before a Counterbalance Stock mods bumps it to 100. Accurized Rounds will provide a +10 to your range, which is perfect for fighting longer range weapons. In 6v6 modes, you’ll find more use in Keep Away or Perpetual Motion given how they play. Keep Away gives a nice range buff, but Perpetual Motion gives you free stability for simply moving around. For Perk 2, any of the kill-based perks will work best, but Kill Clip and Rampage will probably be the easiest to use. Desperate Measures gets an honorable mention, too." MW: Stability or Handling tags:god-pvp
+dimwishlist:item=2533990645&perks=839105230,3142289711,3619207468,1015611457
+dimwishlist:item=2533990645&perks=839105230,3142289711,3619207468,3425386926
+dimwishlist:item=2533990645&perks=839105230,3142289711,1428297954,1015611457
+dimwishlist:item=2533990645&perks=839105230,3142289711,1428297954,3425386926
+
+
+// Elsie's Rifle - GMs (god-pve) (Holofoil)
+//notes: https://www.blueberries.gg/weapons/elsies-rifle-god-rolls/ GMs "As previously mentioned, pulse rifles in end-game PvE aren’t that common for a variety of reasons, but they can still hold their own, with the right perks. Fluted Barrel will make it feel less clunky, and Tactical Mag provides some stability as well as an extra burst in the mag. Rewind Rounds is arguably the strongest in Column 3, given the high health of endgame enemies. Kill-based perks can be viable, but not on puls Recommended Loadout: Forerunner, Elsie’s Rifle, Apex Predator" MW: Reload Speed tags:god-pve
+dimwishlist:item=3851176026&perks=1840239774,106909392,3418782618,4104185692
+dimwishlist:item=3851176026&perks=1840239774,3230963543,3418782618,4104185692
+
+
+// Elsie's Rifle - Ad Clear (god-pve) (Holofoil)
+//notes: https://www.blueberries.gg/weapons/elsies-rifle-god-rolls/ Ad Clear "For general content, getting kills with pulses is much easier, so perks like Repulsor Brace and Destabilizing Rounds can be great for chaining an overshield, or Feeding Frenzy and Desperate Measures for pure damage output. Recommended Loadout: Any Special ammo weapon, Elsie’s Rifle, Deterministic Chaos." MW: Reload Speed tags:god-pve
+dimwishlist:item=3851176026&perks=1840239774,106909392,776531651,2048641572
+dimwishlist:item=3851176026&perks=1840239774,106909392,776531651,2109543898
+dimwishlist:item=3851176026&perks=1840239774,106909392,2779035018,2048641572
+dimwishlist:item=3851176026&perks=1840239774,106909392,2779035018,2109543898
+dimwishlist:item=3851176026&perks=1840239774,3230963543,776531651,2048641572
+dimwishlist:item=3851176026&perks=1840239774,3230963543,776531651,2109543898
+dimwishlist:item=3851176026&perks=1840239774,3230963543,2779035018,2048641572
+dimwishlist:item=3851176026&perks=1840239774,3230963543,2779035018,2109543898
+
+
+// Elsie's Rifle - 3v3 (Trials) (god-pvp) (Holofoil)
+//notes: https://www.blueberries.gg/weapons/elsies-rifle-god-rolls/ 3v3 (Trials) "High-Impacts continue to dominate the sandbox, so it’s only right that we beef this one up as much as possible. Arrowhead Break is your best barrel since the max range roll only pushes the effective TTK range by 2 meters, and being able to actually hit your shots is more important than how far they can hit. Pair with Ricochet Rounds for even more stability and a slight range bump. Zen Moment or Keep Away are equally good, but keep in mind that Keep Away drops the moment a single person is close by, though the range buff is quite nice. Headseeker will help keep your shots on target in the event you hit a body shot." MW: Range tags:god-pvp
+dimwishlist:item=3851176026&perks=839105230,1885400500,2387244414,460017080
+dimwishlist:item=3851176026&perks=839105230,1885400500,3619207468,460017080
+
+
+// Elsie's Rifle - 6v6 (god-pvp) (Holofoil)
+//notes: https://www.blueberries.gg/weapons/elsies-rifle-god-rolls/ 6v6 "High-Impacts continue to dominate the sandbox, so it’s only right that we beef this one up as much as possible. Arrowhead Break is your best barrel since the max range roll only pushes the effective TTK range by 2 meters, and being able to actually hit your shots is more important than how far they can hit. Pair with Ricochet Rounds for even more stability and a slight range bump. The only real difference here are the perks. Desperado, though nerfed, is still an excellent perk when multiple targets are available at once, letting you take full advantage of your temporary 600 RPM pulse rifle. Kill Clip is also great, providing a 25% damage buff that can be refreshed!" MW: Range tags:god-pvp
+dimwishlist:item=3851176026&perks=839105230,1885400500,2387244414,3047969693
+dimwishlist:item=3851176026&perks=839105230,1885400500,2387244414,1015611457
+dimwishlist:item=3851176026&perks=839105230,1885400500,3619207468,3047969693
+dimwishlist:item=3851176026&perks=839105230,1885400500,3619207468,1015611457
+
+
+// Midnight Coup - All-Around (god-pve) (Holofoil)
+//notes: https://www.blueberries.gg/weapons/midnight-coup-god-rolls/ All-Around "As always, Fluted Barrel is the go-to for our barrel option as it provides a good amount of Handling, making the weapon feel much nicer. On top of this, we can opt for Appended Mag as we already have Reload Speed from either Firefly or Frenzy, no matter which alternate perk you go for. Firefly provides some much-needed AoE damage as Hand Cannons typically struggle with add-clear, but Explosive is a decent utility-based alternative. Frenzy is generally the best all-round option as it also works with Explosive Payload, but One for All has great synergy with Firefly, making it a valid alternative when paired with an AoE perk. Recommended Loadout: Midnight Coup, Forbearance, or any Fusion Rifle, Gjallarhorn." MW: Handling tags:god-pve
+dimwishlist:item=2499720827&perks=1840239774,1087426260,3824105627,4104185692
+dimwishlist:item=2499720827&perks=1840239774,1087426260,3824105627,4049631843
+dimwishlist:item=2499720827&perks=1840239774,1087426260,3038247973,4104185692
+dimwishlist:item=2499720827&perks=1840239774,1087426260,3038247973,4049631843
+
+
+// Midnight Coup - All-Around (god-pvp) (Holofoil)
+//notes: https://blueberries.gg/weapons/midnight-coup-god-rolls/ All-Around "Range and Stability is the name of the game on PvP Hand Cannons, meaning Smallbore and Accurised Rounds are the best picks for our barrel and magazine slots. Explosive Payload is generally the best available option on Hand Cannons as they artificially extend range while also flinching the opponent more, however, some may not like the feel of Explosive Payload, making Moving Target a great alternative. Zen Moment and Opening Shot are both brilliant options in the second column. Zen Moment provides a lot of consistency and makes the gun easier to use, but some may prefer the advantages of Opening Shot instead." MW: Range tags:god-pvp
+dimwishlist:item=2499720827&perks=1482024992,3142289711,3038247973,2387244414
+dimwishlist:item=2499720827&perks=1482024992,3142289711,3038247973,47981717
+dimwishlist:item=2499720827&perks=1482024992,3142289711,588594999,2387244414
+dimwishlist:item=2499720827&perks=1482024992,3142289711,588594999,47981717
+
+
+// Luna's Howl - Ad Clear (god-pve) (Holofoil)
+//notes: https://www.blueberries.gg/weapons/lunas-howl-god-rolls/ Ad Clear "PvE is awash with people using Solar hand cannons right now, namely Zaouli’s and Sunshot, so this is a perfect placeholder for them. As with most PvE weapons, run Fluted Barrel for a handling bump and Flared Magwell for the reload speed. You could opt for Light Mag if you want the range, though that’s not really necessary. Perk 1 has solid PvP options, but only one really good perk for PvE: Heal Clip. Now that this heals 120 HP instead of the 60 it used to, Heal Clip is perfect for survivability builds. If that isn’t your dig, Enlightened Action can help speed up the reloads. For perk 2, Incandescent or Desperate Measures are the best. Incandescent for the scorch damage, Desperate Measures for raw damage." MW: Reload Speed tags:god-pve
+dimwishlist:item=3757612024&perks=1840239774,3230963543,3017780555,4293542123
+dimwishlist:item=3757612024&perks=1840239774,3230963543,3017780555,2109543898
+dimwishlist:item=3757612024&perks=1840239774,3230963543,3828510309,4293542123
+dimwishlist:item=3757612024&perks=1840239774,3230963543,3828510309,2109543898
+
+
+// Luna's Howl - 3v3 (Trials) (god-pvp) (Holofoil)
+//notes: https://www.blueberries.gg/weapons/lunas-howl-god-rolls/ 3v3 (Trials) "PvP has long awaited the return of Luna’s, and to ensure it performs at its peak, we’ll be bumping its range as far as we can take it. Hammer-Forged Rifling gives the best range buff without losing any other stats, and Ricochet Rounds gives a little more while buffing stability. Perk 1 has some very good options for PvP, some of the best for hand cannons, actually. Eye of the Storm will be a duelists’ dream for the accuracy bonuses, and Slideshot for the true peek-shoot players. Perk 2 has some great choices, but the two that standout for 3’s are Precision Instrument and Opening Shot. Precision can push the 3-tap range out through the damage buff, and Opening Shot can take the range to 100 when paired with Slideshot!" MW: Range tags:god-pvp
+dimwishlist:item=3757612024&perks=3250034553,1885400500,699525795,555281244
+dimwishlist:item=3757612024&perks=3250034553,1885400500,699525795,47981717
+dimwishlist:item=3757612024&perks=3250034553,1885400500,3161816588,555281244
+dimwishlist:item=3757612024&perks=3250034553,1885400500,3161816588,47981717
+
+
+// Luna's Howl - 6v6 (god-pvp) (Holofoil)
+//notes: https://www.blueberries.gg/weapons/lunas-howl-god-rolls/ 6v6 "PvP has long awaited the return of Luna’s, and to ensure it performs at its peak, we’ll be bumping its range as far as we can take it. Hammer-Forged Rifling gives the best range buff without losing any other stats, and Ricochet Rounds gives a little more while buffing stability. For 6’s, it’s a toss up between Encore or Eye of the Storm. Encore at max stacks gives a +20 to range and +40 to stability, which is easy to achieve given how many players are on the field. For Perk 2, take your pick from any of the damage perks. Mag Howl will pair nicely with Encore given the need for precision final blows, but really anything works here if you are comfortable with it." MW: Range tags:god-pvp
+dimwishlist:item=3757612024&perks=3250034553,1885400500,1195158366,2720533289
+dimwishlist:item=3757612024&perks=3250034553,1885400500,1195158366,1015611457
+dimwishlist:item=3757612024&perks=3250034553,1885400500,699525795,2720533289
+dimwishlist:item=3757612024&perks=3250034553,1885400500,699525795,1015611457
+
+
+// Succession - Champion & Boss Damage (god-pve) (Holofoil)
+//notes: https://www.blueberries.gg/weapons/succession-god-rolls/ Champion & Boss Damage "For PvE, we’ll start Succession off by opting for Fluted Barrel, Extended Mag, and Handling. While Extended Mag is typically an unpopular choice, you’ll never be affected by the slow reload speed with the perk combination we’re going for, so the extra bullet in the magazine is worth it. Speaking of our perk choices, we’re going for the classic combo of Reconstruction and Recombination. While Firing Line is a close contender in the second column (if you’re in a fireteam), Recombination’s buffed shot is simply too potent in such a wide range of scenarios. Recommended Loadout: Succession, Sunshot, Apex Predator." MW: Handling tags:god-pve
+dimwishlist:item=570866107&perks=1840239774,2420895100,1523832109,469285294
+dimwishlist:item=570866107&perks=1840239774,2420895100,1523832109,1771339417
+dimwishlist:item=570866107&perks=1840239774,2420895100,1556840489,469285294
+dimwishlist:item=570866107&perks=1840239774,2420895100,1556840489,1771339417
+
+
+// Succession - All-Around (god-pvp) (Holofoil)
+//notes: https://www.blueberries.gg/weapons/succession-god-rolls/ All-Around "In The Crucible, Succession’s god roll is relatively simple. Start by opting for high handling, range, and stability through Fluted Barrel, Accurized Rounds, and a handling masterwork. Jumping over to perk two, Snapshot Sights is the clear winner, a perk that is basically necessary on any sniper you plan on using in PvP. As for perk one, our choice is Moving Target. However, if you have a habit of standing still while finding the perfect shot, something like Firmly Planted or No Distractions may be for you." MW: Handling tags:god-pvp
+dimwishlist:item=570866107&perks=1840239774,3142289711,588594999,957782887
+
+
+
+title: youtube intothelight Weapons
 
 
 //THE MOUNTAINTOP
