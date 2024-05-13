@@ -966,6 +966,55 @@ dimwishlist:item=211732170&perks=1482024992,2420895100,1354429876,365154968
 dimwishlist:item=211732170&perks=1482024992,2420895100,3418782618,365154968
 
 
+// Blast Furnace (god-pvp,controller)
+//notes: rewind96 (https://www.youtube.com/watch?v=XB-GydNS4eY) mw: reload tags:god-pvp,controller
+dimwishlist:item=2372514508&perks=839105230,106909392,460017080,1015611457
+
+
+// Luna's Howl (god-pve)
+//notes: giornogaming (https://www.youtube.com/watch?v=3eMpOl7oSZY) tags:god-pve
+dimwishlist:item=2763843899&perks=1840239774,3230963543,3017780555,4293542123
+dimwishlist:item=2763843899&perks=1840239774,3230963543,1820235745,4293542123
+dimwishlist:item=2763843899&perks=1840239774,3230963543,3828510309,4293542123
+
+
+// Luna's Howl (god-pvp)
+//notes: giornogaming (https://www.youtube.com/watch?v=3eMpOl7oSZY) | rewind96 (https://www.youtube.com/watch?v=DxP6MTvaGRY) mw: range tags:god-pvp
+dimwishlist:item=2763843899&perks=3250034553,1885400500,3161816588,2720533289
+
+
+// Luna's Howl (pvp)
+//notes: giornogaming (https://www.youtube.com/watch?v=3eMpOl7oSZY) 3v3 tags:pvp
+dimwishlist:item=2763843899&perks=3250034553,1885400500,699525795,47981717
+dimwishlist:item=2763843899&perks=3250034553,1885400500,699525795,555281244
+dimwishlist:item=2763843899&perks=3250034553,1885400500,1195158366,47981717
+dimwishlist:item=2763843899&perks=3250034553,1885400500,1195158366,555281244
+
+
+// Blast Furnace (god-pvp,controller) (Holofoil)
+//notes: rewind96 (https://www.youtube.com/watch?v=XB-GydNS4eY) mw: reload tags:god-pvp,controller
+dimwishlist:item=2533990645&perks=839105230,106909392,460017080,1015611457
+
+
+// Luna's Howl (god-pve) (Holofoil)
+//notes: giornogaming (https://www.youtube.com/watch?v=3eMpOl7oSZY) tags:god-pve
+dimwishlist:item=3757612024&perks=1840239774,3230963543,3017780555,4293542123
+dimwishlist:item=3757612024&perks=1840239774,3230963543,1820235745,4293542123
+dimwishlist:item=3757612024&perks=1840239774,3230963543,3828510309,4293542123
+
+
+// Luna's Howl (god-pvp) (Holofoil)
+//notes: giornogaming (https://www.youtube.com/watch?v=3eMpOl7oSZY) | rewind96 (https://www.youtube.com/watch?v=DxP6MTvaGRY) mw: range tags:god-pvp
+dimwishlist:item=3757612024&perks=3250034553,1885400500,3161816588,2720533289
+
+
+// Luna's Howl (pvp) (Holofoil)
+//notes: giornogaming (https://www.youtube.com/watch?v=3eMpOl7oSZY) 3v3 tags:pvp
+dimwishlist:item=3757612024&perks=3250034553,1885400500,699525795,47981717
+dimwishlist:item=3757612024&perks=3250034553,1885400500,699525795,555281244
+dimwishlist:item=3757612024&perks=3250034553,1885400500,1195158366,47981717
+dimwishlist:item=3757612024&perks=3250034553,1885400500,1195158366,555281244
+
 
 
 
