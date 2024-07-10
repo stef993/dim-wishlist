@@ -4,28 +4,26 @@ title:ergo sum
 
 // Ergo Sum (god-pve)
 //notes: https://www.blueberries.gg/weapons/ergo-sum-god-rolls-catalyst/ DPS & Teamplay "Jagged Edge is almost always perfect for Swords as it boosts our Sword damage, and Swordmaster’s Guard is best for Heavy Attack recharge rate. A Lightweight Frame is also good here, as it deals the highest base level of DPS. Making sure we have a Void element to match with Falling Guillotine is important, and Wolfpack Rounds is a must so we can boost everyone’s Sword damage." Element: Void, Exotic Trait: Wolfpack Rounds tags:god-pve
-dimwishlist:item=1681583613&perks=3666208348,269888150,2753228730,2963428707
-dimwishlist:item=1681583613&perks=2827049491,269888150,2753228730,2963428707
+dimwishlist:item=1681583613&perks=1959135343,3666208348,269888150,2753228730,2963428707
 
 
 // Ergo Sum (god-pve)
 //notes: https://www.blueberries.gg/weapons/ergo-sum-god-rolls-catalyst/ Ad Clear & Solo "Again, Jagged Edge is important for the damage bonus it provides, and Swordmaster’s Guard is the best pick for increased powered heavy attack uptime. This roll is for if you actually want to deal damage with the Ergo Sum itself. While the Pack Hunter roll is great for supporting, Ergo Sum can deal outrageous damage thanks to the Transcendent Duelist perk. With the 51% damage bonus from this perk, alongside The Perfect Fifth, Ergo Sum can easily keep up with perfectly rolled Heavy Swords." Element: Solar, Exotic Trait: The Perfect Fifth tags:god-pve
-dimwishlist:item=1681583613&perks=3666208348,269888150,519046634,2963428707
-dimwishlist:item=1681583613&perks=2827049491,269888150,519046634,2963428707
+dimwishlist:item=1681583613&perks=1522566605,3666208348,269888150,519046634,2963428707
 
 
 // Ergo Sum (pvp)
 //notes: https://www.blueberries.gg/weapons/ergo-sum-god-rolls-catalyst/ All-Around "Ergo Sum in PvP is rather niche, but it definitely has its moments where it can shine. Wave Sword Frame is a must here as it can almost guarantee two kills with one special ammo if you land the Wave. This allows you to then rapidly swing onto another nearby enemy, even if you have no ammo. While this combo is deadly, it’s important to remember that you are very vulnerable while wielding a Sword, and players can keep their distance from you, so try to use cover and bait targets." Element: Arc, Exotic Trait: Arc Conductor tags:pvp
-dimwishlist:item=1681583613&perks=436053704,269888150,289811733,2963428707
-dimwishlist:item=1681583613&perks=1261178282,269888150,289811733,2963428707
+dimwishlist:item=1681583613&perks=3949068808,436053704,269888150,289811733,2963428707
 
 
 // Ergo Sum (pve)
 //notes: https://old.reddit.com/r/DestinyTheGame/comments/1dshvst/ergo_sum_preferred_frame_discussion/ add clear. Wave+Sacred Flame for Solar, Wave/Lightweight+Arc Conductor for Arc (Stormbringer didn't feel very good), Wave+Insectoid Robot Grenades for Void (feels like Hatchling), Lightweight frame might be best for Wolfpack as the attack feels the fastest (haven't measured though) tags:pve
-dimwishlist:item=1681583613&perks=3666208348,269888150,289811733,2963428707
-dimwishlist:item=1681583613&perks=3666208348,269888150,2753228730,2963428707
-dimwishlist:item=1681583613&perks=1261178282,269888150,289811733,2963428707
-dimwishlist:item=1681583613&perks=1261178282,269888150,2753228730,2963428707
+dimwishlist:item=1681583613&perks=3034060702,3666208348,269888150,289811733,2963428707
+dimwishlist:item=1681583613&perks=3949068808,3666208348,269888150,289811733,2963428707
+dimwishlist:item=1681583613&perks=3949068808,3666208348,269888150,2753228730,2963428707
+dimwishlist:item=1681583613&perks=3325420353,3666208348,269888150,289811733,2963428707
+dimwishlist:item=1681583613&perks=1959135343,3666208348,269888150,2753228730,2963428707
 
 
 
