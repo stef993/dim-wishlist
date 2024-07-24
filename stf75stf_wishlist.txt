@@ -1,5 +1,15 @@
 title: stf75stf wishlist
 
+
+
+title:misurazione a vista
+
+// Sightline Survey (pvp)
+//notes: rewind96 https://www.youtube.com/watch?v=p97_yp4xeMM tags:pvp
+dimwishlist:item=2350330520&perks=1482024992,3142289711,2451262963,555281244
+dimwishlist:item=2350330520&perks=1482024992,3142289711,3619207468,555281244
+
+
 title:Azione Aberrante
 
 // Aberrant Action (god-pve)
