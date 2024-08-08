@@ -2,6 +2,68 @@ title: stf75stf wishlist
 
 
 
+title:aurora
+
+// Something New (god-pve)
+//notes: https://www.blueberries.gg/weapons/something-new-god-rolls/ class B "For PvE, our primary goal is to make the weapon feel smoother to use. As a result, we’ll opt for Fluted Barrel, Tactical Mag, and either a handling or stability masterwork (purely dependent on your preference). Demolitionist is a rare sight in the third column, so we’ll opt for that. This is especially strong when combined with Frenzy in the final column, which increases all the stats that matter." Masterwork	Handling or Stability tags:god-pve
+dimwishlist:item=586671776&perks=1840239774,106909392,3523296417,4104185692,1380061575
+dimwishlist:item=586671776&perks=1840239774,106909392,247725512,4104185692,1380061575
+
+
+// Something New (god-pvp)
+//notes: https://www.blueberries.gg/weapons/something-new-god-rolls/ class B "For our Crucible roll, we’ll start with Fluted Barrel, Accurized Rounds, and a range masterwork to increase the range a bit more while also gaining passive stability and handling buffs. Rapid Hit is a solid pick for the third column, significantly increasing stability and reload speed. Finally, Precision Instrument is our pick for the final column, allowing the weapon to kill with 2 critical hits and 1 body shot against all Resilience levels." Masterwork	Range tags:god-pvp
+dimwishlist:item=586671776&perks=1840239774,3142289711,247725512,555281244,1380061575
+
+
+// Fortunate Star (god-pve)
+//notes: https://www.blueberries.gg/weapons/fortunate-star-god-rolls/ class A "With a combination of Agile Bowstring, Compact Arrow Shaft, and Handling Masterwork, we can boost Fortunate Star to a smooth 100 handling that feels lovely to use. We like the Void Repulsor Brace and Destabilizing Rounds combo for our perk combinations. Destabilizing Rounds provides some AoE through the volatile explosions, allowing it to clear out groups of enemies more efficiently than just firing the bow itself. However, if you aren’t interested in leaning fully into Void, Archer’s Tempo and Golden Tricorn are acceptable alternatives due to the draw speed from Archer’s Tempo and up to a 50% damage buff with Golden Tricorn." Masterwork	Handling tags:god-pve
+dimwishlist:item=2326578623&perks=3768438372,16392701,776531651,2048641572,3988215619
+dimwishlist:item=2326578623&perks=3768438372,16392701,776531651,2610012052,3988215619
+dimwishlist:item=2326578623&perks=3768438372,16392701,201365942,2048641572,3988215619
+dimwishlist:item=2326578623&perks=3768438372,16392701,201365942,2610012052,3988215619
+
+
+// Fortunate Star (god-pvp)
+//notes: https://www.blueberries.gg/weapons/fortunate-star-god-rolls/ class B "Agile Bowstring and Straight Fletching give us a good mix of Handling, Stability, and Accuracy. We also dip into Draw Time with our Draw Time Masterwork and Veist Stinger Origin Trait, which massively improves the feel of the weapon. Hip-Fire Grip and Opening Shot are both very consistent additions to the weapon, making it feel much easier to use. Archer’s Tempo is a solid alternative to Hip-Fire Grip as it helps with our Draw Time, making the bow more consistent in duels." Masterwork	Draw Time tags:god-pvp
+dimwishlist:item=2326578623&perks=3768438372,3827198035,1866048759,47981717,3988215619
+dimwishlist:item=2326578623&perks=3768438372,3827198035,1866048759,3414324643,3988215619
+dimwishlist:item=2326578623&perks=3768438372,3827198035,201365942,47981717,3988215619
+dimwishlist:item=2326578623&perks=3768438372,3827198035,201365942,3414324643,3988215619
+
+
+// Crowning Duologue (god-pve)
+//notes: https://www.blueberries.gg/weapons/crowning-duologue-god-rolls/ class A "Quick Launch is the best barrel option here, thanks to the healthy boost to velocity and handling it provides. Given that we are opting for Bait and Switch, having good Handling is key so we can swap quickly, so a Handling Masterwork is nice to have, too. Reconstruction is definitely the ideal option for perk slot one, but Auto-Loading Holster is an acceptable replacement. Bait and Switch is the go-to for perk slot two, though, as it provides a 30% damage bonus." Masterwork: Handling (also good: Velocity) tags:god-pve
+dimwishlist:item=4106757302&perks=3525010810,3796465595,1523832109,3078487919,1607056502
+dimwishlist:item=4106757302&perks=3525010810,3796465595,3300816228,3078487919,1607056502
+
+
+// Crowning Duologue (god-pvp)
+//notes: https://www.blueberries.gg/weapons/crowning-duologue-god-rolls/ class A "Maximising Velocity is important here, so we use Quick Launches, High-Velocity Rounds, and a Velocity Masterwork to give an enemy as little time as possible to get out of the way of the Rocket. To further this, Impulse Amplifier boosts our Velocity even further, and Cluster Bombs help with some AoE damage to finish off some kills in case our initial Rocket doesn’t score the kill." Masterwork	Velocity tags:god-pvp
+dimwishlist:item=4106757302&perks=3525010810,2822142346,951095735,1275731761,1607056502
+
+
+// Compass Rose (god-pve)
+//notes: https://www.blueberries.gg/weapons/compass-rose-god-rolls/ class B "Fluted Barrel and Tactical Mag are the best picks for our Barrel and Magazine as they help boost our Handling and Reload Speed, respectively. This, combined with a Handling Masterwork, makes Compass Rose feel very nice to use. For our perks, Grave Robber is the only standout option in perk slot one due to its synergy with Trench Barrel and One-Two Punch, which are our picks for perk slot two due to the strength of melee-focused builds right now." Masterwork	Handling tags:god-pve
+dimwishlist:item=4169225313&perks=1840239774,106909392,1631667848,2679249093,1380061575
+dimwishlist:item=4169225313&perks=1840239774,106909392,1631667848,2360754333,1380061575
+
+
+// Compass Rose (god-pvp)
+//notes: https://www.blueberries.gg/weapons/compass-rose-god-rolls/ class S "The barrel choice on this Shotgun is incredibly interesting. While we think Smallbore is the safest option all-around due to the small bump to Stability and Range, there is an argument to be made for Full Bore. Slickdraw boosts our Handling high enough, and the extra range from Full Bore could be good, too. Fluted Barrel is another option that is good if you decide to go for Threat Detector over Slickdraw so you have better base handling. Accurised Rounds is a no-brainer for the magazine slot due to the flat increase in Compass Rose’s range. Slickdraw is a very exciting perk to have on a Shotgun because it boosts our Handling to 100 while also improving the ready animation speed. However, if you don’t like the feel of Slickdraw, Threat Detector is a suitable alternative. Opening Shot is the winner in the second perk slot because it maxes out our range stat, capping it at 6.71m. However, Snapshot Sights is a personal favorite of mine as it simply makes any and all weapons feel amazing to use, so definitely consider that as an alternative." Masterwork	Range tags:god-pvp
+dimwishlist:item=4169225313&perks=1482024992,3142289711,1821614984,47981717,1380061575
+dimwishlist:item=4169225313&perks=1482024992,3142289711,1821614984,957782887,1380061575
+dimwishlist:item=4169225313&perks=1482024992,3142289711,4071163871,47981717,1380061575
+dimwishlist:item=4169225313&perks=1482024992,3142289711,4071163871,957782887,1380061575
+dimwishlist:item=4169225313&perks=1840239774,3142289711,1821614984,47981717,1380061575
+dimwishlist:item=4169225313&perks=1840239774,3142289711,1821614984,957782887,1380061575
+dimwishlist:item=4169225313&perks=1840239774,3142289711,4071163871,47981717,1380061575
+dimwishlist:item=4169225313&perks=1840239774,3142289711,4071163871,957782887,1380061575
+dimwishlist:item=4169225313&perks=202670084,3142289711,1821614984,47981717,1380061575
+dimwishlist:item=4169225313&perks=202670084,3142289711,1821614984,957782887,1380061575
+dimwishlist:item=4169225313&perks=202670084,3142289711,4071163871,47981717,1380061575
+dimwishlist:item=4169225313&perks=202670084,3142289711,4071163871,957782887,1380061575
+
+
 title:misurazione a vista
 
 // Sightline Survey (pvp)
