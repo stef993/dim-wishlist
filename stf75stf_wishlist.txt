@@ -2,6 +2,37 @@ title: stf75stf wishlist
 
 
 
+
+title:patto
+
+//notes: blueberries.gg/armor/relativism-god-rolls/ "The combination of Spirit of Caliban and Spirit of the Liar is a pretty deadly combo as it takes the incredibly high damage from Liar’s Handshake and the explosive capabilities of Caliban’s Hand and meshes them together to create one of the best AoE, high damage builds in the entire game. The Combination Blow and Gambler’s Dodge loop works perfectly with this build and allows you to dive into the fight, deal ridiculous melee damage against a tanky enemy, and watch the enemies around it ignite in a high-damage explosion."
+dimwishlist:item=2809120022&perks=3751917996,3751917992
+
+//notes: blueberries.gg/armor/relativism-god-rolls/ "This combination is geared much more towards PvP players, as it massively improves the neutral game by taking the high handling speed bonus of Ophidian Aspect on Warlock and pairing it with Wormhusk’s Crown’s heal-on-dodge. This combo is a major quality-of-life roll, and is brilliant for Hunters that want some direct bonuses without having to worry about build crafting."
+dimwishlist:item=2809120022&perks=1476923954,3751917991
+
+//notes: blueberries.gg/armor/relativism-god-rolls/ "Spirit of Renewal and Spirit of the Cyrtarachne will allow you to turn into the tankiest Hunter the world has ever seen. By using Duskfield Grenades alongside this combo, throwing a Duskfield at your feet will grant you Woven Mail from Cyrtarachne and damage-reducing properties of Duskfield Grenades, when combined with Renewal, will make you outrageously tanky."
+dimwishlist:item=2809120022&perks=3751917995,3751917994
+
+
+//notes: blueberries.gg/armor/solipsism-god-rolls/ "Combining the effects of Heart of Inmost Light and Verity’s Brow, this roll is easily the strongest for general gameplay and can complement any build or loadout you pair it with. With both enhanced ability regeneration and bonus grenade damage, this roll could even be considered a build simply on its own."
+dimwishlist:item=2273643087&perks=1476923953,1476923957
+
+//notes: blueberries.gg/armor/solipsism-god-rolls/ "While slightly more niche in its use cases, this roll is outstanding when paired with a melee-focused build. Karnstein Armlets do give this combination a run for its money, but there’s definitely room for both to shine in today’s meta."
+dimwishlist:item=2273643087&perks=1476923952,1476923956
+
+//notes: blueberries.gg/armor/solipsism-god-rolls/ "This final roll is primarily meant for boss damage scenarios. Spirit of the Star-Eater offers increased Super damage, which can then be followed by Spirit of Apotheosis’ increased ability regeneration after using your Super."
+dimwishlist:item=2273643087&perks=183430250,1476923955
+
+
+//notes: blueberries.gg/armor/stoicism-god-rolls/ "This combo is the more survivable version of Spirit of Inmost Light and Synthoceps. The invisibility from Assassin will activate on Consecration slams, allowing you to get away safely after slamming down with your Solar attack. Synthoceps is again present as a damage-boosting source, allowing you to take down some tankier targets."
+dimwishlist:item=266021826&perks=1476923952,1476923956
+
+//notes: blueberries.gg/armor/stoicism-god-rolls/ "This combo wants to focus on the Unbreakable Aspect, utilizing the bonus damage from Verity combined with the super regeneration properties of Bear. This combo allows you to chunk a target after using your Unbreakable Grenade while also regenerating super energy constantly. Pair this with a Void Demolitionist weapon and Grenade-regenerating mods, and you will have a loop that is incredibly satisfying and fun to do, all while holding the frontline with your Unbreakable shield."
+dimwishlist:item=266021826&perks=3573490505,1476923957
+
+
+
 title:aurora
 
 // Something New (god-pve)
