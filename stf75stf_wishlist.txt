@@ -33,6 +33,19 @@ dimwishlist:item=266021826&perks=3573490505,1476923957
 
 
 
+//notes: giorno "armi fanno più danno dopo super" https://www.youtube.com/watch?v=VMeUlVa4LtA
+dimwishlist:item=2809120022&perks=3751917997,1476923955
+
+//notes: giorno "vuoto" https://www.youtube.com/watch?v=VMeUlVa4LtA
+dimwishlist:item=2809120022&perks=3751917998,3751917993
+
+//notes: giorno "barricate + aspetto strand" https://www.youtube.com/watch?v=VMeUlVa4LtA
+dimwishlist:item=266021826&perks=3573490508,3573490506
+
+//notes: giorno "melee danni nel tempo" https://www.youtube.com/watch?v=VMeUlVa4LtA
+dimwishlist:item=2273643087&perks=183430252,1476923956
+
+
 title:aurora
 
 // Something New (god-pve)
