@@ -2,6 +2,1233 @@ title: stf75stf wishlist
 
 
 
+title:blueberries.gg s26
+
+// Boondoggle Mk. 55 (god-pve)
+//notes: blueberries.gg/weapons/boondoggle-mk-55-god-rolls/ PvE Roll: All-Around (C) "Boondoggle Mk. 55 really isn’t worth running in PvE, but we can still increase its potency for one specific niche. Start with Fluted Barrel, Flared Magwell, and a Reload Speed masterwork to round out the weapon’s stats. We’ll then go for Pugilist and Swashbuckler in the main two perk slots, creating a combination that, while generally weak, can complement some melee builds nicely." Masterwork	Reload Speed tags:god-pve
+dimwishlist:item=32287609&perks=1840239774,3230963543,691659142,4082225868
+
+
+// Boondoggle Mk. 55 (god-pvp)
+//notes: blueberries.gg/weapons/boondoggle-mk-55-god-rolls/ PvP Roll: All-Around (S) "To increase Boondoggle’s effective range, we’ll start with Smallbore, Ricochet Rounds, and either a stability or range masterwork. A solid combination of both of these stats allows for decreased damage falloff and recoil, bridging the gap between SMGs and longer-range options. From there, Encore in the third column provides more of the same after every kill. Adagio then wraps up our roll, offering a decreased time-to-kill for the same requirement as Encore (a single kill)." Masterwork	Range or Stability tags:god-pvp
+dimwishlist:item=32287609&perks=1482024992,1885400500,1195158366,3673922083
+
+
+// Joxer's Longsword (god-pve)
+//notes: blueberries.gg/weapons/joxers-longsword-god-rolls/ PvE Roll: All-Around (S) "Handling is among the most beneficial stats for PvE, which is why we’ll opt for Fluted Barrel, Tactical Mag, and a handling masterwork. That said, your barrel can be swapped for Arrowhead Brake for better recoil direction and your masterwork can be traded for reload speed, if desired. For our main two perks, going for Repulsor Brace and Destabilizing Rounds is hard to argue against. While this combo was previously barely above average, the recent buff to Destabilizing Rounds allows Joxer’s Longsword to be a slightly less potent version of both Graviton Lance and Collective Obligation." Masterwork	Handling or Reload Speed tags:god-pve
+dimwishlist:item=157601190&perks=1840239774,1087426260,776531651,2048641572
+
+
+// Joxer's Longsword (god-pvp)
+//notes: blueberries.gg/weapons/joxers-longsword-god-rolls/ PvP Roll: All-Around (A) "We’ll start our PvP roll out with Arrowhead Brake, Steady Rounds, and a range masterwork to add a bit more consistency through the weapon’s base stats. Lone Wolf is the best option for column one, offering some extra aim assistance even when not fully active. As for our second perk, Headseeker is a great choice that you can feel working while also not having a niche activation requirement." Masterwork	Range tags:god-pvp
+dimwishlist:item=157601190&perks=839105230,1561002382,2579169598,460017080
+
+
+// Joxer's Longsword (pve)
+//notes: blueberries.gg/weapons/joxers-longsword-god-rolls/ PvE Roll: All-Around (S) "Handling is among the most beneficial stats for PvE, which is why we’ll opt for Fluted Barrel, Tactical Mag, and a handling masterwork. That said, your barrel can be swapped for Arrowhead Brake for better recoil direction and your masterwork can be traded for reload speed, if desired. For our main two perks, going for Repulsor Brace and Destabilizing Rounds is hard to argue against. While this combo was previously barely above average, the recent buff to Destabilizing Rounds allows Joxer’s Longsword to be a slightly less potent version of both Graviton Lance and Collective Obligation." Masterwork	Handling or Reload Speed tags:pve
+dimwishlist:item=157601190&perks=1840239774,1087426260,776531651,2048641572
+dimwishlist:item=157601190&perks=839105230,1087426260,776531651,2048641572
+
+
+// Joxer's Longsword (pvp)
+//notes: blueberries.gg/weapons/joxers-longsword-god-rolls/ PvP Roll: All-Around (A) "We’ll start our PvP roll out with Arrowhead Brake, Steady Rounds, and a range masterwork to add a bit more consistency through the weapon’s base stats. Lone Wolf is the best option for column one, offering some extra aim assistance even when not fully active. As for our second perk, Headseeker is a great choice that you can feel working while also not having a niche activation requirement." Masterwork	Range tags:pvp
+dimwishlist:item=157601190&perks=839105230,1561002382,2579169598,460017080
+dimwishlist:item=157601190&perks=839105230,1561002382,1194056669,460017080
+
+
+// Crimil's Dagger (god-pve)
+//notes: blueberries.gg/weapons/crimils-dagger-god-rolls/ PvE Roll: All-Around (C) "We recommend Fluted Barrel, as it provides a much-needed boost to the weapons’ Stability and Handling, and Tactical Mag, as it also provides Stability while helping with the Reload Speed of 120 Hand Cannons. Enlightened Action is recommended for the same reason, helping with the Reload Speed and also providing a much-needed boost to the Handling of the weapon. Explosive Payload is a good option in general as it boosts the weapon’s total damage output and also negates the majority of damage drop-off. Stability is the recommended option for masterwork as Range is not a necessity in PvE. The Handling with maximum stacks of Enlightened Action sits at 96, and the Reload Speed is reduced by over a full second." Masterwork	Stability tags:god-pve
+dimwishlist:item=198854575&perks=1840239774,106909392,3828510309,3038247973,1607056502
+
+
+// Crimil's Dagger (god-pvp)
+//notes: blueberries.gg/weapons/crimils-dagger-god-rolls/ PvP Roll: All-Around (A) "Fluted Barrel is recommend due to the weapon lacking in Stability and Handling at base stats. Accurized Rounds is recommended due to the increase in Range provided. We recommend Slideways as it provides a +20 stat boost to Stability and Handling (+25 Enhanced), and also partially refills the magazine which is very useful on 120 Hand Cannons due to the slow reload speed. Moving Target can also be used, sacrificing the boost to Stability and Handling for an increase in Aim Assist, making it much easier to hit your shots, allowing for more consistent 3 shot kills. We recommend Adagio, especially in 6v6 playlists. This is due to a relatively recent buff to 120 RPM Hand Cannons, where Precision Instrument is no longer required for 2 Headshot 1 Bodyshot kills. Adagio has very high potential as once active, it can kill in just 2 Headshots, with a 0.6 second time to kill. Zen Moment is also a viable option as it increases the weapon’s Stability, making it much easier to hit follow up shots. Range masterwork is preferred as the boost provides nearly 1.5m of extra range, and once Slideways has been activated, the low Stability and Handling becomes less of an issue due to the stat boost. Skulking Wolf is the preferred option as the removal of your blip from radar allows you to reposition and recover from the previous gunfight." Masterwork	Range tags:god-pvp
+dimwishlist:item=198854575&perks=1840239774,3142289711,2039302152,3673922083,3989629871
+
+
+// Crimil's Dagger (pvp)
+//notes: blueberries.gg/weapons/crimils-dagger-god-rolls/ PvP Roll: All-Around (A) "Fluted Barrel is recommend due to the weapon lacking in Stability and Handling at base stats. Accurized Rounds is recommended due to the increase in Range provided. We recommend Slideways as it provides a +20 stat boost to Stability and Handling (+25 Enhanced), and also partially refills the magazine which is very useful on 120 Hand Cannons due to the slow reload speed. Moving Target can also be used, sacrificing the boost to Stability and Handling for an increase in Aim Assist, making it much easier to hit your shots, allowing for more consistent 3 shot kills. We recommend Adagio, especially in 6v6 playlists. This is due to a relatively recent buff to 120 RPM Hand Cannons, where Precision Instrument is no longer required for 2 Headshot 1 Bodyshot kills. Adagio has very high potential as once active, it can kill in just 2 Headshots, with a 0.6 second time to kill. Zen Moment is also a viable option as it increases the weapon’s Stability, making it much easier to hit follow up shots. Range masterwork is preferred as the boost provides nearly 1.5m of extra range, and once Slideways has been activated, the low Stability and Handling becomes less of an issue due to the stat boost. Skulking Wolf is the preferred option as the removal of your blip from radar allows you to reposition and recover from the previous gunfight." Masterwork	Range tags:pvp
+dimwishlist:item=198854575&perks=1840239774,3142289711,2039302152,3673922083,3989629871
+dimwishlist:item=198854575&perks=1840239774,3142289711,2039302152,2387244414,3989629871
+dimwishlist:item=198854575&perks=1840239774,3142289711,588594999,3673922083,3989629871
+dimwishlist:item=198854575&perks=1840239774,3142289711,588594999,2387244414,3989629871
+
+
+// Backfang (god-pve)
+//notes: blueberries.gg/weapons/backfang-god-rolls/ PvE Roll: All-Around (B) "Starting off, we have Ballistic Tuning to give us a bump in range, Appended Mag for extra shots, and a range masterwork to help the fall-off a bit more. You could opt for Extended Mag and a reload speed masterwork if the base stat buffs are significant enough, however. Perk 1 has a clear winner in Melee Momentum. A brand new perk for glaives, this allows you to move from group to group safer and quicker thanks to the extra energy and movement speed. For Perk 2, go with Close to Melee or Desperate Measures. CtM is perfect if you want to take full advantage of the combo buff, and Desperate Measures can quickly get to max stacks as the glaive melee counts towards all of it. However, Desperate Measures (like most damage perks) does not buff the melee itself, so keep that in mind." Masterwork	Range tags:god-pve
+dimwishlist:item=267672635&perks=1263609309,1087426260,3773585912,1782407750
+
+
+// Backfang (god-pvp)
+//notes: blueberries.gg/weapons/backfang-god-rolls/ PvP Roll: All-Around (C) "As Rapid-Fire Glaives tend to have the lowest base range, you’ll need to dump everything into buffing it. To that end, throw on Ballistic Tuning, Accurized Rounds, and a range masterwork. The most important perk here is Impulse Amplifier. Even with the upcoming changes, you’ll want that extra velocity. Perk 2’s offerings won’t move the needle at all, but Swashbuckler is the easiest of the set to proc and Close to Melee is great for kill-chaining if you’re the brave type." Masterwork	Range or Handling tags:god-pvp
+dimwishlist:item=267672635&perks=1263609309,3142289711,951095735,4082225868
+dimwishlist:item=267672635&perks=1263609309,3142289711,951095735,1782407750
+
+
+// Backfang (pve)
+//notes: blueberries.gg/weapons/backfang-god-rolls/ PvE Roll: All-Around (B) "Starting off, we have Ballistic Tuning to give us a bump in range, Appended Mag for extra shots, and a range masterwork to help the fall-off a bit more. You could opt for Extended Mag and a reload speed masterwork if the base stat buffs are significant enough, however. Perk 1 has a clear winner in Melee Momentum. A brand new perk for glaives, this allows you to move from group to group safer and quicker thanks to the extra energy and movement speed. For Perk 2, go with Close to Melee or Desperate Measures. CtM is perfect if you want to take full advantage of the combo buff, and Desperate Measures can quickly get to max stacks as the glaive melee counts towards all of it. However, Desperate Measures (like most damage perks) does not buff the melee itself, so keep that in mind." Masterwork	Range tags:pve
+dimwishlist:item=267672635&perks=1263609309,1087426260,3773585912,1782407750
+dimwishlist:item=267672635&perks=1263609309,1087426260,3773585912,2109543898
+dimwishlist:item=267672635&perks=1263609309,1087426260,951095735,1782407750
+dimwishlist:item=267672635&perks=1263609309,1087426260,951095735,2109543898
+
+
+// Tinasha's Mastery (god-pve)
+//notes: blueberries.gg/weapons/tinashas-mastery-god-rolls/ PvE Roll: All-Around (S) "Let’s get the easy ones out of the way. Quick Launch will help increase the Velocity and Handling, and Tactical Mag gives us a nice bump in Reload Speed and Stability, while also granting extra ammo to the mag. Velocity Masterwork as your Reload Speed will be enhanced even further by either of our perk choices. Perk 1 has a clear winner in Air Trigger. Not needing to run a reserves mod while also getting a nice Reload Speed just for being airborne is a great all-in-one package. However, Loose Change is a good alternative, especially when paired with Chill Clip. Speaking of, it’s the clear winner for Perk 2. While some might understandably go with a damage perk like Desperate Measures, Chill Clip’s utility is unmatched, and with such a high mag size, you’ll have more chances than most other weapons to apply it. " Masterwork	Velocity tags:god-pve
+dimwishlist:item=480368036&perks=3525010810,106909392,1421772400,2978966579
+
+
+// Tinasha's Mastery (pve)
+//notes: blueberries.gg/weapons/tinashas-mastery-god-rolls/ PvE Roll: All-Around (S) "Let’s get the easy ones out of the way. Quick Launch will help increase the Velocity and Handling, and Tactical Mag gives us a nice bump in Reload Speed and Stability, while also granting extra ammo to the mag. Velocity Masterwork as your Reload Speed will be enhanced even further by either of our perk choices. Perk 1 has a clear winner in Air Trigger. Not needing to run a reserves mod while also getting a nice Reload Speed just for being airborne is a great all-in-one package. However, Loose Change is a good alternative, especially when paired with Chill Clip. Speaking of, it’s the clear winner for Perk 2. While some might understandably go with a damage perk like Desperate Measures, Chill Clip’s utility is unmatched, and with such a high mag size, you’ll have more chances than most other weapons to apply it. " Masterwork	Velocity tags:pve
+dimwishlist:item=480368036&perks=3525010810,106909392,1421772400,2978966579
+dimwishlist:item=480368036&perks=3525010810,106909392,1421772400,2109543898
+dimwishlist:item=480368036&perks=3525010810,106909392,1119449540,2978966579
+dimwishlist:item=480368036&perks=3525010810,106909392,1119449540,2109543898
+
+
+// Cynosure (god-pve)
+//notes: blueberries.gg/weapons/cynosure-god-rolls/ PvE Roll: All-Around (S) "For our barrel, we like Quick Launch as the primary roll on this weapon focuses on using Cynosure as a part of a weapon damage rotation, and Quick Launch improves Handling. Impact Casing is the default pick for the magazine as it slightly increases your damage. Envious Arsenal is the best option for perk slot one as it massively improves the viability of Cynosure as a DPS weapon; however, Clown Cartridge is a decent alternative to turn this weapon into a single-weapon damage tool. For perk two, Explosive Light is the most accessible damage trait as it simply requires the gathering of Orbs, which is incredibly simple. As mentioned earlier, High Ground can work as another damage perk, but it is more conditional. Bipod is also a good choice; however, it’ll turn Cynosure into more of an add-clear focused weapon rather than a DPS option." Masterwork	Velocity tags:god-pve
+dimwishlist:item=694275488&perks=3525010810,3796465595,3987942396,3194351027
+
+
+// Cynosure (god-pve)
+//notes: blueberries.gg/weapons/cynosure-god-rolls/ PvE Roll: All-Around (S) "For our barrel, we like Quick Launch as the primary roll on this weapon focuses on using Cynosure as a part of a weapon damage rotation, and Quick Launch improves Handling. Impact Casing is the default pick for the magazine as it slightly increases your damage. Envious Arsenal is the best option for perk slot one as it massively improves the viability of Cynosure as a DPS weapon; however, Clown Cartridge is a decent alternative to turn this weapon into a single-weapon damage tool. For perk two, Explosive Light is the most accessible damage trait as it simply requires the gathering of Orbs, which is incredibly simple. As mentioned earlier, High Ground can work as another damage perk, but it is more conditional. Bipod is also a good choice; however, it’ll turn Cynosure into more of an add-clear focused weapon rather than a DPS option." Masterwork	Velocity tags:god-pve
+dimwishlist:item=694275488&perks=3525010810,3796465595,3987942396,3194351027
+dimwishlist:item=694275488&perks=3525010810,3796465595,3987942396,1439600632
+dimwishlist:item=694275488&perks=3525010810,3796465595,2284787283,3194351027
+dimwishlist:item=694275488&perks=3525010810,3796465595,2284787283,1439600632
+
+
+// Cynosure (god-pvp)
+//notes: blueberries.gg/weapons/cynosure-god-rolls/ PvP Roll: All-Around (B) "Quick Launch and High-Velocity Rounds are the best picks for the barrel and magazine as they improve the weapon’s Velocity, making it easier to land the Rocket at mid-long range. Quick Launch also has the added benefit of boosting Handling. Tracking Module is the preferred option in perk slot one as it allows you to lock onto enemies, which helps even more at long range, and Cluster Bomb in perk slot two helps as it can aid in securing kills where you may have slightly missed." Masterwork	Velocity tags:god-pvp
+dimwishlist:item=694275488&perks=3525010810,2822142346,3977735242,1275731761
+
+
+// Found Verdict (god-pve)
+//notes: blueberries.gg/weapons/found-verdict-god-rolls/ PvE Roll: All-Around (B) "We Recommend Barrel Shroud due to the extra handling it gives to allow for the faster weapon swaps in PvE; however, Corkscrew Rifling is also a valid option as it provides slightly less Handling but also a slight Boost to Range. We also recommend Assault Mag due to the increased rate of fire, allowing for higher burst damage output. Pugilist in Perk 1 is recommended as kills will help in reducing the downtime of your melee abilities. The hits from your melee also grant the weapon bonus Handling, making it feel smoother to use. One-Two Punch is the recommended perk in Slot 1. This is because Aggressive Frame shotguns in PvE aren’t generally the best however, when paired with One-Two Punch and things like Strand Titan or Liar’s Handshake Hunter, they are capable of some of the highest damage output in the game." Masterwork	Handling tags:god-pve
+dimwishlist:item=694500607&perks=1300023272,791862061,691659142,2679249093
+
+
+// Found Verdict (god-pvp)
+//notes: blueberries.gg/weapons/found-verdict-god-rolls/ PvP Roll: All-Around (S) "We recommend Rifled Barrel due to its extra range. Although it is only a slight increase from Corkscrew Rifling, that can be the difference in PvP between a one-shot kill and having to follow up with a melee. Rifled Barrel is also only recommended when paired with a Handling exotic such as Ophidian Aspects or Dragons Shadow due to the reduction in handling. If you would rather use your exotic slot on something else, Corkscrew Rifling would be the recommended option.Accurized Rounds is also recommended as when paired with enhanced versions of the recommended perks, the weapons reaches 91 total range. Slideshot and Opening Shot also synergise well due to both increasing Range, while Slideshot also grants Stability and Opening Shot granting aim assist, making it more likely to hit enough pellets to one shot kill."  Masterwork	Range tags:god-pvp
+dimwishlist:item=694500607&perks=1332244541,3142289711,3161816588,47981717
+
+
+// Found Verdict (pve)
+//notes: blueberries.gg/weapons/found-verdict-god-rolls/ PvE Roll: All-Around (B) "We Recommend Barrel Shroud due to the extra handling it gives to allow for the faster weapon swaps in PvE; however, Corkscrew Rifling is also a valid option as it provides slightly less Handling but also a slight Boost to Range. We also recommend Assault Mag due to the increased rate of fire, allowing for higher burst damage output. Pugilist in Perk 1 is recommended as kills will help in reducing the downtime of your melee abilities. The hits from your melee also grant the weapon bonus Handling, making it feel smoother to use. One-Two Punch is the recommended perk in Slot 1. This is because Aggressive Frame shotguns in PvE aren’t generally the best however, when paired with One-Two Punch and things like Strand Titan or Liar’s Handshake Hunter, they are capable of some of the highest damage output in the game." Masterwork	Handling tags:pve
+dimwishlist:item=694500607&perks=1300023272,791862061,691659142,2679249093
+dimwishlist:item=694500607&perks=4090651448,791862061,691659142,2679249093
+
+
+// Found Verdict (pvp)
+//notes: blueberries.gg/weapons/found-verdict-god-rolls/ PvP Roll: All-Around (S) "We recommend Rifled Barrel due to its extra range. Although it is only a slight increase from Corkscrew Rifling, that can be the difference in PvP between a one-shot kill and having to follow up with a melee. Rifled Barrel is also only recommended when paired with a Handling exotic such as Ophidian Aspects or Dragons Shadow due to the reduction in handling. If you would rather use your exotic slot on something else, Corkscrew Rifling would be the recommended option.Accurized Rounds is also recommended as when paired with enhanced versions of the recommended perks, the weapons reaches 91 total range. Slideshot and Opening Shot also synergise well due to both increasing Range, while Slideshot also grants Stability and Opening Shot granting aim assist, making it more likely to hit enough pellets to one shot kill."  Masterwork	Range tags:pvp
+dimwishlist:item=694500607&perks=1332244541,3142289711,3161816588,47981717
+dimwishlist:item=694500607&perks=4090651448,3142289711,3161816588,47981717
+
+
+// Eyes Unveiled (god-pve)
+//notes: blueberries.gg/weapons/eyes-unveiled-god-rolls/ PvE Roll: All-Around (B) "For our barrel, we are going to opt for Arrowhead Break, as it massively improves the recoil direction of the weapon, making it easier to stay on target. For the magazine, Liquid Coils is the standard choice. For perk 1, we suggest Overflow. This perk allows you to go far beyond the regular constraints of the magazine, and when paired with Runneth Over, you can potentially bring the magazine up to a whopping 18 shots. Alternatively, Triple Tap is a decent option as it is an easy way to help your ammo economy. In perk slot 2, we recommend Reservoir Burst. Due to the pairing we have between Runneth Over and Overflow, we can use Reservoir Burst to take advantage of the ammo we have available. Another option is Frenzy. This perk boosts our Handling and Reload speed while also giving us a lower but more consistent 15% damage bonus." Masterwork	Charge Time tags:god-pve
+dimwishlist:item=727781522&perks=839105230,1687452232,3643424744,1427256713
+
+
+// Eyes Unveiled (god-pvp)
+//notes: blueberries.gg/weapons/eyes-unveiled-god-rolls/ PvP Roll: All-Around (A) "Polygonal Rifling is the ideal option here as it bumps our Stability. This bonus is furthered by Particle Repeater, which helps bring our Stability up to 75. In perk slot 1, Perfect Float is the ideal pick here as it drastically improves our flinch resistance, bringing it from 16.19% to a whopping 45.52% flinch resistance. For our second perk, we recommend Discord as it has the potential to give you a lot of heavy ammo, should you score kills while Discord is active." Masterwork	Charge Time or Stability tags:god-pvp
+dimwishlist:item=727781522&perks=1392496348,3868766766,2272927194,3978468247
+
+
+// Eyes Unveiled (pve)
+//notes: blueberries.gg/weapons/eyes-unveiled-god-rolls/ PvE Roll: All-Around (B) "For our barrel, we are going to opt for Arrowhead Break, as it massively improves the recoil direction of the weapon, making it easier to stay on target. For the magazine, Liquid Coils is the standard choice. For perk 1, we suggest Overflow. This perk allows you to go far beyond the regular constraints of the magazine, and when paired with Runneth Over, you can potentially bring the magazine up to a whopping 18 shots. Alternatively, Triple Tap is a decent option as it is an easy way to help your ammo economy. In perk slot 2, we recommend Reservoir Burst. Due to the pairing we have between Runneth Over and Overflow, we can use Reservoir Burst to take advantage of the ammo we have available. Another option is Frenzy. This perk boosts our Handling and Reload speed while also giving us a lower but more consistent 15% damage bonus." Masterwork	Charge Time tags:pve
+dimwishlist:item=727781522&perks=839105230,1687452232,3643424744,1427256713
+dimwishlist:item=727781522&perks=839105230,1687452232,3643424744,4104185692
+dimwishlist:item=727781522&perks=839105230,1687452232,3400784728,1427256713
+dimwishlist:item=727781522&perks=839105230,1687452232,3400784728,4104185692
+
+
+// Tusk of the Boar (god-pve)
+//notes: blueberries.gg/weapons/tusk-of-the-boar-god-rolls/ PvE Roll: All-Around (A) "Waveframes operate slightly differently than other grenade launchers, mainly in that you actually want the highest blast radius possible so that the explosion is doing most of the damage. So we’ll be taking Quick Launch and High Velocity Rounds to bump up the velocity without touching blast radius, as well as getting a small reload speed buff as well. For Perk 1, there’s a lot of good in this small pool. Slice is excellent for applying Sever to multiple targets at once, and Slideways is good as you can remove the cooldown if you swap after sliding. It’s really the dealer’s choice here. Perk 2 is undoubtedly Chain Reaction. Even with the nerfs to it on special GLs, it’s still the best one here thanks to its class agnostic use case. However, Hatchling is a good alternative if you want to focus more into its Strand affinity." Masterwork	Velocity or Reload Speed tags:god-pve
+dimwishlist:item=1218113510&perks=3525010810,2822142346,2039302152,2396489472,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,923806249,2396489472,2120661319
+
+
+// Tusk of the Boar (god-pvp)
+//notes: blueberries.gg/weapons/tusk-of-the-boar-god-rolls/ PvP Roll: All-Around (C) "As previously mentioned, waveframes live and die by their ability to roll with Disruption Break, at least in PvP. Since this doesn’t, we need to get creative on where this can find use. Just as with the PvE roll, we want to ensure the explosion is doing the most damage it can, so run with Quick Launch and High Velocity Rounds. Perk 1 has only two somewhat passable perks: Pulse Monitor and Slice. Pulse Monitor automatically reloads your weapon, which could let you follow up with a second shot if you’re in combat. Slice, on the other hand, will let you lower another guardian’s damage by 15%, keeping you and teammates alive longer. Perk 2 is also lacking, with Swashbuckler and Deconstruct being the best possible. Swash can net you the swap kill, but only if you hit for max damage. Deconstruct, however, should allow you to put down those pesky Titan barricades while also getting ammo back if done right. Though, based on how it activates, that might be easier said than done." Masterwork	Velocity tags:god-pvp
+dimwishlist:item=1218113510&perks=3525010810,2822142346,972757866,3993379141,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,972757866,4082225868,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,923806249,3993379141,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,923806249,4082225868,2120661319
+
+
+// Tusk of the Boar (pve)
+//notes: blueberries.gg/weapons/tusk-of-the-boar-god-rolls/ PvE Roll: All-Around (A) "Waveframes operate slightly differently than other grenade launchers, mainly in that you actually want the highest blast radius possible so that the explosion is doing most of the damage. So we’ll be taking Quick Launch and High Velocity Rounds to bump up the velocity without touching blast radius, as well as getting a small reload speed buff as well. For Perk 1, there’s a lot of good in this small pool. Slice is excellent for applying Sever to multiple targets at once, and Slideways is good as you can remove the cooldown if you swap after sliding. It’s really the dealer’s choice here. Perk 2 is undoubtedly Chain Reaction. Even with the nerfs to it on special GLs, it’s still the best one here thanks to its class agnostic use case. However, Hatchling is a good alternative if you want to focus more into its Strand affinity." Masterwork	Velocity or Reload Speed tags:pve
+dimwishlist:item=1218113510&perks=3525010810,2822142346,2039302152,2396489472,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,2039302152,831391274,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,923806249,2396489472,2120661319
+dimwishlist:item=1218113510&perks=3525010810,2822142346,923806249,831391274,2120661319
+
+
+// Unsworn (god-pve)
+//notes: blueberries.gg/weapons/unsworn-god-rolls/ PvE Roll: All-Around (S) "In PvE, we’ll begin with Fluted Barrel, Light Battery, and a handling masterwork for a nice sweep of potent stats. From there, Shoot to Loot and Detonator Beam proves to be a monster of a combo for high-level activities, especially when using a double special weapon or Cenotaph Mask loadout. Tear is also worth mentioning in the first column, a new perk that offers some significant utility against larger groups of enemies." Masterwork	Handling tags:god-pve
+dimwishlist:item=1303313141&perks=1840239774,2749775325,3700496672,4198902903
+
+
+// Unsworn (pve)
+//notes: blueberries.gg/weapons/unsworn-god-rolls/ PvE Roll: All-Around (S) "In PvE, we’ll begin with Fluted Barrel, Light Battery, and a handling masterwork for a nice sweep of potent stats. From there, Shoot to Loot and Detonator Beam proves to be a monster of a combo for high-level activities, especially when using a double special weapon or Cenotaph Mask loadout. Tear is also worth mentioning in the first column, a new perk that offers some significant utility against larger groups of enemies." Masterwork	Handling tags:pve
+dimwishlist:item=1303313141&perks=1840239774,2749775325,3700496672,4198902903
+dimwishlist:item=1303313141&perks=1840239774,2749775325,3700496672,557221067
+dimwishlist:item=1303313141&perks=1840239774,2749775325,960997401,4198902903
+dimwishlist:item=1303313141&perks=1840239774,2749775325,960997401,557221067
+
+
+// Claws of the Wolf (god-pve)
+//notes: blueberries.gg/weapons/claws-of-the-wolf-god-rolls/ PvE Roll: All-Around (S) "Starting with our PvE roll, we’ll go with Fluted Barrel, Flared Magwell, and a reload speed masterwork for a nice sweep of stats. From there, Repulsor Brace and Destabilizing Rounds is the clear winner in terms of perk combinations. Most other perks here are PvP-oriented, so a Void-centric setup is the only viable way to run this pulse." Masterwork	Reload Speed tags:god-pve
+dimwishlist:item=1505862304&perks=1840239774,3230963543,776531651,2048641572
+
+
+// Claws of the Wolf (god-pvp)
+//notes: blueberries.gg/weapons/claws-of-the-wolf-god-rolls/ PvP Roll: All-Around (A) "Hammer-Forged Rifling and Ricochet Rounds grant us tons of extra range and stability, both of which are needed for The Crucible. We’ll top these off with either a range or stability masterwork—whichever you prefer. Our main perks consist of Headseeker and Kill Clip, significantly decreasing the time-to-kill if you’re able to chain kills. Zen Moment also does alright here, excelling if you want a more consistency-based setup." Masterwork	Range or Stability tags:god-pvp
+dimwishlist:item=1505862304&perks=3250034553,1885400500,460017080,1015611457
+
+
+// Claws of the Wolf (pvp)
+//notes: blueberries.gg/weapons/claws-of-the-wolf-god-rolls/ PvP Roll: All-Around (A) "Hammer-Forged Rifling and Ricochet Rounds grant us tons of extra range and stability, both of which are needed for The Crucible. We’ll top these off with either a range or stability masterwork—whichever you prefer. Our main perks consist of Headseeker and Kill Clip, significantly decreasing the time-to-kill if you’re able to chain kills. Zen Moment also does alright here, excelling if you want a more consistency-based setup." Masterwork	Range or Stability tags:pvp
+dimwishlist:item=1505862304&perks=3250034553,1885400500,460017080,1015611457
+dimwishlist:item=1505862304&perks=3250034553,1885400500,460017080,2387244414
+
+
+// Watchful Eye (god-pve)
+//notes: blueberries.gg/weapons/watchful-eye-god-rolls/ PvE Roll: All-Around (S) "Due to the fairly low Handling of this weapon, we recommend Fluted Barrel to give a good bump to Handling. High-Caliber Rounds is always amazing as it staggers enemies in PvE, making them more vulnerable. However, Ricochet Rounds is also a decent option. For perk 1, we suggest Overflow or Field Prep. Both are very good options and you can’t go wrong with either. For perk slot 2, Jolting Feedback is our winner, but Killing Tally and Rolling Storm are also acceptable." Masterwork	Range tags:god-pve
+dimwishlist:item=1757177186&perks=1840239774,1561002382,3643424744,3966416502
+dimwishlist:item=1757177186&perks=1840239774,1561002382,2869569095,3966416502
+dimwishlist:item=1757177186&perks=1840239774,1885400500,3643424744,3966416502
+dimwishlist:item=1757177186&perks=1840239774,1885400500,2869569095,3966416502
+
+
+// Watchful Eye (god-pvp)
+//notes: blueberries.gg/weapons/watchful-eye-god-rolls/ PvP Roll: All-Around (A) "To maximise ease of use, we are looking to boost our Stability as much as possible, so Smallbore and Stability Masterwork are recommended. High-Caliber Rounds is generally a good pick as it increases flinch, but Ricochet Rounds provides more Stability, so both are viable. For perk 1, we recommend Dynamic Sway Reduction simply because it makes the weapon more accurate. For perk 2, Sword Logic is ideal thanks to its 20% damage bonus on kill, which can grant you a 4-headshot kill on enemies with Tier 8 Resilience or lower." Masterwork	Stability tags:god-pvp
+dimwishlist:item=1757177186&perks=1482024992,1561002382,1359896290,31345821
+dimwishlist:item=1757177186&perks=1482024992,1885400500,1359896290,31345821
+
+
+// Watchful Eye (pve)
+//notes: blueberries.gg/weapons/watchful-eye-god-rolls/ PvE Roll: All-Around (S) "Due to the fairly low Handling of this weapon, we recommend Fluted Barrel to give a good bump to Handling. High-Caliber Rounds is always amazing as it staggers enemies in PvE, making them more vulnerable. However, Ricochet Rounds is also a decent option. For perk 1, we suggest Overflow or Field Prep. Both are very good options and you can’t go wrong with either. For perk slot 2, Jolting Feedback is our winner, but Killing Tally and Rolling Storm are also acceptable." Masterwork	Range tags:pve
+dimwishlist:item=1757177186&perks=1840239774,1561002382,3643424744,3966416502
+dimwishlist:item=1757177186&perks=1840239774,1561002382,3643424744,557221067
+dimwishlist:item=1757177186&perks=1840239774,1561002382,3643424744,3218042543
+dimwishlist:item=1757177186&perks=1840239774,1561002382,2869569095,3966416502
+dimwishlist:item=1757177186&perks=1840239774,1561002382,2869569095,557221067
+dimwishlist:item=1757177186&perks=1840239774,1561002382,2869569095,3218042543
+dimwishlist:item=1757177186&perks=1840239774,1885400500,3643424744,3966416502
+dimwishlist:item=1757177186&perks=1840239774,1885400500,3643424744,557221067
+dimwishlist:item=1757177186&perks=1840239774,1885400500,3643424744,3218042543
+dimwishlist:item=1757177186&perks=1840239774,1885400500,2869569095,3966416502
+dimwishlist:item=1757177186&perks=1840239774,1885400500,2869569095,557221067
+dimwishlist:item=1757177186&perks=1840239774,1885400500,2869569095,3218042543
+
+
+// Keen Thistle (god-pve)
+//notes: blueberries.gg/weapons/keen-thistle-god-rolls/ PvE Roll: All-Around (A) "Fluted Barrel, Appended Mag, and a handling masterwork grant us some extra stability, magazine size, and handling, all of which are desperately needed for this weapon. Envious Arsenal and Bait and Switch make up our primary roll. This combination has become a staple in today’s meta and is a beast on nearly every weapon that can roll with it. If you’re instead looking for a more unique, ammo dump option, Triple Tap and Fourth Time’s the Charm will serve you well." Masterwork	Handling tags:god-pve
+dimwishlist:item=1893967086&perks=1840239774,1087426260,3987942396,3078487919,2988596335
+dimwishlist:item=1893967086&perks=1840239774,1087426260,3987942396,3078487919,4091460919
+
+
+// Keen Thistle (god-pvp)
+//notes: blueberries.gg/weapons/keen-thistle-god-rolls/ PvP Roll: All-Around (S) "In terms of The Crucible, we’ll begin with Fluted Barrel, Steady Rounds, and a handling masterwork for a sweep of stats that’s similar to what we looked for in PvE. Many veteran Guardians will be drawn to a perk combination that has been a reliably strong pick on sniper rifles for years: Snapshot Sights and Opening Shot. While this roll is no doubt potent, switching it up with newer perks like Lone Wolf and Closing Time is another powerful option. Sure, you need to play into them a bit more, but they’re extremely rewarding if you do." Masterwork	Handling tags:god-pvp
+dimwishlist:item=1893967086&perks=1840239774,3177308360,957782887,47981717,4091460919
+dimwishlist:item=1893967086&perks=1840239774,3177308360,957782887,47981717,2988596335
+
+
+// Keen Thistle (pve)
+//notes: blueberries.gg/weapons/keen-thistle-god-rolls/ PvE Roll: All-Around (A) "Fluted Barrel, Appended Mag, and a handling masterwork grant us some extra stability, magazine size, and handling, all of which are desperately needed for this weapon. Envious Arsenal and Bait and Switch make up our primary roll. This combination has become a staple in today’s meta and is a beast on nearly every weapon that can roll with it. If you’re instead looking for a more unique, ammo dump option, Triple Tap and Fourth Time’s the Charm will serve you well." Masterwork	Handling tags:pve
+dimwishlist:item=1893967086&perks=1840239774,1087426260,3987942396,3078487919,2988596335
+dimwishlist:item=1893967086&perks=1840239774,1087426260,3987942396,3078487919,4091460919
+dimwishlist:item=1893967086&perks=1840239774,1087426260,3987942396,1354429876,2988596335
+dimwishlist:item=1893967086&perks=1840239774,1087426260,3987942396,1354429876,4091460919
+dimwishlist:item=1893967086&perks=1840239774,1087426260,3400784728,3078487919,2988596335
+dimwishlist:item=1893967086&perks=1840239774,1087426260,3400784728,3078487919,4091460919
+dimwishlist:item=1893967086&perks=1840239774,1087426260,3400784728,1354429876,2988596335
+dimwishlist:item=1893967086&perks=1840239774,1087426260,3400784728,1354429876,4091460919
+
+
+// Keen Thistle (pvp)
+//notes: blueberries.gg/weapons/keen-thistle-god-rolls/ PvP Roll: All-Around (S) "In terms of The Crucible, we’ll begin with Fluted Barrel, Steady Rounds, and a handling masterwork for a sweep of stats that’s similar to what we looked for in PvE. Many veteran Guardians will be drawn to a perk combination that has been a reliably strong pick on sniper rifles for years: Snapshot Sights and Opening Shot. While this roll is no doubt potent, switching it up with newer perks like Lone Wolf and Closing Time is another powerful option. Sure, you need to play into them a bit more, but they’re extremely rewarding if you do." Masterwork	Handling tags:pvp
+dimwishlist:item=1893967086&perks=1840239774,3177308360,957782887,47981717,4091460919
+dimwishlist:item=1893967086&perks=1840239774,3177308360,957782887,47981717,2988596335
+dimwishlist:item=1893967086&perks=1840239774,3177308360,957782887,1194056669,4091460919
+dimwishlist:item=1893967086&perks=1840239774,3177308360,957782887,1194056669,2988596335
+dimwishlist:item=1893967086&perks=1840239774,3177308360,2579169598,47981717,4091460919
+dimwishlist:item=1893967086&perks=1840239774,3177308360,2579169598,47981717,2988596335
+dimwishlist:item=1893967086&perks=1840239774,3177308360,2579169598,1194056669,4091460919
+dimwishlist:item=1893967086&perks=1840239774,3177308360,2579169598,1194056669,2988596335
+
+
+// Warlord's Spear (god-pve)
+//notes: blueberries.gg/weapons/warlords-spear-god-rolls/ PvE Roll: All-Around (A) "Because Trace Rifles don’t necessarily need many stats, we are going to opt for Handling-boosting perks, so Fluted Barrel, Light Battery, and a Handling masterwork are ideal here. For perk slot 1, Rewind Rounds is the go-to as it allows us to maintain the beam on healthier targets and minimises downtime. For perk 2, Detonator Beam is our recommended pick thanks to the burst damage it provides, but Jolting Feedback is also a good way to go if you want to lean into Jolt more." Masterwork	Handling tags:god-pve
+dimwishlist:item=1968711238&perks=1840239774,2749775325,3418782618,4198902903
+
+
+// Warlord's Spear (god-pvp)
+//notes: blueberries.gg/weapons/warlords-spear-god-rolls/ PvP Roll: All-Around (B)  "For PvP, we want to optimise our general weapon performance, so Range and Stability will be the focus, so we recommend Smallbore, Projection Fuse, and a Range Masterwork to boost us to 94 Range (38.9m), and 83 Stability, which will go to 93 with Dynamic Sway Reduction fully stacked. For perk 1, Dynamic Sway Reduction and High-Impact Reserves are both good. Dynamic Sway Reduction makes Warlord’s Spear easier to use, but High-Impact Reserves can provide that extra punch it might need. For perk 2, Target Lock is our pick as it works great with both of our first perks. Dynamic Sway Reduction helps you stay on target more easily, improving Target Lock’s ease of use, and High-Impact Reserves can stack with Target Lock." Masterwork	Range tags:god-pvp
+dimwishlist:item=1968711238&perks=1482024992,2969185026,1359896290,365154968
+dimwishlist:item=1968711238&perks=1482024992,2969185026,2213355989,365154968
+
+
+// Warlord's Spear (pve)
+//notes: blueberries.gg/weapons/warlords-spear-god-rolls/ PvE Roll: All-Around (A) "Because Trace Rifles don’t necessarily need many stats, we are going to opt for Handling-boosting perks, so Fluted Barrel, Light Battery, and a Handling masterwork are ideal here. For perk slot 1, Rewind Rounds is the go-to as it allows us to maintain the beam on healthier targets and minimises downtime. For perk 2, Detonator Beam is our recommended pick thanks to the burst damage it provides, but Jolting Feedback is also a good way to go if you want to lean into Jolt more." Masterwork	Handling tags:pve
+dimwishlist:item=1968711238&perks=1840239774,2749775325,3418782618,4198902903
+dimwishlist:item=1968711238&perks=1840239774,2749775325,3418782618,3966416502
+
+
+// Unworthy (god-pve)
+//notes: blueberries.gg/weapons/unworthy-god-rolls/ PvE Roll: All-Around (S) "For our barrel, Fluted Barrel is the optimal choice thanks to the quality of life it provides with the Handling boost. Appended Mag is also ideal for our Magazine because of the boost to the magazine it gives. For perk 1, Firefly is the best pick as it helps with add clear massively by providing an AoE explosion. This is furthered by us choosing Voltshot in the second perk slot to make this weapon an add-clearing machine." Masterwork	Handling tags:god-pve
+dimwishlist:item=2226158470&perks=1840239774,1087426260,3824105627,2173046394
+
+
+// Unworthy (god-pvp)
+//notes: blueberries.gg/weapons/unworthy-god-rolls/ PvP Roll: All-Around (A) "Polygonal Rifling or Arrowhead Brake are the best options for the barrel as they further increase stability or improve the recoil direction of the weapon. Ricochet Rounds is good for the same Stability-boosting reasons. In perk slot 1, Rapid Hit is a clear choice as while Keep Away is appealing, Scouts rarely need more range; however, it does work as an alternative. For perk slot 2, Precision Instrument is the obvious winner as it makes the time-to-kill a blindingly fast 0.7s with 4 headshots. However, Zen Moment also works if you’d prefer a more consistent and easier option." Masterwork	Stability tags:god-pvp
+dimwishlist:item=2226158470&perks=1392496348,1885400500,247725512,555281244
+dimwishlist:item=2226158470&perks=839105230,1885400500,247725512,555281244
+
+
+// Unworthy (pvp)
+//notes: blueberries.gg/weapons/unworthy-god-rolls/ PvP Roll: All-Around (A) "Polygonal Rifling or Arrowhead Brake are the best options for the barrel as they further increase stability or improve the recoil direction of the weapon. Ricochet Rounds is good for the same Stability-boosting reasons. In perk slot 1, Rapid Hit is a clear choice as while Keep Away is appealing, Scouts rarely need more range; however, it does work as an alternative. For perk slot 2, Precision Instrument is the obvious winner as it makes the time-to-kill a blindingly fast 0.7s with 4 headshots. However, Zen Moment also works if you’d prefer a more consistent and easier option." Masterwork	Stability tags:pvp
+dimwishlist:item=2226158470&perks=1392496348,1885400500,247725512,555281244
+dimwishlist:item=2226158470&perks=1392496348,1885400500,247725512,2387244414
+dimwishlist:item=2226158470&perks=1392496348,1885400500,3619207468,555281244
+dimwishlist:item=2226158470&perks=1392496348,1885400500,3619207468,2387244414
+dimwishlist:item=2226158470&perks=839105230,1885400500,247725512,555281244
+dimwishlist:item=2226158470&perks=839105230,1885400500,247725512,2387244414
+dimwishlist:item=2226158470&perks=839105230,1885400500,3619207468,555281244
+dimwishlist:item=2226158470&perks=839105230,1885400500,3619207468,2387244414
+
+
+// Hezen Vengeance (god-pve)
+//notes: blueberries.gg/weapons/hezen-vengeance-god-rolls/ PvE Roll: All-Around (S) "For PvE, we’ll begin with Quick Launch, Impact Casing, and a handling masterwork for additional velocity, handling, and damage. Envious Arsenal is the top pick for column one; even if you aren’t utilizing a damage rotation, this perk is absurdly easy to trigger and entirely removes the need to reload. Bait and Switch pairs nicely with both this and Hezen’s origin trait, offering a significant 30% increase in damage. However, if you’re able to fully optimize your loadout, opting for Elemental Honing instead will technically offer an even greater damage buff at 35%." Masterwork	Handling tags:god-pve
+dimwishlist:item=2265407516&perks=3525010810,3796465595,3987942396,3078487919
+
+
+// Hezen Vengeance (god-pvp)
+//notes: blueberries.gg/weapons/hezen-vengeance-god-rolls/ PvP Roll: All-Around (A) "To gain the best possible mix of velocity and blast radius, we’ll start with Quick Launch, High-Velocity Rounds, and a blast radius masterwork. Cluster Bomb, a rare sight in the third column, grants an even greater chance of successfully damaging Guardians, making it our top pick. As for the final column, Vorpal Weapon is generally best, allowing for an increase in damage when it’s needed most." Masterwork	Blast Radius tags:god-pvp
+dimwishlist:item=2265407516&perks=3525010810,2822142346,1275731761,1546637391
+
+
+// Hezen Vengeance (pve)
+//notes: blueberries.gg/weapons/hezen-vengeance-god-rolls/ PvE Roll: All-Around (S) "For PvE, we’ll begin with Quick Launch, Impact Casing, and a handling masterwork for additional velocity, handling, and damage. Envious Arsenal is the top pick for column one; even if you aren’t utilizing a damage rotation, this perk is absurdly easy to trigger and entirely removes the need to reload. Bait and Switch pairs nicely with both this and Hezen’s origin trait, offering a significant 30% increase in damage. However, if you’re able to fully optimize your loadout, opting for Elemental Honing instead will technically offer an even greater damage buff at 35%." Masterwork	Handling tags:pve
+dimwishlist:item=2265407516&perks=3525010810,3796465595,3987942396,3078487919
+dimwishlist:item=2265407516&perks=3525010810,3796465595,3987942396,1089671869
+
+
+// Unloved (god-pve)
+//notes: blueberries.gg/weapons/unloved-god-rolls/ PvE Roll: All-Around (A) "To make this clunky weapon feel slightly better, we are opting for Arrowhead Brake and a Stability Masterwork, as the base stats on this gun are relatively low. Appended Mag is also good for slightly boosting the magazine size. Thankfully, we have Frenzy to help with handling or reload troubles, meaning we can be flexible with our barrel and magazine choices. For perk 1, we like Dragonfly to give the weapon some AoE potential, but Hatchling can work as an alternative, particularly if you are on Strand. For Perk 2, Frenzy is ideal to boost that Reload Speed while also giving a nice 15% damage boost. However, you can go for Elemental Honing if you want more damage." Masterwork	Stability tags:god-pve
+dimwishlist:item=2485881870&perks=839105230,1087426260,2848615171,4104185692
+
+
+// Unloved (god-pvp)
+//notes: blueberries.gg/weapons/unloved-god-rolls/ PvP Roll: All-Around (B) "To help with the challenging feel of the weapon, we look to maximise Stability by taking Smallbore, Ricochet Rounds, and a Stability Masterwork. This boosts us up to 52 Stability at base. For Perk 1, Rapid Hit is our choice as it helps further with the ease of use of the weapon, bringing us an additional 25 Stability at x5 stacks andwoo faster Reload Speed. For perk 2, Kill Clip is recommended as it lets you frag out easily in PvP, as Unloved can kill in two bursts with Kill Clip active. Alternatively, Closing Time can further improve the consistency of the weapon if you would rather have that instead." Masterwork	Stability tags:god-pvp
+dimwishlist:item=2485881870&perks=1482024992,1885400500,247725512,1015611457
+
+
+// Unloved (pve)
+//notes: blueberries.gg/weapons/unloved-god-rolls/ PvE Roll: All-Around (A) "To make this clunky weapon feel slightly better, we are opting for Arrowhead Brake and a Stability Masterwork, as the base stats on this gun are relatively low. Appended Mag is also good for slightly boosting the magazine size. Thankfully, we have Frenzy to help with handling or reload troubles, meaning we can be flexible with our barrel and magazine choices. For perk 1, we like Dragonfly to give the weapon some AoE potential, but Hatchling can work as an alternative, particularly if you are on Strand. For Perk 2, Frenzy is ideal to boost that Reload Speed while also giving a nice 15% damage boost. However, you can go for Elemental Honing if you want more damage." Masterwork	Stability tags:pve
+dimwishlist:item=2485881870&perks=839105230,1087426260,2848615171,4104185692
+dimwishlist:item=2485881870&perks=839105230,1087426260,2848615171,1089671869
+dimwishlist:item=2485881870&perks=839105230,1087426260,831391274,4104185692
+dimwishlist:item=2485881870&perks=839105230,1087426260,831391274,1089671869
+
+
+// Unloved (pvp)
+//notes: blueberries.gg/weapons/unloved-god-rolls/ PvP Roll: All-Around (B) "To help with the challenging feel of the weapon, we look to maximise Stability by taking Smallbore, Ricochet Rounds, and a Stability Masterwork. This boosts us up to 52 Stability at base. For Perk 1, Rapid Hit is our choice as it helps further with the ease of use of the weapon, bringing us an additional 25 Stability at x5 stacks andwoo faster Reload Speed. For perk 2, Kill Clip is recommended as it lets you frag out easily in PvP, as Unloved can kill in two bursts with Kill Clip active. Alternatively, Closing Time can further improve the consistency of the weapon if you would rather have that instead." Masterwork	Stability tags:pvp
+dimwishlist:item=2485881870&perks=1482024992,1885400500,247725512,1015611457
+dimwishlist:item=2485881870&perks=1482024992,1885400500,247725512,1194056669
+
+
+// Refusal of the Call (god-pve)
+//notes: blueberries.gg/weapons/refusal-of-the-call-god-rolls/ PvE Roll: All-Around (A) "As the goal is to swap to Refusal after landing a kill with a different weapon, boosting our handling is top priority. Tempered Truss Rod, Swap Mag, and a handling masterwork should do you just fine. Discord has barely any contenders in its slot. While Envious Assassin and Replenishing Aegis are nice, Discord refunds the ammo from thin air, instead of pulling from reserves. Slice is the only other worthwhile perk as it can make those close-up encounters less stressful. As for Perk 2, Sword Logic just pairs so well with Discord that other options seem lackluster. However, Close to Melee is a solid alternative as it too can take advantage of Discord’s ammo refund." Masterwork	Handling tags:god-pve
+dimwishlist:item=2671849376&perks=5699512,3721627275,3978468247,31345821
+
+
+// Refusal of the Call (god-pvp)
+//notes: blueberries.gg/weapons/refusal-of-the-call-god-rolls/ PvP Roll: All-Around (B) "Contrasting our PvE roll, we’re going to focus solely on range for PvP. Ballistic Tuning, Accurized Rounds, and a range masterwork will give it a solid bump and will make our perk 1 choice even stronger. Speaking of, Impulse Amplifier is that perk. Tacking on the 35% bonus gives Refusal a whopping 175 m/s projectile velocity! And while it might seem like an odd choice, Disruption Break for Perk 2 is actually a very solid pick. As the glaive melee is coded as a Kinetic attack, it will benefit from the 50% damage debuff, allowing for a shot-melee kill at all resilience tiers!" Masterwork	Range tags:god-pvp
+dimwishlist:item=2671849376&perks=1263609309,3142289711,951095735,1683379515
+
+
+// Refusal of the Call (pve)
+//notes: blueberries.gg/weapons/refusal-of-the-call-god-rolls/ PvE Roll: All-Around (A) "As the goal is to swap to Refusal after landing a kill with a different weapon, boosting our handling is top priority. Tempered Truss Rod, Swap Mag, and a handling masterwork should do you just fine. Discord has barely any contenders in its slot. While Envious Assassin and Replenishing Aegis are nice, Discord refunds the ammo from thin air, instead of pulling from reserves. Slice is the only other worthwhile perk as it can make those close-up encounters less stressful. As for Perk 2, Sword Logic just pairs so well with Discord that other options seem lackluster. However, Close to Melee is a solid alternative as it too can take advantage of Discord’s ammo refund." Masterwork	Handling tags:pve
+dimwishlist:item=2671849376&perks=5699512,3721627275,3978468247,31345821
+dimwishlist:item=2671849376&perks=5699512,3721627275,3978468247,1782407750
+dimwishlist:item=2671849376&perks=5699512,3721627275,923806249,31345821
+dimwishlist:item=2671849376&perks=5699512,3721627275,923806249,1782407750
+
+
+// The Palindrome (god-pve)
+//notes: blueberries.gg/weapons/the-palindrome-god-rolls/ PvE Roll: All-Around (B) "We’ll start our PvE roll with Fluted Barrel, Tactical Mag, and a handling masterwork for a mix of stat boosts. If reload speed becomes a problem as a result of opting against Outlaw, the masterwork can be swapped for reload speed. Explosive Payload isn’t an absurdly popular choice for PvE, but it’s the best The Palindrome has in this column. Plus, it supports our final column choice, Master of Arms, in increasing raw power. Speaking of which, Master of Arms is the best pick for column four, adding a 25% damage bonus when at two stacks." Masterwork	Handling or Reload Speed tags:god-pve
+dimwishlist:item=2876244791&perks=1840239774,106909392,3038247973,3081867624
+
+
+// The Palindrome (god-pvp)
+//notes: blueberries.gg/weapons/the-palindrome-god-rolls/ PvP Roll: All-Around (A) "In The Crucible, prioritizing range and stability are vital. As a result, we’ll opt for Smallbore, Ricochet Rounds, and a range masterwork. Explosive Payload provides similar benefits, effectively adding some additional flinch and range. Magnificent Howl is a great choice for the final column—that is, assuming you’re skilled enough to chain multiple precision kills in one life. If you aren’t, or if you prefer a stat-boosting perk instead, Opening Shot will serve you well." Masterwork	Range tags:god-pvp
+dimwishlist:item=2876244791&perks=1482024992,3142289711,3038247973,2720533289
+
+
+// The Palindrome (pve)
+//notes: blueberries.gg/weapons/the-palindrome-god-rolls/ PvE Roll: All-Around (B) "We’ll start our PvE roll with Fluted Barrel, Tactical Mag, and a handling masterwork for a mix of stat boosts. If reload speed becomes a problem as a result of opting against Outlaw, the masterwork can be swapped for reload speed. Explosive Payload isn’t an absurdly popular choice for PvE, but it’s the best The Palindrome has in this column. Plus, it supports our final column choice, Master of Arms, in increasing raw power. Speaking of which, Master of Arms is the best pick for column four, adding a 25% damage bonus when at two stacks." Masterwork	Handling or Reload Speed tags:pve
+dimwishlist:item=2876244791&perks=1840239774,106909392,3038247973,3081867624
+dimwishlist:item=2876244791&perks=1840239774,106909392,3038247973,3218042543
+dimwishlist:item=2876244791&perks=1840239774,106909392,1168162263,3081867624
+dimwishlist:item=2876244791&perks=1840239774,106909392,1168162263,3218042543
+
+
+// The Palindrome (pvp)
+//notes: blueberries.gg/weapons/the-palindrome-god-rolls/ PvP Roll: All-Around (A) "In The Crucible, prioritizing range and stability are vital. As a result, we’ll opt for Smallbore, Ricochet Rounds, and a range masterwork. Explosive Payload provides similar benefits, effectively adding some additional flinch and range. Magnificent Howl is a great choice for the final column—that is, assuming you’re skilled enough to chain multiple precision kills in one life. If you aren’t, or if you prefer a stat-boosting perk instead, Opening Shot will serve you well." Masterwork	Range tags:pvp
+dimwishlist:item=2876244791&perks=1482024992,3142289711,3038247973,2720533289
+dimwishlist:item=2876244791&perks=1482024992,3142289711,3038247973,47981717
+dimwishlist:item=2876244791&perks=1482024992,3142289711,3713215006,2720533289
+dimwishlist:item=2876244791&perks=1482024992,3142289711,3713215006,47981717
+
+
+// Archon's Thunder (god-pve)
+//notes: .blueberries.gg/weapons/archons-thunder-god-rolls/ PvE Roll: All-Around (A) "We’ll start our PvE roll with extra handling, reload speed, and magazine size through Fluted Barrel, Tactical Mag, and a handling masterwork. From there, the main roll we recommend is Rimestealer and Headstone, obviously built to pair with a Stasis setup of some sort. That said, if you’re looking for something a bit more generic, we’d recommend Enlightened Action and Killing Tally. While Envious Assassin in the first column is also pretty enticing, you’ll realistically be killing most enemies you come across with Archon’s Thunder anyway, so building up Envious Assassin is slightly unrealistic." Masterwork	Handling tags:god-pve
+dimwishlist:item=2896109856&perks=1840239774,106909392,1955165503,124408337
+
+
+// Archon's Thunder (god-pvp)
+//notes: blueberries.gg/weapons/archons-thunder-god-rolls/ PvP Roll: All-Around (B) "Our roll for The Crucible almost exclusively consists of stability increases. Polygonal Rifling, Steady Rounds, and a stability masterwork all contribute to this, although a handling masterwork may work better for some. As for our main perks, we’ll settle for Dynamic Sway Reduction and Tap The Trigger. Realistically, the weapon has high enough damage per shot and range to make it not worth focusing on anything else." Masterwork	Stability or Handling tags:god-pvp
+dimwishlist:item=2896109856&perks=1392496348,3177308360,1359896290,1890422124
+
+
+// Archon's Thunder (pve)
+//notes: .blueberries.gg/weapons/archons-thunder-god-rolls/ PvE Roll: All-Around (A) "We’ll start our PvE roll with extra handling, reload speed, and magazine size through Fluted Barrel, Tactical Mag, and a handling masterwork. From there, the main roll we recommend is Rimestealer and Headstone, obviously built to pair with a Stasis setup of some sort. That said, if you’re looking for something a bit more generic, we’d recommend Enlightened Action and Killing Tally. While Envious Assassin in the first column is also pretty enticing, you’ll realistically be killing most enemies you come across with Archon’s Thunder anyway, so building up Envious Assassin is slightly unrealistic." Masterwork	Handling tags:pve
+dimwishlist:item=2896109856&perks=1840239774,106909392,1955165503,124408337
+dimwishlist:item=2896109856&perks=1840239774,106909392,1955165503,557221067
+dimwishlist:item=2896109856&perks=1840239774,106909392,3828510309,124408337
+dimwishlist:item=2896109856&perks=1840239774,106909392,3828510309,557221067
+
+
+// Division (god-pve)
+//notes: blueberries.gg/weapons/division-god-rolls/ PvE Roll: All-Around (A) "Our PvE roll with begin with Fluted Barrel, Tactical Mag, and a handling masterwork, a classic combination that provides a nice balance of potent stats for PvE. Eddy Current isn’t an absurdly popular pick these days, but it’s the best the first column has here. Plus, it fits nicely with our final perk pick, which is Voltshot. Assuming you’re rocking an Arc build (which will be more potent this Episode through the artifact!), this combination is great for more casual activities." Masterwork	Handling tags:god-pve
+dimwishlist:item=2992463569&perks=1840239774,106909392,684456054,2173046394
+
+
+// Division (god-pvp)
+//notes: blueberries.gg/weapons/division-god-rolls/ PvP Roll: All-Around (A) "Building into the range stat of this weapon doesn’t actually increase its effective range much, so we’ll instead prioritize stability. Smallbore, Steady Rounds, and a stability masterwork are perfect for this. To the Pain is our choice for column one, which is great since you’re likely to be taking a lot of damage when fighting so close range. As for the second column, Sword Logic is our top pick, which allows for a 0.47s (two burst) time to kill against all resilience levels." Masterwork	Stability tags:god-pvp
+dimwishlist:item=2992463569&perks=1482024992,3177308360,3938834702,31345821
+
+
+// Multimach CCX (god-pve)
+//notes: blueberries.gg/weapons/multimach-ccx-god-rolls/ PvE Roll: All-Around (S) "We’ll begin building Multimach CCX for PvE with Corkscrew Rifling, Flared Magwell, and a range masterwork for an even split of stats. Attrition Orbs is our general choice for column one because of its ability to combine with Armor Charge builds; however, Under-Over is an outstanding choice if you instead plan on using it to counter Champions in high-difficulty activities. As for the final column, Kinetic Tremors is an extremely powerful pick that triggers absurdly often on this SMG. Alternatively, Frenzy’s wide range of added stats makes it an outstanding choice as well, especially if you need some extra reload speed." Masterwork	Reload Speed (also good: Range) tags:god-pve
+dimwishlist:item=3211624072&perks=4090651448,3230963543,243981275,3891536761
+
+
+// Multimach CCX (god-pvp)
+//notes: blueberries.gg/weapons/multimach-ccx-god-rolls/ PvP Roll: All-Around (A) "As we said earlier, Multimach CCX isn’t nearly as potent as it once was in The Crucible. That said, there are a wide range of ways to make the weapon worth using. We’ll begin by opting for an extremely high range stat with Hammer-Forged Rifling, Accurized Rounds, and a range masterwork. Dynamic Sway Reduction and Moving Target are both outstanding in column one due to their passive stat buffs—which one you choose to seek is an entirely personal preference.  Kill Clip attempts to mimic what we once had with Target Lock, which is why it’s our first choice for the final column. However, combinations of two consistency perks on SMGs have become popular over the past few months, meaning Tap the Trigger is equally potent." Masterwork	Range tags:god-pvp
+dimwishlist:item=3211624072&perks=3250034553,3142289711,1359896290,1015611457
+
+
+// Multimach CCX (pve)
+//notes: blueberries.gg/weapons/multimach-ccx-god-rolls/ PvE Roll: All-Around (S) "We’ll begin building Multimach CCX for PvE with Corkscrew Rifling, Flared Magwell, and a range masterwork for an even split of stats. Attrition Orbs is our general choice for column one because of its ability to combine with Armor Charge builds; however, Under-Over is an outstanding choice if you instead plan on using it to counter Champions in high-difficulty activities. As for the final column, Kinetic Tremors is an extremely powerful pick that triggers absurdly often on this SMG. Alternatively, Frenzy’s wide range of added stats makes it an outstanding choice as well, especially if you need some extra reload speed." Masterwork	Reload Speed (also good: Range) tags:pve
+dimwishlist:item=3211624072&perks=4090651448,3230963543,243981275,3891536761
+dimwishlist:item=3211624072&perks=4090651448,3230963543,243981275,4104185692
+dimwishlist:item=3211624072&perks=4090651448,3230963543,1870851715,3891536761
+dimwishlist:item=3211624072&perks=4090651448,3230963543,1870851715,4104185692
+
+
+// Multimach CCX (pvp)
+//notes: blueberries.gg/weapons/multimach-ccx-god-rolls/ PvP Roll: All-Around (A) "As we said earlier, Multimach CCX isn’t nearly as potent as it once was in The Crucible. That said, there are a wide range of ways to make the weapon worth using. We’ll begin by opting for an extremely high range stat with Hammer-Forged Rifling, Accurized Rounds, and a range masterwork. Dynamic Sway Reduction and Moving Target are both outstanding in column one due to their passive stat buffs—which one you choose to seek is an entirely personal preference.  Kill Clip attempts to mimic what we once had with Target Lock, which is why it’s our first choice for the final column. However, combinations of two consistency perks on SMGs have become popular over the past few months, meaning Tap the Trigger is equally potent." Masterwork	Range tags:pvp
+dimwishlist:item=3211624072&perks=3250034553,3142289711,1359896290,1015611457
+dimwishlist:item=3211624072&perks=3250034553,3142289711,1359896290,1890422124
+dimwishlist:item=3211624072&perks=3250034553,3142289711,588594999,1015611457
+dimwishlist:item=3211624072&perks=3250034553,3142289711,588594999,1890422124
+
+
+// Adamantite (god-pve)
+//notes: blueberries.gg/weapons/adamantite-god-rolls/ PvE god rolls (S) "For our PvE roll, we’ll start with Fluted Barrel, Flared Magwell, and either a handling or stability masterwork to get a solid increase in stats. From there, our roll is pretty simple: opt for Reciprocity and Circle of Life. Both of these feed into the support frame’s loop and offer you substantial benefits (healing and a +25% damage buff) for very little work." Masterwork	Handling or Stability tags:god-pve
+dimwishlist:item=3229982889&perks=1840239774,3230963543,692399809,2298656195
+
+
+// Adamantite (god-pvp)
+//notes: blueberries.gg/weapons/adamantite-god-rolls/ PvP god rolls (B) "The base of our roll for The Crucible includes Smallbore, Accurized Rounds, and a range masterwork, all of which contribute to this weapon’s range stat. Kill Clip is a clear winner in the final column for a potent damage buff after every kill. The first column, however, is not as clear; we recommend Reciprocity for its healing bonus, but only because every other option here isn’t too great." Masterwork	Range tags:god-pvp
+dimwishlist:item=3229982889&perks=1482024992,3142289711,692399809,1015611457
+
+
+// Unvoiced (god-pve)
+//notes: blueberries.gg/weapons/unvoiced-god-rolls/ PvE Roll: All-Around (A) "Fluted Barrel and a handling masterwork grant us tons of additional handling, which is super important for PvE. For our magazine, it’s a toss-up between Assault Mag and Tactical Mag. Assault Mag increases the rate of fire, while Tactical Mag gives some various stat buffs; the choice between them is yours. Fourth Time’s the Charm is our first pick for column three, primarily because slug shotguns aren’t commonly used in full DPS rotations where Envious Arsenal would be better. Bait and Switch, however, is still the best damage perk out of the bunch, granting a whopping 30% increase. Finally, while using a slug shotgun for ad clear seems a bit silly, we’d be remiss if we didn’t mention Destabilizing Rounds and Demoralize. The combination only excels in casual settings, but it can be pretty fun with a potent Void build." Masterwork	Handling tags:god-pve
+dimwishlist:item=3360937899&perks=1840239774,791862061,1354429876,3078487919
+
+
+// Unvoiced (god-pvp)
+//notes: blueberries.gg/weapons/unvoiced-god-rolls/ PvP Roll: All-Around (A) "Fluted Barrel, Accurized Rounds, and a handling masterwork make up the base of our PvP roll. A range masterwork could be opted for instead to push the range stat to an even 100, but our fourth perk also passively grants range, making a masterwork for it rather repetitive. Lone Wolf offers multiple great benefits even when not technically active, making it our first pick for column three. For our final perk, Closing Time is the play. Realistically, it’ll be active all the time due to how little special ammo you typically work off of in The Crucible, making it pretty potent here." Masterwork	Handling tags:god-pvp
+dimwishlist:item=3360937899&perks=1840239774,3142289711,2579169598,1194056669
+
+
+// Unvoiced (pve)
+//notes: blueberries.gg/weapons/unvoiced-god-rolls/ PvE Roll: All-Around (A) "Fluted Barrel and a handling masterwork grant us tons of additional handling, which is super important for PvE. For our magazine, it’s a toss-up between Assault Mag and Tactical Mag. Assault Mag increases the rate of fire, while Tactical Mag gives some various stat buffs; the choice between them is yours. Fourth Time’s the Charm is our first pick for column three, primarily because slug shotguns aren’t commonly used in full DPS rotations where Envious Arsenal would be better. Bait and Switch, however, is still the best damage perk out of the bunch, granting a whopping 30% increase. Finally, while using a slug shotgun for ad clear seems a bit silly, we’d be remiss if we didn’t mention Destabilizing Rounds and Demoralize. The combination only excels in casual settings, but it can be pretty fun with a potent Void build." Masterwork	Handling tags:pve
+dimwishlist:item=3360937899&perks=1840239774,791862061,1354429876,3078487919
+dimwishlist:item=3360937899&perks=1840239774,791862061,3987942396,3078487919
+dimwishlist:item=3360937899&perks=1840239774,106909392,1354429876,3078487919
+dimwishlist:item=3360937899&perks=1840239774,106909392,3987942396,3078487919
+
+
+// Unvoiced (pvp)
+//notes: blueberries.gg/weapons/unvoiced-god-rolls/ PvP Roll: All-Around (A) "Fluted Barrel, Accurized Rounds, and a handling masterwork make up the base of our PvP roll. A range masterwork could be opted for instead to push the range stat to an even 100, but our fourth perk also passively grants range, making a masterwork for it rather repetitive. Lone Wolf offers multiple great benefits even when not technically active, making it our first pick for column three. For our final perk, Closing Time is the play. Realistically, it’ll be active all the time due to how little special ammo you typically work off of in The Crucible, making it pretty potent here." Masterwork	Handling tags:pvp
+dimwishlist:item=3360937899&perks=1840239774,3142289711,2579169598,1194056669
+dimwishlist:item=3360937899&perks=1840239774,3142289711,2450788523,1194056669
+
+
+// Anamnesis (god-pve)
+//notes: blueberries.gg/weapons/anamnesis-god-rolls/ PvE Roll: All-Around (A) "We’ll begin with Elastic String for significantly decreased draw time and slightly increased handling. From there, Fiberglass Arrow Shaft is great to balance out the significant amount of accuracy we lost from Elastic String, while a handling masterwork rounds everything out nicely. The most obvious (and potent) roll here is the classic combination of Repulsor Brace and Destabilizing Rounds. After its buff with Heresy’s launch, Destabilizing Rounds is a monster on any weapon that can roll with it. If you want to instead embrace the explosion fantasy a bit more, replacing Repulsor Brace for Dragonfly isn’t a horrible choice in more casual settings." Masterwork	Handling tags:god-pve
+dimwishlist:item=3417731926&perks=2801223209,3429800428,776531651,2048641572
+
+
+// Anamnesis (god-pvp)
+//notes: blueberries.gg/weapons/anamnesis-god-rolls/ PvP Roll: All-Around (B) "Natural String, Straight Fletching, and an accuracy masterwork all contribute to accuracy, stability, and handling, three of the most important stats for The Crucible’s sandbox. While Successful Warm-up and Sword Logic both have kill requirements to activate, they’re our top picks here because of how potent they are. Plus, Anamnesis’ perk selection is inherently geared towards PvE, making viable PvP perks few and far between." Masterwork	Accuracy tags:god-pvp
+dimwishlist:item=3417731926&perks=1784898267,3827198035,2652708987,31345821
+
+
+// Anamnesis (pve)
+//notes: blueberries.gg/weapons/anamnesis-god-rolls/ PvE Roll: All-Around (A) "We’ll begin with Elastic String for significantly decreased draw time and slightly increased handling. From there, Fiberglass Arrow Shaft is great to balance out the significant amount of accuracy we lost from Elastic String, while a handling masterwork rounds everything out nicely. The most obvious (and potent) roll here is the classic combination of Repulsor Brace and Destabilizing Rounds. After its buff with Heresy’s launch, Destabilizing Rounds is a monster on any weapon that can roll with it. If you want to instead embrace the explosion fantasy a bit more, replacing Repulsor Brace for Dragonfly isn’t a horrible choice in more casual settings." Masterwork	Handling tags:pve
+dimwishlist:item=3417731926&perks=2801223209,3429800428,776531651,2048641572
+dimwishlist:item=3417731926&perks=2801223209,3429800428,2848615171,2048641572
+
+
+// Exalted Truth (god-pve)
+//notes: blueberries.gg/weapons/exalted-truth-god-rolls/ PvE Roll: All-Around (S) "In PvE, we’ll start with Fluted Barrel, Tactical Mag, and either a handling or reload speed masterwork. This primarily grants us some extra handling but also gives bits of other stats that make this weapon feel super smooth. As for main perks, Destabilizing Rounds in the first column is hard to pass up. Especially with its recent buff, this perk is insane even when running a non-Void subclass. Repulsor Brace in the final column clearly complements Destabilizing Rounds pretty well, but One for All is also worth mentioning if survivability isn’t an issue." Masterwork	Handling or Reload Speed tags:god-pve
+dimwishlist:item=3436626079&perks=1840239774,106909392,2048641572,4049631843,2988596335
+dimwishlist:item=3436626079&perks=1840239774,106909392,2048641572,4049631843,4091460919
+dimwishlist:item=3436626079&perks=1840239774,106909392,2048641572,776531651,2988596335
+dimwishlist:item=3436626079&perks=1840239774,106909392,2048641572,776531651,4091460919
+
+
+// Exalted Truth (god-pvp)
+//notes: blueberries.gg/weapons/exalted-truth-god-rolls/ PvP Roll: All-Around (S) "Smallbore, Accurized Rounds, and a range masterwork allow us to increase Exalted’s range stat by a substantial amount right off the bat. Choosing a combination of main perks here is extremely difficult since there are so many outstanding options in both columns. Slideshot and Precision Instrument are both great and can act like consistency perks if you play into them, but more standard picks like Keep Away and Opening Shot are definitely worth mentioning as well. That all said, the majority of perks in this pool are S-tier picks for PvP (Moving Target, Lone Wolf, Eye of the Storm, and Magnificent Howl, to name a few more), so there’s tons of wiggle room here." Masterwork	Range tags:god-pvp
+dimwishlist:item=3436626079&perks=1482024992,3142289711,3161816588,555281244,4091460919
+dimwishlist:item=3436626079&perks=1482024992,3142289711,3161816588,555281244,2988596335
+dimwishlist:item=3436626079&perks=1482024992,3142289711,3161816588,47981717,4091460919
+dimwishlist:item=3436626079&perks=1482024992,3142289711,3161816588,47981717,2988596335
+dimwishlist:item=3436626079&perks=1482024992,3142289711,3619207468,555281244,4091460919
+dimwishlist:item=3436626079&perks=1482024992,3142289711,3619207468,555281244,2988596335
+dimwishlist:item=3436626079&perks=1482024992,3142289711,3619207468,47981717,4091460919
+dimwishlist:item=3436626079&perks=1482024992,3142289711,3619207468,47981717,2988596335
+
+
+// Exalted Truth (pvp)
+//notes: blueberries.gg/weapons/exalted-truth-god-rolls/ PvP Roll: All-Around (S) "Smallbore, Accurized Rounds, and a range masterwork allow us to increase Exalted’s range stat by a substantial amount right off the bat. Choosing a combination of main perks here is extremely difficult since there are so many outstanding options in both columns. Slideshot and Precision Instrument are both great and can act like consistency perks if you play into them, but more standard picks like Keep Away and Opening Shot are definitely worth mentioning as well. That all said, the majority of perks in this pool are S-tier picks for PvP (Moving Target, Lone Wolf, Eye of the Storm, and Magnificent Howl, to name a few more), so there’s tons of wiggle room here." Masterwork	Range tags:pvp
+dimwishlist:item=3436626079&perks=1482024992,3142289711,3161816588,555281244,4091460919
+dimwishlist:item=3436626079&perks=1482024992,3142289711,3161816588,555281244,2988596335
+dimwishlist:item=3436626079&perks=1482024992,3142289711,3161816588,47981717,4091460919
+dimwishlist:item=3436626079&perks=1482024992,3142289711,3161816588,47981717,2988596335
+dimwishlist:item=3436626079&perks=1482024992,3142289711,3161816588,699525795,4091460919
+dimwishlist:item=3436626079&perks=1482024992,3142289711,3161816588,699525795,2988596335
+dimwishlist:item=3436626079&perks=1482024992,3142289711,3619207468,555281244,4091460919
+dimwishlist:item=3436626079&perks=1482024992,3142289711,3619207468,555281244,2988596335
+dimwishlist:item=3436626079&perks=1482024992,3142289711,3619207468,47981717,4091460919
+dimwishlist:item=3436626079&perks=1482024992,3142289711,3619207468,47981717,2988596335
+dimwishlist:item=3436626079&perks=1482024992,3142289711,3619207468,699525795,4091460919
+dimwishlist:item=3436626079&perks=1482024992,3142289711,3619207468,699525795,2988596335
+dimwishlist:item=3436626079&perks=1482024992,3142289711,2579169598,555281244,4091460919
+dimwishlist:item=3436626079&perks=1482024992,3142289711,2579169598,555281244,2988596335
+dimwishlist:item=3436626079&perks=1482024992,3142289711,2579169598,47981717,4091460919
+dimwishlist:item=3436626079&perks=1482024992,3142289711,2579169598,47981717,2988596335
+dimwishlist:item=3436626079&perks=1482024992,3142289711,2579169598,699525795,4091460919
+dimwishlist:item=3436626079&perks=1482024992,3142289711,2579169598,699525795,2988596335
+
+
+// Peacebond (god-pve)
+//notes: blueberries.gg/weapons/peacebond-god-rolls/ PvE Roll: All-Around (A) "Like most of our PvE rolls, Fluted Barrel and Tactical Mag are your go to choices, especially as handling and reload speed are the lowest stats on here (or at least those that matter in PvE). A reload speed masterwork is highly recommended, even if you do end up running Frenzy. Perk 1 really only has two choices here: Headstone or Subsistence. Headstone is by far the better of the two thanks to the utility the crystal provides, but Subsistence is a good alternative for lower end content. Perk 2 doesn’t fare much better for quantity, but the quality of Rimestealer, Frenzy, and Desperate Measures is inarguable. Rimestealer goes hand in hand with Headstone, Frenzy gives us a solid damage buff and a huge boost to reload speed, and Desperate Measures at max stacks shreds most everything." Masterwork	Reload Speed tags:god-pve
+dimwishlist:item=3437370193&perks=1840239774,106909392,124408337,1955165503
+dimwishlist:item=3437370193&perks=1840239774,106909392,124408337,4104185692
+
+
+// Peacebond (god-pvp)
+//notes: blueberries.gg/weapons/peacebond-god-rolls/ PvP Roll: All-Around (B) "While we typically do not want to sacrifice stats to benefit others, Extended Barrel’s boosts to both recoil direction and range are worth the hit to handling, especially as it only changes the time by .02 seconds. Accurized Rounds and a range masterwork will help push the falloff a bit further. Perk 1’s loaded with PvP options, but the strongest two are Moving Target and Zen Moment. Moving Target will help keep your aim on point when scurrying around the arena, and Zen Moment will help those follow-up shots land where they need to. Perk 2, on the other hand, is a little lacking for PvP, but Headseeker and Desperado are viable picks. Headseeker will help when your aim isn’t perfect, and Desperado tightens the TTK up to just under .6 seconds!" Masterwork	Range tags:god-pvp
+dimwishlist:item=3437370193&perks=1467527085,3142289711,588594999,460017080
+dimwishlist:item=3437370193&perks=1467527085,3142289711,588594999,3047969693
+dimwishlist:item=3437370193&perks=1467527085,3142289711,2387244414,460017080
+dimwishlist:item=3437370193&perks=1467527085,3142289711,2387244414,3047969693
+
+
+// Peacebond (pve)
+//notes: blueberries.gg/weapons/peacebond-god-rolls/ PvE Roll: All-Around (A) "Like most of our PvE rolls, Fluted Barrel and Tactical Mag are your go to choices, especially as handling and reload speed are the lowest stats on here (or at least those that matter in PvE). A reload speed masterwork is highly recommended, even if you do end up running Frenzy. Perk 1 really only has two choices here: Headstone or Subsistence. Headstone is by far the better of the two thanks to the utility the crystal provides, but Subsistence is a good alternative for lower end content. Perk 2 doesn’t fare much better for quantity, but the quality of Rimestealer, Frenzy, and Desperate Measures is inarguable. Rimestealer goes hand in hand with Headstone, Frenzy gives us a solid damage buff and a huge boost to reload speed, and Desperate Measures at max stacks shreds most everything." Masterwork	Reload Speed tags:pve
+dimwishlist:item=3437370193&perks=1840239774,106909392,124408337,1955165503
+dimwishlist:item=3437370193&perks=1840239774,106909392,124408337,4104185692
+dimwishlist:item=3437370193&perks=1840239774,106909392,124408337,2109543898
+dimwishlist:item=3437370193&perks=1840239774,106909392,1820235745,1955165503
+dimwishlist:item=3437370193&perks=1840239774,106909392,1820235745,4104185692
+dimwishlist:item=3437370193&perks=1840239774,106909392,1820235745,2109543898
+
+
+// Vision of Confluence (god-pve)
+//notes: blueberries.gg/weapons/vision-of-confluence-god-rolls/ PvE Roll: All-Around (A) "We recommend Fluted Barrel and Tactical Mag due to the boosts to Stability and Handling, while also increasing the reload speed to make the weapon feel smoother to use. Incandescent is a strong option to help with this weapon’s add clear, as kills cause explosions which also applies Scorch to nearby enemies, causing damage over time and potentially Ignitions. Heal Clip is a viable option if you are struggling with self-sustain, as reloading after a kill grants Cure x2. Explosive Payload is recommended in column 2 as it provides the weapon with a slight damage boost, and also helps with staggering some of the bigger enemies in game. Frenzy is also a viable option. While the weapon does have a large variety of damage perks, Frenzy is the easiest to keep active as it only requires being in combat, and also boosts the weapons Handling and Reload Speed. (If using Frenzy, we recommend swapping to Extended Mag)." Masterwork	Stability tags:god-pve
+dimwishlist:item=3444688218&perks=1840239774,106909392,4293542123,3038247973
+
+
+// Vision of Confluence (god-pvp)
+//notes: blueberries.gg/weapons/vision-of-confluence-god-rolls/ PvP Roll: All-Around (B) "We recommend Fluted Barrel due to the boost in Stability and Handling, while Accurized Rounds helps with the Range. Zen Moment is recommended as the best PvP option as it grants Flinch Resistance while also reducing weapon shake and reticle bounce, making it easier to keep landing your shots. Explosive Payload is recommended as it can provide a very small damage boost while also causing your target to flinch, increasing your odds at winning the gunfight." Masterwork	Range tags:god-pvp
+dimwishlist:item=3444688218&perks=1840239774,3142289711,2387244414,3038247973
+
+
+// Vision of Confluence (pve)
+//notes: blueberries.gg/weapons/vision-of-confluence-god-rolls/ PvE Roll: All-Around (A) "We recommend Fluted Barrel and Tactical Mag due to the boosts to Stability and Handling, while also increasing the reload speed to make the weapon feel smoother to use. Incandescent is a strong option to help with this weapon’s add clear, as kills cause explosions which also applies Scorch to nearby enemies, causing damage over time and potentially Ignitions. Heal Clip is a viable option if you are struggling with self-sustain, as reloading after a kill grants Cure x2. Explosive Payload is recommended in column 2 as it provides the weapon with a slight damage boost, and also helps with staggering some of the bigger enemies in game. Frenzy is also a viable option. While the weapon does have a large variety of damage perks, Frenzy is the easiest to keep active as it only requires being in combat, and also boosts the weapons Handling and Reload Speed. (If using Frenzy, we recommend swapping to Extended Mag)." Masterwork	Stability tags:pve
+dimwishlist:item=3444688218&perks=1840239774,106909392,4293542123,3038247973
+dimwishlist:item=3444688218&perks=1840239774,106909392,4293542123,4104185692
+dimwishlist:item=3444688218&perks=1840239774,106909392,3017780555,3038247973
+dimwishlist:item=3444688218&perks=1840239774,106909392,3017780555,4104185692
+
+
+// Corrective Measure (god-pve)
+//notes: blueberries.gg/weapons/corrective-measure-god-rolls/ PvE Roll: All-Around (A) "For some ease-of-use, we’ll be throwing on Fluted Barrel to bump the handling and stability a bit. As for the magazine, Appended Mag is the best choice here. Tactical Mag looks enticing, but the middling amount of ammo it gives is not worth the stat boosts. A reload speed masterwork will help round out the stats. For Perk 1, a lot of good options are here, but Destabilizing Rounds or Firefly are easily the best. Both play very well into both of our slot 2 options, and Destabilizing Rounds now grants Volatile Rounds directly to the gun! Perk 2 also has strong contenders, but Killing Tally or One-For-All take the cake. Both buff damage a rather significant amount, though their activation conditions are what set them apart: kills vs hits. Honorable mention to Demoralize, as pairing it with Firefly is a fun, but ultimately niche, combo." Masterwork	Reload Speed tags:god-pve
+dimwishlist:item=3654744298&perks=1840239774,1087426260,2048641572,557221067
+dimwishlist:item=3654744298&perks=1840239774,1087426260,2048641572,4049631843
+dimwishlist:item=3654744298&perks=1840239774,1087426260,3824105627,557221067
+dimwishlist:item=3654744298&perks=1840239774,1087426260,3824105627,4049631843
+
+
+// Corrective Measure (god-pvp)
+//notes: blueberries.gg/weapons/corrective-measure-god-rolls/ PvP Roll: All-Around (A) "Now in PvP, we’re going to want this as steady and stable as possible, and for that, Chambered Compensator + Steady Rounds will be our picks. Chambered Comp gives us a hefty boost to recoil and stability, and despite Steady Rounds knocking range down, it actually only affects the range by less than a meter. Throw on a stability masterwork to make this akin to a laser beam. Perks 1 and 2 will be the tried and true Dynamic Sway Reduction and High-Impact Reserves. DSR will make this even more stable (if that’s even possible), and HIR, while not the largest damage boost, will be active right off the rip. However, if you manage to go on sprees, then Killing Tally might be the better option." Masterwork	Stability tags:god-pvp
+dimwishlist:item=3654744298&perks=3661387068,3177308360,1359896290,2213355989
+
+
+// Corrective Measure (pvp)
+//notes: blueberries.gg/weapons/corrective-measure-god-rolls/ PvP Roll: All-Around (A) "Now in PvP, we’re going to want this as steady and stable as possible, and for that, Chambered Compensator + Steady Rounds will be our picks. Chambered Comp gives us a hefty boost to recoil and stability, and despite Steady Rounds knocking range down, it actually only affects the range by less than a meter. Throw on a stability masterwork to make this akin to a laser beam. Perks 1 and 2 will be the tried and true Dynamic Sway Reduction and High-Impact Reserves. DSR will make this even more stable (if that’s even possible), and HIR, while not the largest damage boost, will be active right off the rip. However, if you manage to go on sprees, then Killing Tally might be the better option." Masterwork	Stability tags:pvp
+dimwishlist:item=3654744298&perks=3661387068,3177308360,1359896290,2213355989
+dimwishlist:item=3654744298&perks=3661387068,3177308360,1359896290,557221067
+
+
+// Praedyth's Revenge (god-pve)
+//notes: blueberries.gg/weapons/praedyths-revenge-god-rolls/ PvE Roll: All-Around (S) "Fluted Barrel, Tactical Mag, and a handling masterwork all contribute to magazine size and handling, some of the most important perks when looking at PvE. Solidifying main perk combinations for Praedyth’s is tough. Rewind Rounds and Bait and Switch work well together as a backup damage option, which is why the combo is our top pick. That said, Fourth Time’s the Charm and Envious Arsenal are great replacements in column one, whereas Elemental Honing provides an unprecedented 68% damage buff at max stats. Kinetic Tremors is also worth mentioning since it’s in the first column, which is nearly unheard of and can result in absurd total damage." Masterwork	Handling tags:god-pve
+dimwishlist:item=3844610113&perks=1840239774,106909392,3418782618,3078487919
+dimwishlist:item=3844610113&perks=1840239774,106909392,1354429876,3078487919
+
+
+// Praedyth's Revenge (god-pvp)
+//notes: blueberries.gg/weapons/praedyths-revenge-god-rolls/ PvP Roll: All-Around (B) "Our Praedyth’s roll for The Crucible will begin with Fluted Barrel, Steady Rounds, and a stability masterwork, all of which grant handling and stability (two of the most important sniper rifle stats for PvP). Discord is really the only viable option for perk one; while a bit clunky to use on a sniper, having increased accuracy and aim down sights speed is better than anything else available here. As for our final perk, Opening Shot is the clear winner, increasing accuracy even further." Masterwork	Stability tags:god-pvp
+dimwishlist:item=3844610113&perks=1840239774,3177308360,3978468247,47981717
+
+
+// Praedyth's Revenge (pve)
+//notes: blueberries.gg/weapons/praedyths-revenge-god-rolls/ PvE Roll: All-Around (S) "Fluted Barrel, Tactical Mag, and a handling masterwork all contribute to magazine size and handling, some of the most important perks when looking at PvE. Solidifying main perk combinations for Praedyth’s is tough. Rewind Rounds and Bait and Switch work well together as a backup damage option, which is why the combo is our top pick. That said, Fourth Time’s the Charm and Envious Arsenal are great replacements in column one, whereas Elemental Honing provides an unprecedented 68% damage buff at max stats. Kinetic Tremors is also worth mentioning since it’s in the first column, which is nearly unheard of and can result in absurd total damage." Masterwork	Handling tags:pve
+dimwishlist:item=3844610113&perks=1840239774,106909392,3418782618,3078487919
+dimwishlist:item=3844610113&perks=1840239774,106909392,3418782618,1089671869
+dimwishlist:item=3844610113&perks=1840239774,106909392,1354429876,3078487919
+dimwishlist:item=3844610113&perks=1840239774,106909392,1354429876,1089671869
+
+
+// Mirror Imago (god-pve)
+//notes: blueberries.gg/weapons/mirror-imago-god-rolls/ PvE Roll: All-Around (C) "For some basic QoL, we’ll be running Fluted Barrel and Tactical Mag, as these keep the weapon feeling very consistent. Pair it with a stability masterwork and the Willing Vessel origin trait, and you’ll have no issue keeping shots on target. Perk 1 doesn’t have a lot of PvE options, but Grave Robber or Pugilist are easily the top two. Subsistence, while nice, might struggle in higher end activities or against heftier ads. As for Perk 2, any of the four damage options are nice, but Sword Logic or Swashbuckler feed into Perk 1’s options so that it’s hard to pick any others." Masterwork	Stability tags:god-pve
+dimwishlist:item=3877448149&perks=1840239774,106909392,1631667848,31345821
+dimwishlist:item=3877448149&perks=1840239774,106909392,1631667848,4082225868
+
+
+// Mirror Imago (god-pvp)
+//notes: blueberries.gg/weapons/mirror-imago-god-rolls/ PvP Roll: All-Around (A) "For PvP, range is one of the most important stats, which is why we are bumping it as much as possible here. Smallbore, Accurized Rounds, and a range masterwork will be all you need to pump out a few extra meters of dropoff. For Perk 1, Moving Target is easily your best option here with To the Pain as a good alternative. With how much movement is available to players, having something that helps you stick and move while shooting is perfect, and To the Pain helps in those dicey fights. Perk 2 has a good spread of damage perks to pick from, but Sword Logic or Target Lock are your top choices. Sword Logic nets you a solid 20% damage boost, which brings the optimal TTK down to .6 seconds, and Target Lock had its nerf on SMGs reverted, bringing it back into prominence." Masterwork	Range tags:god-pvp
+dimwishlist:item=3877448149&perks=1482024992,3142289711,588594999,31345821
+dimwishlist:item=3877448149&perks=1482024992,3142289711,588594999,365154968
+
+
+// Mirror Imago (pve)
+//notes: blueberries.gg/weapons/mirror-imago-god-rolls/ PvE Roll: All-Around (C) "For some basic QoL, we’ll be running Fluted Barrel and Tactical Mag, as these keep the weapon feeling very consistent. Pair it with a stability masterwork and the Willing Vessel origin trait, and you’ll have no issue keeping shots on target. Perk 1 doesn’t have a lot of PvE options, but Grave Robber or Pugilist are easily the top two. Subsistence, while nice, might struggle in higher end activities or against heftier ads. As for Perk 2, any of the four damage options are nice, but Sword Logic or Swashbuckler feed into Perk 1’s options so that it’s hard to pick any others." Masterwork	Stability tags:pve
+dimwishlist:item=3877448149&perks=1840239774,106909392,1631667848,31345821
+dimwishlist:item=3877448149&perks=1840239774,106909392,1631667848,4082225868
+dimwishlist:item=3877448149&perks=1840239774,106909392,691659142,31345821
+dimwishlist:item=3877448149&perks=1840239774,106909392,691659142,4082225868
+
+
+// Mirror Imago (pvp)
+//notes: blueberries.gg/weapons/mirror-imago-god-rolls/ PvP Roll: All-Around (A) "For PvP, range is one of the most important stats, which is why we are bumping it as much as possible here. Smallbore, Accurized Rounds, and a range masterwork will be all you need to pump out a few extra meters of dropoff. For Perk 1, Moving Target is easily your best option here with To the Pain as a good alternative. With how much movement is available to players, having something that helps you stick and move while shooting is perfect, and To the Pain helps in those dicey fights. Perk 2 has a good spread of damage perks to pick from, but Sword Logic or Target Lock are your top choices. Sword Logic nets you a solid 20% damage boost, which brings the optimal TTK down to .6 seconds, and Target Lock had its nerf on SMGs reverted, bringing it back into prominence." Masterwork	Range tags:pvp
+dimwishlist:item=3877448149&perks=1482024992,3142289711,588594999,31345821
+dimwishlist:item=3877448149&perks=1482024992,3142289711,588594999,365154968
+dimwishlist:item=3877448149&perks=1482024992,3142289711,3938834702,31345821
+dimwishlist:item=3877448149&perks=1482024992,3142289711,3938834702,365154968
+
+
+// Lotus-Eater (god-pve)
+//notes: blueberries.gg/weapons/lotus-eater-god-rolls/ PvE Roll: All-Around (S) "Starting off our PvE Roll, we’ve opted for Quick Launch as it provides a solid bump to Velocity, and a healthy increase to Handling which is always appreciated on Special weapons. This Velocity is further increased by High-Explosive Ordnance and a Velocity Masterwork. Our magazine choice also has the added benefit of slightly boosting our Blast Radius. Perk slot 1 has a plethora of brilliant options. While we have chosen Repulsor Brace as our main pick, it is tough to ignore Feeding Frenzy and Reconstruction. If you don’t want to fully lean into a Void build, one of those reload perks will serve you well. Perk slot 2 comes with the perk on everybody’s lips: Destabilizing Rounds. This is brilliant when paired with Repulsor Brace, but it also works well alone. However, if you want to forgo the Volatile capabilities of the perk, you can opt for Withering Gaze and treat Lotus-Eater as a utility pick rather than an add-clearing tool." Masterwork	Velocity tags:god-pve
+dimwishlist:item=3922217119&perks=3525010810,1380253176,776531651,2048641572
+
+
+// Lotus-Eater (god-pvp)
+//notes: blueberries.gg/weapons/lotus-eater-god-rolls/ PvP Roll: All-Around (C) "Like our PvE roll, Quick Launch and a Velocity Masterwork are our preferred picks to boost our Velocity. However, we instead opt for High-Velocity Rounds here to maximize the speed at which our shots will travel. For perk slot 1, Strategist is the only somewhat viable pick as it will provide a consistent benefit on kill. While some other traits may give a more noticeable boost on kill, you won’t be able to take full advantage of the bonus due to the ammo economy on the weapon. In perk slot 2, you can opt for High Ground or Withering Gaze. High Ground is the best pick, as it will give you a damage bonus when above your enemy, which is always welcome." Masterwork	Velocity tags:god-pvp
+dimwishlist:item=3922217119&perks=3525010810,2822142346,880644845,2319119708
+
+
+// Lotus-Eater (pve)
+//notes: blueberries.gg/weapons/lotus-eater-god-rolls/ PvE Roll: All-Around (S) "Starting off our PvE Roll, we’ve opted for Quick Launch as it provides a solid bump to Velocity, and a healthy increase to Handling which is always appreciated on Special weapons. This Velocity is further increased by High-Explosive Ordnance and a Velocity Masterwork. Our magazine choice also has the added benefit of slightly boosting our Blast Radius. Perk slot 1 has a plethora of brilliant options. While we have chosen Repulsor Brace as our main pick, it is tough to ignore Feeding Frenzy and Reconstruction. If you don’t want to fully lean into a Void build, one of those reload perks will serve you well. Perk slot 2 comes with the perk on everybody’s lips: Destabilizing Rounds. This is brilliant when paired with Repulsor Brace, but it also works well alone. However, if you want to forgo the Volatile capabilities of the perk, you can opt for Withering Gaze and treat Lotus-Eater as a utility pick rather than an add-clearing tool." Masterwork	Velocity tags:pve
+dimwishlist:item=3922217119&perks=3525010810,1380253176,776531651,2048641572
+dimwishlist:item=3922217119&perks=3525010810,1380253176,776531651,1134488199
+dimwishlist:item=3922217119&perks=3525010810,1380253176,2779035018,2048641572
+dimwishlist:item=3922217119&perks=3525010810,1380253176,2779035018,1134488199
+dimwishlist:item=3922217119&perks=3525010810,1380253176,1523832109,2048641572
+dimwishlist:item=3922217119&perks=3525010810,1380253176,1523832109,1134488199
+
+
+// Psychopomp (god-pve)
+//notes: blueberries.gg/weapons/psychopomp-god-rolls/ PvE Roll: All-Around (S) "Our roll on Psychopomp is gearing it towards being used as a DPS option, so Quick Launch and High-Velocity Rounds are ideal here, thanks to the Handling and Velocity they provide. In Perk 1, you can choose whether to use this weapon as a DPS option with Envious Arsenal or an add-clear option with Ambitious Assassin; the choice is yours, depending on what you wish your Psychopomp to accomplish. For Perk 2, we suggest Rolling Storm as it gives you a way to utilize Bolt Charge; however, Frenzy is a very suitable alternative, especially if you are using this weapon for add-clear." Masterwork	Handling tags:god-pve
+dimwishlist:item=4028298892&perks=3525010810,2822142346,3987942396,3218042543
+dimwishlist:item=4028298892&perks=3525010810,2822142346,2010801679,3218042543
+
+
+// Psychopomp (pve)
+//notes: blueberries.gg/weapons/psychopomp-god-rolls/ PvE Roll: All-Around (S) "Our roll on Psychopomp is gearing it towards being used as a DPS option, so Quick Launch and High-Velocity Rounds are ideal here, thanks to the Handling and Velocity they provide. In Perk 1, you can choose whether to use this weapon as a DPS option with Envious Arsenal or an add-clear option with Ambitious Assassin; the choice is yours, depending on what you wish your Psychopomp to accomplish. For Perk 2, we suggest Rolling Storm as it gives you a way to utilize Bolt Charge; however, Frenzy is a very suitable alternative, especially if you are using this weapon for add-clear." Masterwork	Handling tags:pve
+dimwishlist:item=4028298892&perks=3525010810,2822142346,3987942396,3218042543
+dimwishlist:item=4028298892&perks=3525010810,2822142346,3987942396,4104185692
+dimwishlist:item=4028298892&perks=3525010810,2822142346,2010801679,3218042543
+dimwishlist:item=4028298892&perks=3525010810,2822142346,2010801679,4104185692
+
+
+// Fatebringer (god-pve)
+//notes: blueberries.gg/weapons/fatebringer-god-rolls/ PvE Roll: All-Around (S) "For our barrel, we are going to opt for Smallbore. However, you can most likely go for any option, as barrels in PvE aren’t too important on primary weapons. For the magazine, Appended Mag is ideal to bump that magazine size up from 10 to 12. For Perk 1, Explosive Payload is the clear winner as it provides good utility to the weapon while also dealing slightly more damage. In Perk 2, you have some more choice. Frenzy is ideal, thanks to its damage and stat bonuses, but Firefly or even Elemental Honing can work too." Masterwork	Range tags:god-pve
+dimwishlist:item=4184168210&perks=1482024992,1087426260,3038247973,4104185692
+
+
+// Fatebringer (god-pvp)
+//notes: blueberries.gg/weapons/fatebringer-god-rolls/ PvP Roll: All-Around (A) "Barrels are more important in PvP, so we should shoot for Smallbore here, although you can also opt for other Range-improving barrels. For our magazine, we are looking for Accurised Rounds to boost the range as far as possible. n perk slot 1, Explosive Payload and Opening Shot are the ideal picks, and what you choose will come down to personal preference. However, in Perk 2, Eye of the Storm is the best pick. While Magnificent Howl is an okay alternative, Eye of the Storm is consistently too good." Masterwork	Range tags:god-pvp
+dimwishlist:item=4184168210&perks=1482024992,3142289711,3038247973,699525795
+dimwishlist:item=4184168210&perks=1482024992,3142289711,47981717,699525795
+
+
+// Fatebringer (pve)
+//notes: blueberries.gg/weapons/fatebringer-god-rolls/ PvE Roll: All-Around (S) "For our barrel, we are going to opt for Smallbore. However, you can most likely go for any option, as barrels in PvE aren’t too important on primary weapons. For the magazine, Appended Mag is ideal to bump that magazine size up from 10 to 12. For Perk 1, Explosive Payload is the clear winner as it provides good utility to the weapon while also dealing slightly more damage. In Perk 2, you have some more choice. Frenzy is ideal, thanks to its damage and stat bonuses, but Firefly or even Elemental Honing can work too." Masterwork	Range tags:pve
+dimwishlist:item=4184168210&perks=1482024992,1087426260,3038247973,4104185692
+dimwishlist:item=4184168210&perks=1482024992,1087426260,3038247973,3824105627
+
+
+
+
+// Found Verdict (god-pve) (TIMELOST)
+//notes: blueberries.gg/weapons/found-verdict-god-rolls/ PvE Roll: All-Around (B) "We Recommend Barrel Shroud due to the extra handling it gives to allow for the faster weapon swaps in PvE; however, Corkscrew Rifling is also a valid option as it provides slightly less Handling but also a slight Boost to Range. We also recommend Assault Mag due to the increased rate of fire, allowing for higher burst damage output. Pugilist in Perk 1 is recommended as kills will help in reducing the downtime of your melee abilities. The hits from your melee also grant the weapon bonus Handling, making it feel smoother to use. One-Two Punch is the recommended perk in Slot 1. This is because Aggressive Frame shotguns in PvE aren’t generally the best however, when paired with One-Two Punch and things like Strand Titan or Liar’s Handshake Hunter, they are capable of some of the highest damage output in the game." Masterwork	Handling tags:god-pve
+dimwishlist:item=851296754&perks=1300023272,791862061,691659142,2679249093
+
+
+// Found Verdict (god-pvp) (TIMELOST)
+//notes: blueberries.gg/weapons/found-verdict-god-rolls/ PvP Roll: All-Around (S) "We recommend Rifled Barrel due to its extra range. Although it is only a slight increase from Corkscrew Rifling, that can be the difference in PvP between a one-shot kill and having to follow up with a melee. Rifled Barrel is also only recommended when paired with a Handling exotic such as Ophidian Aspects or Dragons Shadow due to the reduction in handling. If you would rather use your exotic slot on something else, Corkscrew Rifling would be the recommended option.Accurized Rounds is also recommended as when paired with enhanced versions of the recommended perks, the weapons reaches 91 total range. Slideshot and Opening Shot also synergise well due to both increasing Range, while Slideshot also grants Stability and Opening Shot granting aim assist, making it more likely to hit enough pellets to one shot kill."  Masterwork	Range tags:god-pvp
+dimwishlist:item=851296754&perks=1332244541,3142289711,3161816588,47981717
+
+
+// Found Verdict (pve) (TIMELOST)
+//notes: blueberries.gg/weapons/found-verdict-god-rolls/ PvE Roll: All-Around (B) "We Recommend Barrel Shroud due to the extra handling it gives to allow for the faster weapon swaps in PvE; however, Corkscrew Rifling is also a valid option as it provides slightly less Handling but also a slight Boost to Range. We also recommend Assault Mag due to the increased rate of fire, allowing for higher burst damage output. Pugilist in Perk 1 is recommended as kills will help in reducing the downtime of your melee abilities. The hits from your melee also grant the weapon bonus Handling, making it feel smoother to use. One-Two Punch is the recommended perk in Slot 1. This is because Aggressive Frame shotguns in PvE aren’t generally the best however, when paired with One-Two Punch and things like Strand Titan or Liar’s Handshake Hunter, they are capable of some of the highest damage output in the game." Masterwork	Handling tags:pve
+dimwishlist:item=851296754&perks=1300023272,791862061,691659142,2679249093
+dimwishlist:item=851296754&perks=4090651448,791862061,691659142,2679249093
+
+
+// Found Verdict (pvp) (TIMELOST)
+//notes: blueberries.gg/weapons/found-verdict-god-rolls/ PvP Roll: All-Around (S) "We recommend Rifled Barrel due to its extra range. Although it is only a slight increase from Corkscrew Rifling, that can be the difference in PvP between a one-shot kill and having to follow up with a melee. Rifled Barrel is also only recommended when paired with a Handling exotic such as Ophidian Aspects or Dragons Shadow due to the reduction in handling. If you would rather use your exotic slot on something else, Corkscrew Rifling would be the recommended option.Accurized Rounds is also recommended as when paired with enhanced versions of the recommended perks, the weapons reaches 91 total range. Slideshot and Opening Shot also synergise well due to both increasing Range, while Slideshot also grants Stability and Opening Shot granting aim assist, making it more likely to hit enough pellets to one shot kill."  Masterwork	Range tags:pvp
+dimwishlist:item=851296754&perks=1332244541,3142289711,3161816588,47981717
+dimwishlist:item=851296754&perks=4090651448,3142289711,3161816588,47981717
+
+
+// Eyes Unveiled (god-pve) (Holofoil)
+//notes: blueberries.gg/weapons/eyes-unveiled-god-rolls/ PvE Roll: All-Around (B) "For our barrel, we are going to opt for Arrowhead Break, as it massively improves the recoil direction of the weapon, making it easier to stay on target. For the magazine, Liquid Coils is the standard choice. For perk 1, we suggest Overflow. This perk allows you to go far beyond the regular constraints of the magazine, and when paired with Runneth Over, you can potentially bring the magazine up to a whopping 18 shots. Alternatively, Triple Tap is a decent option as it is an easy way to help your ammo economy. In perk slot 2, we recommend Reservoir Burst. Due to the pairing we have between Runneth Over and Overflow, we can use Reservoir Burst to take advantage of the ammo we have available. Another option is Frenzy. This perk boosts our Handling and Reload speed while also giving us a lower but more consistent 15% damage bonus." Masterwork	Charge Time tags:god-pve
+dimwishlist:item=615373993&perks=839105230,1687452232,3643424744,1427256713
+
+// Eyes Unveiled (god-pve) (Adept)
+//notes: blueberries.gg/weapons/eyes-unveiled-god-rolls/ PvE Roll: All-Around (B) "For our barrel, we are going to opt for Arrowhead Break, as it massively improves the recoil direction of the weapon, making it easier to stay on target. For the magazine, Liquid Coils is the standard choice. For perk 1, we suggest Overflow. This perk allows you to go far beyond the regular constraints of the magazine, and when paired with Runneth Over, you can potentially bring the magazine up to a whopping 18 shots. Alternatively, Triple Tap is a decent option as it is an easy way to help your ammo economy. In perk slot 2, we recommend Reservoir Burst. Due to the pairing we have between Runneth Over and Overflow, we can use Reservoir Burst to take advantage of the ammo we have available. Another option is Frenzy. This perk boosts our Handling and Reload speed while also giving us a lower but more consistent 15% damage bonus." Masterwork	Charge Time tags:god-pve
+dimwishlist:item=282549639&perks=839105230,1687452232,3643424744,1427256713
+
+// Eyes Unveiled (god-pve) (Adept Holofoil)
+//notes: blueberries.gg/weapons/eyes-unveiled-god-rolls/ PvE Roll: All-Around (B) "For our barrel, we are going to opt for Arrowhead Break, as it massively improves the recoil direction of the weapon, making it easier to stay on target. For the magazine, Liquid Coils is the standard choice. For perk 1, we suggest Overflow. This perk allows you to go far beyond the regular constraints of the magazine, and when paired with Runneth Over, you can potentially bring the magazine up to a whopping 18 shots. Alternatively, Triple Tap is a decent option as it is an easy way to help your ammo economy. In perk slot 2, we recommend Reservoir Burst. Due to the pairing we have between Runneth Over and Overflow, we can use Reservoir Burst to take advantage of the ammo we have available. Another option is Frenzy. This perk boosts our Handling and Reload speed while also giving us a lower but more consistent 15% damage bonus." Masterwork	Charge Time tags:god-pve
+dimwishlist:item=4173311704&perks=839105230,1687452232,3643424744,1427256713
+
+
+// Eyes Unveiled (god-pvp) (Holofoil)
+//notes: blueberries.gg/weapons/eyes-unveiled-god-rolls/ PvP Roll: All-Around (A) "Polygonal Rifling is the ideal option here as it bumps our Stability. This bonus is furthered by Particle Repeater, which helps bring our Stability up to 75. In perk slot 1, Perfect Float is the ideal pick here as it drastically improves our flinch resistance, bringing it from 16.19% to a whopping 45.52% flinch resistance. For our second perk, we recommend Discord as it has the potential to give you a lot of heavy ammo, should you score kills while Discord is active." Masterwork	Charge Time or Stability tags:god-pvp
+dimwishlist:item=615373993&perks=1392496348,3868766766,2272927194,3978468247
+
+// Eyes Unveiled (god-pvp) (Adept)
+//notes: blueberries.gg/weapons/eyes-unveiled-god-rolls/ PvP Roll: All-Around (A) "Polygonal Rifling is the ideal option here as it bumps our Stability. This bonus is furthered by Particle Repeater, which helps bring our Stability up to 75. In perk slot 1, Perfect Float is the ideal pick here as it drastically improves our flinch resistance, bringing it from 16.19% to a whopping 45.52% flinch resistance. For our second perk, we recommend Discord as it has the potential to give you a lot of heavy ammo, should you score kills while Discord is active." Masterwork	Charge Time or Stability tags:god-pvp
+dimwishlist:item=282549639&perks=1392496348,3868766766,2272927194,3978468247
+
+// Eyes Unveiled (god-pvp) (Adept Holofoil)
+//notes: blueberries.gg/weapons/eyes-unveiled-god-rolls/ PvP Roll: All-Around (A) "Polygonal Rifling is the ideal option here as it bumps our Stability. This bonus is furthered by Particle Repeater, which helps bring our Stability up to 75. In perk slot 1, Perfect Float is the ideal pick here as it drastically improves our flinch resistance, bringing it from 16.19% to a whopping 45.52% flinch resistance. For our second perk, we recommend Discord as it has the potential to give you a lot of heavy ammo, should you score kills while Discord is active." Masterwork	Charge Time or Stability tags:god-pvp
+dimwishlist:item=4173311704&perks=1392496348,3868766766,2272927194,3978468247
+
+
+// Eyes Unveiled (pve) (Holofoil)
+//notes: blueberries.gg/weapons/eyes-unveiled-god-rolls/ PvE Roll: All-Around (B) "For our barrel, we are going to opt for Arrowhead Break, as it massively improves the recoil direction of the weapon, making it easier to stay on target. For the magazine, Liquid Coils is the standard choice. For perk 1, we suggest Overflow. This perk allows you to go far beyond the regular constraints of the magazine, and when paired with Runneth Over, you can potentially bring the magazine up to a whopping 18 shots. Alternatively, Triple Tap is a decent option as it is an easy way to help your ammo economy. In perk slot 2, we recommend Reservoir Burst. Due to the pairing we have between Runneth Over and Overflow, we can use Reservoir Burst to take advantage of the ammo we have available. Another option is Frenzy. This perk boosts our Handling and Reload speed while also giving us a lower but more consistent 15% damage bonus." Masterwork	Charge Time tags:pve
+dimwishlist:item=615373993&perks=839105230,1687452232,3643424744,1427256713
+dimwishlist:item=615373993&perks=839105230,1687452232,3643424744,4104185692
+dimwishlist:item=615373993&perks=839105230,1687452232,3400784728,1427256713
+dimwishlist:item=615373993&perks=839105230,1687452232,3400784728,4104185692
+
+// Eyes Unveiled (pve) (Adept)
+//notes: blueberries.gg/weapons/eyes-unveiled-god-rolls/ PvE Roll: All-Around (B) "For our barrel, we are going to opt for Arrowhead Break, as it massively improves the recoil direction of the weapon, making it easier to stay on target. For the magazine, Liquid Coils is the standard choice. For perk 1, we suggest Overflow. This perk allows you to go far beyond the regular constraints of the magazine, and when paired with Runneth Over, you can potentially bring the magazine up to a whopping 18 shots. Alternatively, Triple Tap is a decent option as it is an easy way to help your ammo economy. In perk slot 2, we recommend Reservoir Burst. Due to the pairing we have between Runneth Over and Overflow, we can use Reservoir Burst to take advantage of the ammo we have available. Another option is Frenzy. This perk boosts our Handling and Reload speed while also giving us a lower but more consistent 15% damage bonus." Masterwork	Charge Time tags:pve
+dimwishlist:item=282549639&perks=839105230,1687452232,3643424744,1427256713
+dimwishlist:item=282549639&perks=839105230,1687452232,3643424744,4104185692
+dimwishlist:item=282549639&perks=839105230,1687452232,3400784728,1427256713
+dimwishlist:item=282549639&perks=839105230,1687452232,3400784728,4104185692
+
+// Eyes Unveiled (pve) (Adept Holofoil)
+//notes: blueberries.gg/weapons/eyes-unveiled-god-rolls/ PvE Roll: All-Around (B) "For our barrel, we are going to opt for Arrowhead Break, as it massively improves the recoil direction of the weapon, making it easier to stay on target. For the magazine, Liquid Coils is the standard choice. For perk 1, we suggest Overflow. This perk allows you to go far beyond the regular constraints of the magazine, and when paired with Runneth Over, you can potentially bring the magazine up to a whopping 18 shots. Alternatively, Triple Tap is a decent option as it is an easy way to help your ammo economy. In perk slot 2, we recommend Reservoir Burst. Due to the pairing we have between Runneth Over and Overflow, we can use Reservoir Burst to take advantage of the ammo we have available. Another option is Frenzy. This perk boosts our Handling and Reload speed while also giving us a lower but more consistent 15% damage bonus." Masterwork	Charge Time tags:pve
+dimwishlist:item=4173311704&perks=839105230,1687452232,3643424744,1427256713
+dimwishlist:item=4173311704&perks=839105230,1687452232,3643424744,4104185692
+dimwishlist:item=4173311704&perks=839105230,1687452232,3400784728,1427256713
+dimwishlist:item=4173311704&perks=839105230,1687452232,3400784728,4104185692
+
+
+// Watchful Eye (god-pve) (Holofoil)
+//notes: blueberries.gg/weapons/watchful-eye-god-rolls/ PvE Roll: All-Around (S) "Due to the fairly low Handling of this weapon, we recommend Fluted Barrel to give a good bump to Handling. High-Caliber Rounds is always amazing as it staggers enemies in PvE, making them more vulnerable. However, Ricochet Rounds is also a decent option. For perk 1, we suggest Overflow or Field Prep. Both are very good options and you can’t go wrong with either. For perk slot 2, Jolting Feedback is our winner, but Killing Tally and Rolling Storm are also acceptable." Masterwork	Range tags:god-pve
+dimwishlist:item=768610585&perks=1840239774,1561002382,3643424744,3966416502
+dimwishlist:item=768610585&perks=1840239774,1561002382,2869569095,3966416502
+dimwishlist:item=768610585&perks=1840239774,1885400500,3643424744,3966416502
+dimwishlist:item=768610585&perks=1840239774,1885400500,2869569095,3966416502
+
+// Watchful Eye (god-pve) (Adept)
+//notes: blueberries.gg/weapons/watchful-eye-god-rolls/ PvE Roll: All-Around (S) "Due to the fairly low Handling of this weapon, we recommend Fluted Barrel to give a good bump to Handling. High-Caliber Rounds is always amazing as it staggers enemies in PvE, making them more vulnerable. However, Ricochet Rounds is also a decent option. For perk 1, we suggest Overflow or Field Prep. Both are very good options and you can’t go wrong with either. For perk slot 2, Jolting Feedback is our winner, but Killing Tally and Rolling Storm are also acceptable." Masterwork	Range tags:god-pve
+dimwishlist:item=737409399&perks=1840239774,1561002382,3643424744,3966416502
+dimwishlist:item=737409399&perks=1840239774,1561002382,2869569095,3966416502
+dimwishlist:item=737409399&perks=1840239774,1885400500,3643424744,3966416502
+dimwishlist:item=737409399&perks=1840239774,1885400500,2869569095,3966416502
+
+// Watchful Eye (god-pve) (Adept Holofoil)
+//notes: blueberries.gg/weapons/watchful-eye-god-rolls/ PvE Roll: All-Around (S) "Due to the fairly low Handling of this weapon, we recommend Fluted Barrel to give a good bump to Handling. High-Caliber Rounds is always amazing as it staggers enemies in PvE, making them more vulnerable. However, Ricochet Rounds is also a decent option. For perk 1, we suggest Overflow or Field Prep. Both are very good options and you can’t go wrong with either. For perk slot 2, Jolting Feedback is our winner, but Killing Tally and Rolling Storm are also acceptable." Masterwork	Range tags:god-pve
+dimwishlist:item=2856225832&perks=1840239774,1561002382,3643424744,3966416502
+dimwishlist:item=2856225832&perks=1840239774,1561002382,2869569095,3966416502
+dimwishlist:item=2856225832&perks=1840239774,1885400500,3643424744,3966416502
+dimwishlist:item=2856225832&perks=1840239774,1885400500,2869569095,3966416502
+
+
+// Watchful Eye (god-pvp) (Holofoil)
+//notes: blueberries.gg/weapons/watchful-eye-god-rolls/ PvP Roll: All-Around (A) "To maximise ease of use, we are looking to boost our Stability as much as possible, so Smallbore and Stability Masterwork are recommended. High-Caliber Rounds is generally a good pick as it increases flinch, but Ricochet Rounds provides more Stability, so both are viable. For perk 1, we recommend Dynamic Sway Reduction simply because it makes the weapon more accurate. For perk 2, Sword Logic is ideal thanks to its 20% damage bonus on kill, which can grant you a 4-headshot kill on enemies with Tier 8 Resilience or lower." Masterwork	Stability tags:god-pvp
+dimwishlist:item=768610585&perks=1482024992,1561002382,1359896290,31345821
+dimwishlist:item=768610585&perks=1482024992,1885400500,1359896290,31345821
+
+// Watchful Eye (god-pvp) (Adept)
+//notes: blueberries.gg/weapons/watchful-eye-god-rolls/ PvP Roll: All-Around (A) "To maximise ease of use, we are looking to boost our Stability as much as possible, so Smallbore and Stability Masterwork are recommended. High-Caliber Rounds is generally a good pick as it increases flinch, but Ricochet Rounds provides more Stability, so both are viable. For perk 1, we recommend Dynamic Sway Reduction simply because it makes the weapon more accurate. For perk 2, Sword Logic is ideal thanks to its 20% damage bonus on kill, which can grant you a 4-headshot kill on enemies with Tier 8 Resilience or lower." Masterwork	Stability tags:god-pvp
+dimwishlist:item=737409399&perks=1482024992,1561002382,1359896290,31345821
+dimwishlist:item=737409399&perks=1482024992,1885400500,1359896290,31345821
+
+// Watchful Eye (god-pvp) (Adept Holofoil)
+//notes: blueberries.gg/weapons/watchful-eye-god-rolls/ PvP Roll: All-Around (A) "To maximise ease of use, we are looking to boost our Stability as much as possible, so Smallbore and Stability Masterwork are recommended. High-Caliber Rounds is generally a good pick as it increases flinch, but Ricochet Rounds provides more Stability, so both are viable. For perk 1, we recommend Dynamic Sway Reduction simply because it makes the weapon more accurate. For perk 2, Sword Logic is ideal thanks to its 20% damage bonus on kill, which can grant you a 4-headshot kill on enemies with Tier 8 Resilience or lower." Masterwork	Stability tags:god-pvp
+dimwishlist:item=2856225832&perks=1482024992,1561002382,1359896290,31345821
+dimwishlist:item=2856225832&perks=1482024992,1885400500,1359896290,31345821
+
+
+// Watchful Eye (pve) (Holofoil)
+//notes: blueberries.gg/weapons/watchful-eye-god-rolls/ PvE Roll: All-Around (S) "Due to the fairly low Handling of this weapon, we recommend Fluted Barrel to give a good bump to Handling. High-Caliber Rounds is always amazing as it staggers enemies in PvE, making them more vulnerable. However, Ricochet Rounds is also a decent option. For perk 1, we suggest Overflow or Field Prep. Both are very good options and you can’t go wrong with either. For perk slot 2, Jolting Feedback is our winner, but Killing Tally and Rolling Storm are also acceptable." Masterwork	Range tags:pve
+dimwishlist:item=768610585&perks=1840239774,1561002382,3643424744,3966416502
+dimwishlist:item=768610585&perks=1840239774,1561002382,3643424744,557221067
+dimwishlist:item=768610585&perks=1840239774,1561002382,3643424744,3218042543
+dimwishlist:item=768610585&perks=1840239774,1561002382,2869569095,3966416502
+dimwishlist:item=768610585&perks=1840239774,1561002382,2869569095,557221067
+dimwishlist:item=768610585&perks=1840239774,1561002382,2869569095,3218042543
+dimwishlist:item=768610585&perks=1840239774,1885400500,3643424744,3966416502
+dimwishlist:item=768610585&perks=1840239774,1885400500,3643424744,557221067
+dimwishlist:item=768610585&perks=1840239774,1885400500,3643424744,3218042543
+dimwishlist:item=768610585&perks=1840239774,1885400500,2869569095,3966416502
+dimwishlist:item=768610585&perks=1840239774,1885400500,2869569095,557221067
+dimwishlist:item=768610585&perks=1840239774,1885400500,2869569095,3218042543
+
+// Watchful Eye (pve) (Adept)
+//notes: blueberries.gg/weapons/watchful-eye-god-rolls/ PvE Roll: All-Around (S) "Due to the fairly low Handling of this weapon, we recommend Fluted Barrel to give a good bump to Handling. High-Caliber Rounds is always amazing as it staggers enemies in PvE, making them more vulnerable. However, Ricochet Rounds is also a decent option. For perk 1, we suggest Overflow or Field Prep. Both are very good options and you can’t go wrong with either. For perk slot 2, Jolting Feedback is our winner, but Killing Tally and Rolling Storm are also acceptable." Masterwork	Range tags:pve
+dimwishlist:item=737409399&perks=1840239774,1561002382,3643424744,3966416502
+dimwishlist:item=737409399&perks=1840239774,1561002382,3643424744,557221067
+dimwishlist:item=737409399&perks=1840239774,1561002382,3643424744,3218042543
+dimwishlist:item=737409399&perks=1840239774,1561002382,2869569095,3966416502
+dimwishlist:item=737409399&perks=1840239774,1561002382,2869569095,557221067
+dimwishlist:item=737409399&perks=1840239774,1561002382,2869569095,3218042543
+dimwishlist:item=737409399&perks=1840239774,1885400500,3643424744,3966416502
+dimwishlist:item=737409399&perks=1840239774,1885400500,3643424744,557221067
+dimwishlist:item=737409399&perks=1840239774,1885400500,3643424744,3218042543
+dimwishlist:item=737409399&perks=1840239774,1885400500,2869569095,3966416502
+dimwishlist:item=737409399&perks=1840239774,1885400500,2869569095,557221067
+dimwishlist:item=737409399&perks=1840239774,1885400500,2869569095,3218042543
+
+// Watchful Eye (pve) (Adept Holofoil)
+//notes: blueberries.gg/weapons/watchful-eye-god-rolls/ PvE Roll: All-Around (S) "Due to the fairly low Handling of this weapon, we recommend Fluted Barrel to give a good bump to Handling. High-Caliber Rounds is always amazing as it staggers enemies in PvE, making them more vulnerable. However, Ricochet Rounds is also a decent option. For perk 1, we suggest Overflow or Field Prep. Both are very good options and you can’t go wrong with either. For perk slot 2, Jolting Feedback is our winner, but Killing Tally and Rolling Storm are also acceptable." Masterwork	Range tags:pve
+dimwishlist:item=2856225832&perks=1840239774,1561002382,3643424744,3966416502
+dimwishlist:item=2856225832&perks=1840239774,1561002382,3643424744,557221067
+dimwishlist:item=2856225832&perks=1840239774,1561002382,3643424744,3218042543
+dimwishlist:item=2856225832&perks=1840239774,1561002382,2869569095,3966416502
+dimwishlist:item=2856225832&perks=1840239774,1561002382,2869569095,557221067
+dimwishlist:item=2856225832&perks=1840239774,1561002382,2869569095,3218042543
+dimwishlist:item=2856225832&perks=1840239774,1885400500,3643424744,3966416502
+dimwishlist:item=2856225832&perks=1840239774,1885400500,3643424744,557221067
+dimwishlist:item=2856225832&perks=1840239774,1885400500,3643424744,3218042543
+dimwishlist:item=2856225832&perks=1840239774,1885400500,2869569095,3966416502
+dimwishlist:item=2856225832&perks=1840239774,1885400500,2869569095,557221067
+dimwishlist:item=2856225832&perks=1840239774,1885400500,2869569095,3218042543
+
+
+// Keen Thistle (god-pve) (Adept)
+//notes: blueberries.gg/weapons/keen-thistle-god-rolls/ PvE Roll: All-Around (A) "Fluted Barrel, Appended Mag, and a handling masterwork grant us some extra stability, magazine size, and handling, all of which are desperately needed for this weapon. Envious Arsenal and Bait and Switch make up our primary roll. This combination has become a staple in today’s meta and is a beast on nearly every weapon that can roll with it. If you’re instead looking for a more unique, ammo dump option, Triple Tap and Fourth Time’s the Charm will serve you well." Masterwork	Handling tags:god-pve
+dimwishlist:item=3503560035&perks=1840239774,1087426260,3987942396,3078487919,2988596335
+dimwishlist:item=3503560035&perks=1840239774,1087426260,3987942396,3078487919,4091460919
+
+
+// Keen Thistle (god-pvp) (Adept)
+//notes: blueberries.gg/weapons/keen-thistle-god-rolls/ PvP Roll: All-Around (S) "In terms of The Crucible, we’ll begin with Fluted Barrel, Steady Rounds, and a handling masterwork for a sweep of stats that’s similar to what we looked for in PvE. Many veteran Guardians will be drawn to a perk combination that has been a reliably strong pick on sniper rifles for years: Snapshot Sights and Opening Shot. While this roll is no doubt potent, switching it up with newer perks like Lone Wolf and Closing Time is another powerful option. Sure, you need to play into them a bit more, but they’re extremely rewarding if you do." Masterwork	Handling tags:god-pvp
+dimwishlist:item=3503560035&perks=1840239774,3177308360,957782887,47981717,4091460919
+dimwishlist:item=3503560035&perks=1840239774,3177308360,957782887,47981717,2988596335
+
+
+// Keen Thistle (pve) (Adept)
+//notes: blueberries.gg/weapons/keen-thistle-god-rolls/ PvE Roll: All-Around (A) "Fluted Barrel, Appended Mag, and a handling masterwork grant us some extra stability, magazine size, and handling, all of which are desperately needed for this weapon. Envious Arsenal and Bait and Switch make up our primary roll. This combination has become a staple in today’s meta and is a beast on nearly every weapon that can roll with it. If you’re instead looking for a more unique, ammo dump option, Triple Tap and Fourth Time’s the Charm will serve you well." Masterwork	Handling tags:pve
+dimwishlist:item=3503560035&perks=1840239774,1087426260,3987942396,3078487919,2988596335
+dimwishlist:item=3503560035&perks=1840239774,1087426260,3987942396,3078487919,4091460919
+dimwishlist:item=3503560035&perks=1840239774,1087426260,3987942396,1354429876,2988596335
+dimwishlist:item=3503560035&perks=1840239774,1087426260,3987942396,1354429876,4091460919
+dimwishlist:item=3503560035&perks=1840239774,1087426260,3400784728,3078487919,2988596335
+dimwishlist:item=3503560035&perks=1840239774,1087426260,3400784728,3078487919,4091460919
+dimwishlist:item=3503560035&perks=1840239774,1087426260,3400784728,1354429876,2988596335
+dimwishlist:item=3503560035&perks=1840239774,1087426260,3400784728,1354429876,4091460919
+
+
+// Keen Thistle (pvp) (Adept)
+//notes: blueberries.gg/weapons/keen-thistle-god-rolls/ PvP Roll: All-Around (S) "In terms of The Crucible, we’ll begin with Fluted Barrel, Steady Rounds, and a handling masterwork for a sweep of stats that’s similar to what we looked for in PvE. Many veteran Guardians will be drawn to a perk combination that has been a reliably strong pick on sniper rifles for years: Snapshot Sights and Opening Shot. While this roll is no doubt potent, switching it up with newer perks like Lone Wolf and Closing Time is another powerful option. Sure, you need to play into them a bit more, but they’re extremely rewarding if you do." Masterwork	Handling tags:pvp
+dimwishlist:item=3503560035&perks=1840239774,3177308360,957782887,47981717,4091460919
+dimwishlist:item=3503560035&perks=1840239774,3177308360,957782887,47981717,2988596335
+dimwishlist:item=3503560035&perks=1840239774,3177308360,957782887,1194056669,4091460919
+dimwishlist:item=3503560035&perks=1840239774,3177308360,957782887,1194056669,2988596335
+dimwishlist:item=3503560035&perks=1840239774,3177308360,2579169598,47981717,4091460919
+dimwishlist:item=3503560035&perks=1840239774,3177308360,2579169598,47981717,2988596335
+dimwishlist:item=3503560035&perks=1840239774,3177308360,2579169598,1194056669,4091460919
+dimwishlist:item=3503560035&perks=1840239774,3177308360,2579169598,1194056669,2988596335
+
+
+// Hezen Vengeance (god-pve) (TIMELOST)
+//notes: blueberries.gg/weapons/hezen-vengeance-god-rolls/ PvE Roll: All-Around (S) "For PvE, we’ll begin with Quick Launch, Impact Casing, and a handling masterwork for additional velocity, handling, and damage. Envious Arsenal is the top pick for column one; even if you aren’t utilizing a damage rotation, this perk is absurdly easy to trigger and entirely removes the need to reload. Bait and Switch pairs nicely with both this and Hezen’s origin trait, offering a significant 30% increase in damage. However, if you’re able to fully optimize your loadout, opting for Elemental Honing instead will technically offer an even greater damage buff at 35%." Masterwork	Handling tags:god-pve
+dimwishlist:item=3623686757&perks=3525010810,3796465595,3987942396,3078487919
+
+
+// Hezen Vengeance (god-pvp) (TIMELOST)
+//notes: blueberries.gg/weapons/hezen-vengeance-god-rolls/ PvP Roll: All-Around (A) "To gain the best possible mix of velocity and blast radius, we’ll start with Quick Launch, High-Velocity Rounds, and a blast radius masterwork. Cluster Bomb, a rare sight in the third column, grants an even greater chance of successfully damaging Guardians, making it our top pick. As for the final column, Vorpal Weapon is generally best, allowing for an increase in damage when it’s needed most." Masterwork	Blast Radius tags:god-pvp
+dimwishlist:item=3623686757&perks=3525010810,2822142346,1275731761,1546637391
+
+
+// Hezen Vengeance (pve) (TIMELOST)
+//notes: blueberries.gg/weapons/hezen-vengeance-god-rolls/ PvE Roll: All-Around (S) "For PvE, we’ll begin with Quick Launch, Impact Casing, and a handling masterwork for additional velocity, handling, and damage. Envious Arsenal is the top pick for column one; even if you aren’t utilizing a damage rotation, this perk is absurdly easy to trigger and entirely removes the need to reload. Bait and Switch pairs nicely with both this and Hezen’s origin trait, offering a significant 30% increase in damage. However, if you’re able to fully optimize your loadout, opting for Elemental Honing instead will technically offer an even greater damage buff at 35%." Masterwork	Handling tags:pve
+dimwishlist:item=3623686757&perks=3525010810,3796465595,3987942396,3078487919
+dimwishlist:item=3623686757&perks=3525010810,3796465595,3987942396,1089671869
+
+
+// Refusal of the Call (god-pve) (Adept)
+//notes: blueberries.gg/weapons/refusal-of-the-call-god-rolls/ PvE Roll: All-Around (A) "As the goal is to swap to Refusal after landing a kill with a different weapon, boosting our handling is top priority. Tempered Truss Rod, Swap Mag, and a handling masterwork should do you just fine. Discord has barely any contenders in its slot. While Envious Assassin and Replenishing Aegis are nice, Discord refunds the ammo from thin air, instead of pulling from reserves. Slice is the only other worthwhile perk as it can make those close-up encounters less stressful. As for Perk 2, Sword Logic just pairs so well with Discord that other options seem lackluster. However, Close to Melee is a solid alternative as it too can take advantage of Discord’s ammo refund." Masterwork	Handling tags:god-pve
+dimwishlist:item=25228802&perks=5699512,3721627275,3978468247,31345821
+
+// Refusal of the Call (god-pve) (Adept Holofoil)
+//notes: blueberries.gg/weapons/refusal-of-the-call-god-rolls/ PvE Roll: All-Around (A) "As the goal is to swap to Refusal after landing a kill with a different weapon, boosting our handling is top priority. Tempered Truss Rod, Swap Mag, and a handling masterwork should do you just fine. Discord has barely any contenders in its slot. While Envious Assassin and Replenishing Aegis are nice, Discord refunds the ammo from thin air, instead of pulling from reserves. Slice is the only other worthwhile perk as it can make those close-up encounters less stressful. As for Perk 2, Sword Logic just pairs so well with Discord that other options seem lackluster. However, Close to Melee is a solid alternative as it too can take advantage of Discord’s ammo refund." Masterwork	Handling tags:god-pve
+dimwishlist:item=2755584425&perks=5699512,3721627275,3978468247,31345821
+
+
+// Refusal of the Call (god-pvp) (Adept)
+//notes: blueberries.gg/weapons/refusal-of-the-call-god-rolls/ PvP Roll: All-Around (B) "Contrasting our PvE roll, we’re going to focus solely on range for PvP. Ballistic Tuning, Accurized Rounds, and a range masterwork will give it a solid bump and will make our perk 1 choice even stronger. Speaking of, Impulse Amplifier is that perk. Tacking on the 35% bonus gives Refusal a whopping 175 m/s projectile velocity! And while it might seem like an odd choice, Disruption Break for Perk 2 is actually a very solid pick. As the glaive melee is coded as a Kinetic attack, it will benefit from the 50% damage debuff, allowing for a shot-melee kill at all resilience tiers!" Masterwork	Range tags:god-pvp
+dimwishlist:item=25228802&perks=1263609309,3142289711,951095735,1683379515
+
+// Refusal of the Call (god-pvp) (Adept Holofoil)
+//notes: blueberries.gg/weapons/refusal-of-the-call-god-rolls/ PvP Roll: All-Around (B) "Contrasting our PvE roll, we’re going to focus solely on range for PvP. Ballistic Tuning, Accurized Rounds, and a range masterwork will give it a solid bump and will make our perk 1 choice even stronger. Speaking of, Impulse Amplifier is that perk. Tacking on the 35% bonus gives Refusal a whopping 175 m/s projectile velocity! And while it might seem like an odd choice, Disruption Break for Perk 2 is actually a very solid pick. As the glaive melee is coded as a Kinetic attack, it will benefit from the 50% damage debuff, allowing for a shot-melee kill at all resilience tiers!" Masterwork	Range tags:god-pvp
+dimwishlist:item=2755584425&perks=1263609309,3142289711,951095735,1683379515
+
+
+// Refusal of the Call (pve) (Adept)
+//notes: blueberries.gg/weapons/refusal-of-the-call-god-rolls/ PvE Roll: All-Around (A) "As the goal is to swap to Refusal after landing a kill with a different weapon, boosting our handling is top priority. Tempered Truss Rod, Swap Mag, and a handling masterwork should do you just fine. Discord has barely any contenders in its slot. While Envious Assassin and Replenishing Aegis are nice, Discord refunds the ammo from thin air, instead of pulling from reserves. Slice is the only other worthwhile perk as it can make those close-up encounters less stressful. As for Perk 2, Sword Logic just pairs so well with Discord that other options seem lackluster. However, Close to Melee is a solid alternative as it too can take advantage of Discord’s ammo refund." Masterwork	Handling tags:pve
+dimwishlist:item=25228802&perks=5699512,3721627275,3978468247,31345821
+dimwishlist:item=25228802&perks=5699512,3721627275,3978468247,1782407750
+dimwishlist:item=25228802&perks=5699512,3721627275,923806249,31345821
+dimwishlist:item=25228802&perks=5699512,3721627275,923806249,1782407750
+
+// Refusal of the Call (pve) (Adept Holofoil)
+//notes: blueberries.gg/weapons/refusal-of-the-call-god-rolls/ PvE Roll: All-Around (A) "As the goal is to swap to Refusal after landing a kill with a different weapon, boosting our handling is top priority. Tempered Truss Rod, Swap Mag, and a handling masterwork should do you just fine. Discord has barely any contenders in its slot. While Envious Assassin and Replenishing Aegis are nice, Discord refunds the ammo from thin air, instead of pulling from reserves. Slice is the only other worthwhile perk as it can make those close-up encounters less stressful. As for Perk 2, Sword Logic just pairs so well with Discord that other options seem lackluster. However, Close to Melee is a solid alternative as it too can take advantage of Discord’s ammo refund." Masterwork	Handling tags:pve
+dimwishlist:item=2755584425&perks=5699512,3721627275,3978468247,31345821
+dimwishlist:item=2755584425&perks=5699512,3721627275,3978468247,1782407750
+dimwishlist:item=2755584425&perks=5699512,3721627275,923806249,31345821
+dimwishlist:item=2755584425&perks=5699512,3721627275,923806249,1782407750
+
+
+// The Palindrome (god-pve) (Adept)
+//notes: blueberries.gg/weapons/the-palindrome-god-rolls/ PvE Roll: All-Around (B) "We’ll start our PvE roll with Fluted Barrel, Tactical Mag, and a handling masterwork for a mix of stat boosts. If reload speed becomes a problem as a result of opting against Outlaw, the masterwork can be swapped for reload speed. Explosive Payload isn’t an absurdly popular choice for PvE, but it’s the best The Palindrome has in this column. Plus, it supports our final column choice, Master of Arms, in increasing raw power. Speaking of which, Master of Arms is the best pick for column four, adding a 25% damage bonus when at two stacks." Masterwork	Handling or Reload Speed tags:god-pve
+dimwishlist:item=4077588826&perks=1840239774,106909392,3038247973,3081867624
+
+
+// The Palindrome (god-pvp) (Adept)
+//notes: blueberries.gg/weapons/the-palindrome-god-rolls/ PvP Roll: All-Around (A) "In The Crucible, prioritizing range and stability are vital. As a result, we’ll opt for Smallbore, Ricochet Rounds, and a range masterwork. Explosive Payload provides similar benefits, effectively adding some additional flinch and range. Magnificent Howl is a great choice for the final column—that is, assuming you’re skilled enough to chain multiple precision kills in one life. If you aren’t, or if you prefer a stat-boosting perk instead, Opening Shot will serve you well." Masterwork	Range tags:god-pvp
+dimwishlist:item=4077588826&perks=1482024992,3142289711,3038247973,2720533289
+
+
+// The Palindrome (pve) (Adept)
+//notes: blueberries.gg/weapons/the-palindrome-god-rolls/ PvE Roll: All-Around (B) "We’ll start our PvE roll with Fluted Barrel, Tactical Mag, and a handling masterwork for a mix of stat boosts. If reload speed becomes a problem as a result of opting against Outlaw, the masterwork can be swapped for reload speed. Explosive Payload isn’t an absurdly popular choice for PvE, but it’s the best The Palindrome has in this column. Plus, it supports our final column choice, Master of Arms, in increasing raw power. Speaking of which, Master of Arms is the best pick for column four, adding a 25% damage bonus when at two stacks." Masterwork	Handling or Reload Speed tags:pve
+dimwishlist:item=4077588826&perks=1840239774,106909392,3038247973,3081867624
+dimwishlist:item=4077588826&perks=1840239774,106909392,3038247973,3218042543
+dimwishlist:item=4077588826&perks=1840239774,106909392,1168162263,3081867624
+dimwishlist:item=4077588826&perks=1840239774,106909392,1168162263,3218042543
+
+
+// The Palindrome (pvp) (Adept)
+//notes: blueberries.gg/weapons/the-palindrome-god-rolls/ PvP Roll: All-Around (A) "In The Crucible, prioritizing range and stability are vital. As a result, we’ll opt for Smallbore, Ricochet Rounds, and a range masterwork. Explosive Payload provides similar benefits, effectively adding some additional flinch and range. Magnificent Howl is a great choice for the final column—that is, assuming you’re skilled enough to chain multiple precision kills in one life. If you aren’t, or if you prefer a stat-boosting perk instead, Opening Shot will serve you well." Masterwork	Range tags:pvp
+dimwishlist:item=4077588826&perks=1482024992,3142289711,3038247973,2720533289
+dimwishlist:item=4077588826&perks=1482024992,3142289711,3038247973,47981717
+dimwishlist:item=4077588826&perks=1482024992,3142289711,3713215006,2720533289
+dimwishlist:item=4077588826&perks=1482024992,3142289711,3713215006,47981717
+
+
+// Division (god-pve) (Adept)
+//notes: blueberries.gg/weapons/division-god-rolls/ PvE Roll: All-Around (A) "Our PvE roll with begin with Fluted Barrel, Tactical Mag, and a handling masterwork, a classic combination that provides a nice balance of potent stats for PvE. Eddy Current isn’t an absurdly popular pick these days, but it’s the best the first column has here. Plus, it fits nicely with our final perk pick, which is Voltshot. Assuming you’re rocking an Arc build (which will be more potent this Episode through the artifact!), this combination is great for more casual activities." Masterwork	Handling tags:god-pve
+dimwishlist:item=3734001727&perks=1840239774,106909392,684456054,2173046394
+
+// Division (god-pve) (Adept Holofoil)
+//notes: blueberries.gg/weapons/division-god-rolls/ PvE Roll: All-Around (A) "Our PvE roll with begin with Fluted Barrel, Tactical Mag, and a handling masterwork, a classic combination that provides a nice balance of potent stats for PvE. Eddy Current isn’t an absurdly popular pick these days, but it’s the best the first column has here. Plus, it fits nicely with our final perk pick, which is Voltshot. Assuming you’re rocking an Arc build (which will be more potent this Episode through the artifact!), this combination is great for more casual activities." Masterwork	Handling tags:god-pve
+dimwishlist:item=2501377328&perks=1840239774,106909392,684456054,2173046394
+
+
+// Division (god-pvp) (Adept)
+//notes: blueberries.gg/weapons/division-god-rolls/ PvP Roll: All-Around (A) "Building into the range stat of this weapon doesn’t actually increase its effective range much, so we’ll instead prioritize stability. Smallbore, Steady Rounds, and a stability masterwork are perfect for this. To the Pain is our choice for column one, which is great since you’re likely to be taking a lot of damage when fighting so close range. As for the second column, Sword Logic is our top pick, which allows for a 0.47s (two burst) time to kill against all resilience levels." Masterwork	Stability tags:god-pvp
+dimwishlist:item=3734001727&perks=1482024992,3177308360,3938834702,31345821
+
+// Division (god-pvp) (Adept Holofoil)
+//notes: blueberries.gg/weapons/division-god-rolls/ PvP Roll: All-Around (A) "Building into the range stat of this weapon doesn’t actually increase its effective range much, so we’ll instead prioritize stability. Smallbore, Steady Rounds, and a stability masterwork are perfect for this. To the Pain is our choice for column one, which is great since you’re likely to be taking a lot of damage when fighting so close range. As for the second column, Sword Logic is our top pick, which allows for a 0.47s (two burst) time to kill against all resilience levels." Masterwork	Stability tags:god-pvp
+dimwishlist:item=2501377328&perks=1482024992,3177308360,3938834702,31345821
+
+
+// Adamantite (god-pve) (Holofoil)
+//notes: blueberries.gg/weapons/adamantite-god-rolls/ PvE god rolls (S) "For our PvE roll, we’ll start with Fluted Barrel, Flared Magwell, and either a handling or stability masterwork to get a solid increase in stats. From there, our roll is pretty simple: opt for Reciprocity and Circle of Life. Both of these feed into the support frame’s loop and offer you substantial benefits (healing and a +25% damage buff) for very little work." Masterwork	Handling or Stability tags:god-pve
+dimwishlist:item=2987244302&perks=1840239774,3230963543,692399809,2298656195
+
+// Adamantite (god-pve) (Adept)
+//notes: blueberries.gg/weapons/adamantite-god-rolls/ PvE god rolls (S) "For our PvE roll, we’ll start with Fluted Barrel, Flared Magwell, and either a handling or stability masterwork to get a solid increase in stats. From there, our roll is pretty simple: opt for Reciprocity and Circle of Life. Both of these feed into the support frame’s loop and offer you substantial benefits (healing and a +25% damage buff) for very little work." Masterwork	Handling or Stability tags:god-pve
+dimwishlist:item=3485029080&perks=1840239774,3230963543,692399809,2298656195
+
+// Adamantite (god-pve) (Adept Holofoil)
+//notes: blueberries.gg/weapons/adamantite-god-rolls/ PvE god rolls (S) "For our PvE roll, we’ll start with Fluted Barrel, Flared Magwell, and either a handling or stability masterwork to get a solid increase in stats. From there, our roll is pretty simple: opt for Reciprocity and Circle of Life. Both of these feed into the support frame’s loop and offer you substantial benefits (healing and a +25% damage buff) for very little work." Masterwork	Handling or Stability tags:god-pve
+dimwishlist:item=601574723&perks=1840239774,3230963543,692399809,2298656195
+
+
+// Adamantite (god-pvp) (Holofoil)
+//notes: blueberries.gg/weapons/adamantite-god-rolls/ PvP god rolls (B) "The base of our roll for The Crucible includes Smallbore, Accurized Rounds, and a range masterwork, all of which contribute to this weapon’s range stat. Kill Clip is a clear winner in the final column for a potent damage buff after every kill. The first column, however, is not as clear; we recommend Reciprocity for its healing bonus, but only because every other option here isn’t too great." Masterwork	Range tags:god-pvp
+dimwishlist:item=2987244302&perks=1482024992,3142289711,692399809,1015611457
+
+// Adamantite (god-pvp) (Adept)
+//notes: blueberries.gg/weapons/adamantite-god-rolls/ PvP god rolls (B) "The base of our roll for The Crucible includes Smallbore, Accurized Rounds, and a range masterwork, all of which contribute to this weapon’s range stat. Kill Clip is a clear winner in the final column for a potent damage buff after every kill. The first column, however, is not as clear; we recommend Reciprocity for its healing bonus, but only because every other option here isn’t too great." Masterwork	Range tags:god-pvp
+dimwishlist:item=3485029080&perks=1482024992,3142289711,692399809,1015611457
+
+// Adamantite (god-pvp) (Adept Holofoil)
+//notes: blueberries.gg/weapons/adamantite-god-rolls/ PvP god rolls (B) "The base of our roll for The Crucible includes Smallbore, Accurized Rounds, and a range masterwork, all of which contribute to this weapon’s range stat. Kill Clip is a clear winner in the final column for a potent damage buff after every kill. The first column, however, is not as clear; we recommend Reciprocity for its healing bonus, but only because every other option here isn’t too great." Masterwork	Range tags:god-pvp
+dimwishlist:item=601574723&perks=1482024992,3142289711,692399809,1015611457
+
+
+// Exalted Truth (god-pve) (Adept)
+//notes: blueberries.gg/weapons/exalted-truth-god-rolls/ PvE Roll: All-Around (S) "In PvE, we’ll start with Fluted Barrel, Tactical Mag, and either a handling or reload speed masterwork. This primarily grants us some extra handling but also gives bits of other stats that make this weapon feel super smooth. As for main perks, Destabilizing Rounds in the first column is hard to pass up. Especially with its recent buff, this perk is insane even when running a non-Void subclass. Repulsor Brace in the final column clearly complements Destabilizing Rounds pretty well, but One for All is also worth mentioning if survivability isn’t an issue." Masterwork	Handling or Reload Speed tags:god-pve
+dimwishlist:item=1201528146&perks=1840239774,106909392,2048641572,4049631843,2988596335
+dimwishlist:item=1201528146&perks=1840239774,106909392,2048641572,4049631843,4091460919
+dimwishlist:item=1201528146&perks=1840239774,106909392,2048641572,776531651,2988596335
+dimwishlist:item=1201528146&perks=1840239774,106909392,2048641572,776531651,4091460919
+
+
+// Exalted Truth (god-pvp) (Adept)
+//notes: blueberries.gg/weapons/exalted-truth-god-rolls/ PvP Roll: All-Around (S) "Smallbore, Accurized Rounds, and a range masterwork allow us to increase Exalted’s range stat by a substantial amount right off the bat. Choosing a combination of main perks here is extremely difficult since there are so many outstanding options in both columns. Slideshot and Precision Instrument are both great and can act like consistency perks if you play into them, but more standard picks like Keep Away and Opening Shot are definitely worth mentioning as well. That all said, the majority of perks in this pool are S-tier picks for PvP (Moving Target, Lone Wolf, Eye of the Storm, and Magnificent Howl, to name a few more), so there’s tons of wiggle room here." Masterwork	Range tags:god-pvp
+dimwishlist:item=1201528146&perks=1482024992,3142289711,3161816588,555281244,4091460919
+dimwishlist:item=1201528146&perks=1482024992,3142289711,3161816588,555281244,2988596335
+dimwishlist:item=1201528146&perks=1482024992,3142289711,3161816588,47981717,4091460919
+dimwishlist:item=1201528146&perks=1482024992,3142289711,3161816588,47981717,2988596335
+dimwishlist:item=1201528146&perks=1482024992,3142289711,3619207468,555281244,4091460919
+dimwishlist:item=1201528146&perks=1482024992,3142289711,3619207468,555281244,2988596335
+dimwishlist:item=1201528146&perks=1482024992,3142289711,3619207468,47981717,4091460919
+dimwishlist:item=1201528146&perks=1482024992,3142289711,3619207468,47981717,2988596335
+
+
+// Exalted Truth (pvp) (Adept)
+//notes: blueberries.gg/weapons/exalted-truth-god-rolls/ PvP Roll: All-Around (S) "Smallbore, Accurized Rounds, and a range masterwork allow us to increase Exalted’s range stat by a substantial amount right off the bat. Choosing a combination of main perks here is extremely difficult since there are so many outstanding options in both columns. Slideshot and Precision Instrument are both great and can act like consistency perks if you play into them, but more standard picks like Keep Away and Opening Shot are definitely worth mentioning as well. That all said, the majority of perks in this pool are S-tier picks for PvP (Moving Target, Lone Wolf, Eye of the Storm, and Magnificent Howl, to name a few more), so there’s tons of wiggle room here." Masterwork	Range tags:pvp
+dimwishlist:item=1201528146&perks=1482024992,3142289711,3161816588,555281244,4091460919
+dimwishlist:item=1201528146&perks=1482024992,3142289711,3161816588,555281244,2988596335
+dimwishlist:item=1201528146&perks=1482024992,3142289711,3161816588,47981717,4091460919
+dimwishlist:item=1201528146&perks=1482024992,3142289711,3161816588,47981717,2988596335
+dimwishlist:item=1201528146&perks=1482024992,3142289711,3161816588,699525795,4091460919
+dimwishlist:item=1201528146&perks=1482024992,3142289711,3161816588,699525795,2988596335
+dimwishlist:item=1201528146&perks=1482024992,3142289711,3619207468,555281244,4091460919
+dimwishlist:item=1201528146&perks=1482024992,3142289711,3619207468,555281244,2988596335
+dimwishlist:item=1201528146&perks=1482024992,3142289711,3619207468,47981717,4091460919
+dimwishlist:item=1201528146&perks=1482024992,3142289711,3619207468,47981717,2988596335
+dimwishlist:item=1201528146&perks=1482024992,3142289711,3619207468,699525795,4091460919
+dimwishlist:item=1201528146&perks=1482024992,3142289711,3619207468,699525795,2988596335
+dimwishlist:item=1201528146&perks=1482024992,3142289711,2579169598,555281244,4091460919
+dimwishlist:item=1201528146&perks=1482024992,3142289711,2579169598,555281244,2988596335
+dimwishlist:item=1201528146&perks=1482024992,3142289711,2579169598,47981717,4091460919
+dimwishlist:item=1201528146&perks=1482024992,3142289711,2579169598,47981717,2988596335
+dimwishlist:item=1201528146&perks=1482024992,3142289711,2579169598,699525795,4091460919
+dimwishlist:item=1201528146&perks=1482024992,3142289711,2579169598,699525795,2988596335
+
+
+// Vision of Confluence (god-pve) (TIMELOST)
+//notes: blueberries.gg/weapons/vision-of-confluence-god-rolls/ PvE Roll: All-Around (A) "We recommend Fluted Barrel and Tactical Mag due to the boosts to Stability and Handling, while also increasing the reload speed to make the weapon feel smoother to use. Incandescent is a strong option to help with this weapon’s add clear, as kills cause explosions which also applies Scorch to nearby enemies, causing damage over time and potentially Ignitions. Heal Clip is a viable option if you are struggling with self-sustain, as reloading after a kill grants Cure x2. Explosive Payload is recommended in column 2 as it provides the weapon with a slight damage boost, and also helps with staggering some of the bigger enemies in game. Frenzy is also a viable option. While the weapon does have a large variety of damage perks, Frenzy is the easiest to keep active as it only requires being in combat, and also boosts the weapons Handling and Reload Speed. (If using Frenzy, we recommend swapping to Extended Mag)." Masterwork	Stability tags:god-pve
+dimwishlist:item=337578911&perks=1840239774,106909392,4293542123,3038247973
+
+
+// Vision of Confluence (god-pvp) (TIMELOST)
+//notes: blueberries.gg/weapons/vision-of-confluence-god-rolls/ PvP Roll: All-Around (B) "We recommend Fluted Barrel due to the boost in Stability and Handling, while Accurized Rounds helps with the Range. Zen Moment is recommended as the best PvP option as it grants Flinch Resistance while also reducing weapon shake and reticle bounce, making it easier to keep landing your shots. Explosive Payload is recommended as it can provide a very small damage boost while also causing your target to flinch, increasing your odds at winning the gunfight." Masterwork	Range tags:god-pvp
+dimwishlist:item=337578911&perks=1840239774,3142289711,2387244414,3038247973
+
+
+// Vision of Confluence (pve) (TIMELOST)
+//notes: blueberries.gg/weapons/vision-of-confluence-god-rolls/ PvE Roll: All-Around (A) "We recommend Fluted Barrel and Tactical Mag due to the boosts to Stability and Handling, while also increasing the reload speed to make the weapon feel smoother to use. Incandescent is a strong option to help with this weapon’s add clear, as kills cause explosions which also applies Scorch to nearby enemies, causing damage over time and potentially Ignitions. Heal Clip is a viable option if you are struggling with self-sustain, as reloading after a kill grants Cure x2. Explosive Payload is recommended in column 2 as it provides the weapon with a slight damage boost, and also helps with staggering some of the bigger enemies in game. Frenzy is also a viable option. While the weapon does have a large variety of damage perks, Frenzy is the easiest to keep active as it only requires being in combat, and also boosts the weapons Handling and Reload Speed. (If using Frenzy, we recommend swapping to Extended Mag)." Masterwork	Stability tags:pve
+dimwishlist:item=337578911&perks=1840239774,106909392,4293542123,3038247973
+dimwishlist:item=337578911&perks=1840239774,106909392,4293542123,4104185692
+dimwishlist:item=337578911&perks=1840239774,106909392,3017780555,3038247973
+dimwishlist:item=337578911&perks=1840239774,106909392,3017780555,4104185692
+
+
+// Corrective Measure (god-pve) (TIMELOST)
+//notes: blueberries.gg/weapons/corrective-measure-god-rolls/ PvE Roll: All-Around (A) "For some ease-of-use, we’ll be throwing on Fluted Barrel to bump the handling and stability a bit. As for the magazine, Appended Mag is the best choice here. Tactical Mag looks enticing, but the middling amount of ammo it gives is not worth the stat boosts. A reload speed masterwork will help round out the stats. For Perk 1, a lot of good options are here, but Destabilizing Rounds or Firefly are easily the best. Both play very well into both of our slot 2 options, and Destabilizing Rounds now grants Volatile Rounds directly to the gun! Perk 2 also has strong contenders, but Killing Tally or One-For-All take the cake. Both buff damage a rather significant amount, though their activation conditions are what set them apart: kills vs hits. Honorable mention to Demoralize, as pairing it with Firefly is a fun, but ultimately niche, combo." Masterwork	Reload Speed tags:god-pve
+dimwishlist:item=2334480463&perks=1840239774,1087426260,2048641572,557221067
+dimwishlist:item=2334480463&perks=1840239774,1087426260,2048641572,4049631843
+dimwishlist:item=2334480463&perks=1840239774,1087426260,3824105627,557221067
+dimwishlist:item=2334480463&perks=1840239774,1087426260,3824105627,4049631843
+
+
+// Corrective Measure (god-pvp) (TIMELOST)
+//notes: blueberries.gg/weapons/corrective-measure-god-rolls/ PvP Roll: All-Around (A) "Now in PvP, we’re going to want this as steady and stable as possible, and for that, Chambered Compensator + Steady Rounds will be our picks. Chambered Comp gives us a hefty boost to recoil and stability, and despite Steady Rounds knocking range down, it actually only affects the range by less than a meter. Throw on a stability masterwork to make this akin to a laser beam. Perks 1 and 2 will be the tried and true Dynamic Sway Reduction and High-Impact Reserves. DSR will make this even more stable (if that’s even possible), and HIR, while not the largest damage boost, will be active right off the rip. However, if you manage to go on sprees, then Killing Tally might be the better option." Masterwork	Stability tags:god-pvp
+dimwishlist:item=2334480463&perks=3661387068,3177308360,1359896290,2213355989
+
+
+// Corrective Measure (pvp) (TIMELOST)
+//notes: blueberries.gg/weapons/corrective-measure-god-rolls/ PvP Roll: All-Around (A) "Now in PvP, we’re going to want this as steady and stable as possible, and for that, Chambered Compensator + Steady Rounds will be our picks. Chambered Comp gives us a hefty boost to recoil and stability, and despite Steady Rounds knocking range down, it actually only affects the range by less than a meter. Throw on a stability masterwork to make this akin to a laser beam. Perks 1 and 2 will be the tried and true Dynamic Sway Reduction and High-Impact Reserves. DSR will make this even more stable (if that’s even possible), and HIR, while not the largest damage boost, will be active right off the rip. However, if you manage to go on sprees, then Killing Tally might be the better option." Masterwork	Stability tags:pvp
+dimwishlist:item=2334480463&perks=3661387068,3177308360,1359896290,2213355989
+dimwishlist:item=2334480463&perks=3661387068,3177308360,1359896290,557221067
+
+
+// Praedyth's Revenge (god-pve) (TIMELOST)
+//notes: blueberries.gg/weapons/praedyths-revenge-god-rolls/ PvE Roll: All-Around (S) "Fluted Barrel, Tactical Mag, and a handling masterwork all contribute to magazine size and handling, some of the most important perks when looking at PvE. Solidifying main perk combinations for Praedyth’s is tough. Rewind Rounds and Bait and Switch work well together as a backup damage option, which is why the combo is our top pick. That said, Fourth Time’s the Charm and Envious Arsenal are great replacements in column one, whereas Elemental Honing provides an unprecedented 68% damage buff at max stats. Kinetic Tremors is also worth mentioning since it’s in the first column, which is nearly unheard of and can result in absurd total damage." Masterwork	Handling tags:god-pve
+dimwishlist:item=2362652544&perks=1840239774,106909392,3418782618,3078487919
+dimwishlist:item=2362652544&perks=1840239774,106909392,1354429876,3078487919
+
+
+// Praedyth's Revenge (god-pvp) (TIMELOST)
+//notes: blueberries.gg/weapons/praedyths-revenge-god-rolls/ PvP Roll: All-Around (B) "Our Praedyth’s roll for The Crucible will begin with Fluted Barrel, Steady Rounds, and a stability masterwork, all of which grant handling and stability (two of the most important sniper rifle stats for PvP). Discord is really the only viable option for perk one; while a bit clunky to use on a sniper, having increased accuracy and aim down sights speed is better than anything else available here. As for our final perk, Opening Shot is the clear winner, increasing accuracy even further." Masterwork	Stability tags:god-pvp
+dimwishlist:item=2362652544&perks=1840239774,3177308360,3978468247,47981717
+
+
+// Praedyth's Revenge (pve) (TIMELOST)
+//notes: blueberries.gg/weapons/praedyths-revenge-god-rolls/ PvE Roll: All-Around (S) "Fluted Barrel, Tactical Mag, and a handling masterwork all contribute to magazine size and handling, some of the most important perks when looking at PvE. Solidifying main perk combinations for Praedyth’s is tough. Rewind Rounds and Bait and Switch work well together as a backup damage option, which is why the combo is our top pick. That said, Fourth Time’s the Charm and Envious Arsenal are great replacements in column one, whereas Elemental Honing provides an unprecedented 68% damage buff at max stats. Kinetic Tremors is also worth mentioning since it’s in the first column, which is nearly unheard of and can result in absurd total damage." Masterwork	Handling tags:pve
+dimwishlist:item=2362652544&perks=1840239774,106909392,3418782618,3078487919
+dimwishlist:item=2362652544&perks=1840239774,106909392,3418782618,1089671869
+dimwishlist:item=2362652544&perks=1840239774,106909392,1354429876,3078487919
+dimwishlist:item=2362652544&perks=1840239774,106909392,1354429876,1089671869
+
+
+// Mirror Imago (god-pve) (Adept)
+//notes: blueberries.gg/weapons/mirror-imago-god-rolls/ PvE Roll: All-Around (C) "For some basic QoL, we’ll be running Fluted Barrel and Tactical Mag, as these keep the weapon feeling very consistent. Pair it with a stability masterwork and the Willing Vessel origin trait, and you’ll have no issue keeping shots on target. Perk 1 doesn’t have a lot of PvE options, but Grave Robber or Pugilist are easily the top two. Subsistence, while nice, might struggle in higher end activities or against heftier ads. As for Perk 2, any of the four damage options are nice, but Sword Logic or Swashbuckler feed into Perk 1’s options so that it’s hard to pick any others." Masterwork	Stability tags:god-pve
+dimwishlist:item=302039451&perks=1840239774,106909392,1631667848,31345821
+dimwishlist:item=302039451&perks=1840239774,106909392,1631667848,4082225868
+
+// Mirror Imago (god-pve) (Adept Holofoil)
+//notes: blueberries.gg/weapons/mirror-imago-god-rolls/ PvE Roll: All-Around (C) "For some basic QoL, we’ll be running Fluted Barrel and Tactical Mag, as these keep the weapon feeling very consistent. Pair it with a stability masterwork and the Willing Vessel origin trait, and you’ll have no issue keeping shots on target. Perk 1 doesn’t have a lot of PvE options, but Grave Robber or Pugilist are easily the top two. Subsistence, while nice, might struggle in higher end activities or against heftier ads. As for Perk 2, any of the four damage options are nice, but Sword Logic or Swashbuckler feed into Perk 1’s options so that it’s hard to pick any others." Masterwork	Stability tags:god-pve
+dimwishlist:item=4116546788&perks=1840239774,106909392,1631667848,31345821
+dimwishlist:item=4116546788&perks=1840239774,106909392,1631667848,4082225868
+
+
+// Mirror Imago (god-pvp) (Adept)
+//notes: blueberries.gg/weapons/mirror-imago-god-rolls/ PvP Roll: All-Around (A) "For PvP, range is one of the most important stats, which is why we are bumping it as much as possible here. Smallbore, Accurized Rounds, and a range masterwork will be all you need to pump out a few extra meters of dropoff. For Perk 1, Moving Target is easily your best option here with To the Pain as a good alternative. With how much movement is available to players, having something that helps you stick and move while shooting is perfect, and To the Pain helps in those dicey fights. Perk 2 has a good spread of damage perks to pick from, but Sword Logic or Target Lock are your top choices. Sword Logic nets you a solid 20% damage boost, which brings the optimal TTK down to .6 seconds, and Target Lock had its nerf on SMGs reverted, bringing it back into prominence." Masterwork	Range tags:god-pvp
+dimwishlist:item=302039451&perks=1482024992,3142289711,588594999,31345821
+dimwishlist:item=302039451&perks=1482024992,3142289711,588594999,365154968
+
+// Mirror Imago (god-pvp) (Adept Holofoil)
+//notes: blueberries.gg/weapons/mirror-imago-god-rolls/ PvP Roll: All-Around (A) "For PvP, range is one of the most important stats, which is why we are bumping it as much as possible here. Smallbore, Accurized Rounds, and a range masterwork will be all you need to pump out a few extra meters of dropoff. For Perk 1, Moving Target is easily your best option here with To the Pain as a good alternative. With how much movement is available to players, having something that helps you stick and move while shooting is perfect, and To the Pain helps in those dicey fights. Perk 2 has a good spread of damage perks to pick from, but Sword Logic or Target Lock are your top choices. Sword Logic nets you a solid 20% damage boost, which brings the optimal TTK down to .6 seconds, and Target Lock had its nerf on SMGs reverted, bringing it back into prominence." Masterwork	Range tags:god-pvp
+dimwishlist:item=4116546788&perks=1482024992,3142289711,588594999,31345821
+dimwishlist:item=4116546788&perks=1482024992,3142289711,588594999,365154968
+
+
+// Mirror Imago (pve) (Adept)
+//notes: blueberries.gg/weapons/mirror-imago-god-rolls/ PvE Roll: All-Around (C) "For some basic QoL, we’ll be running Fluted Barrel and Tactical Mag, as these keep the weapon feeling very consistent. Pair it with a stability masterwork and the Willing Vessel origin trait, and you’ll have no issue keeping shots on target. Perk 1 doesn’t have a lot of PvE options, but Grave Robber or Pugilist are easily the top two. Subsistence, while nice, might struggle in higher end activities or against heftier ads. As for Perk 2, any of the four damage options are nice, but Sword Logic or Swashbuckler feed into Perk 1’s options so that it’s hard to pick any others." Masterwork	Stability tags:pve
+dimwishlist:item=302039451&perks=1840239774,106909392,1631667848,31345821
+dimwishlist:item=302039451&perks=1840239774,106909392,1631667848,4082225868
+dimwishlist:item=302039451&perks=1840239774,106909392,691659142,31345821
+dimwishlist:item=302039451&perks=1840239774,106909392,691659142,4082225868
+
+// Mirror Imago (pve) (Adept Holofoil)
+//notes: blueberries.gg/weapons/mirror-imago-god-rolls/ PvE Roll: All-Around (C) "For some basic QoL, we’ll be running Fluted Barrel and Tactical Mag, as these keep the weapon feeling very consistent. Pair it with a stability masterwork and the Willing Vessel origin trait, and you’ll have no issue keeping shots on target. Perk 1 doesn’t have a lot of PvE options, but Grave Robber or Pugilist are easily the top two. Subsistence, while nice, might struggle in higher end activities or against heftier ads. As for Perk 2, any of the four damage options are nice, but Sword Logic or Swashbuckler feed into Perk 1’s options so that it’s hard to pick any others." Masterwork	Stability tags:pve
+dimwishlist:item=4116546788&perks=1840239774,106909392,1631667848,31345821
+dimwishlist:item=4116546788&perks=1840239774,106909392,1631667848,4082225868
+dimwishlist:item=4116546788&perks=1840239774,106909392,691659142,31345821
+dimwishlist:item=4116546788&perks=1840239774,106909392,691659142,4082225868
+
+
+// Mirror Imago (pvp) (Adept)
+//notes: blueberries.gg/weapons/mirror-imago-god-rolls/ PvP Roll: All-Around (A) "For PvP, range is one of the most important stats, which is why we are bumping it as much as possible here. Smallbore, Accurized Rounds, and a range masterwork will be all you need to pump out a few extra meters of dropoff. For Perk 1, Moving Target is easily your best option here with To the Pain as a good alternative. With how much movement is available to players, having something that helps you stick and move while shooting is perfect, and To the Pain helps in those dicey fights. Perk 2 has a good spread of damage perks to pick from, but Sword Logic or Target Lock are your top choices. Sword Logic nets you a solid 20% damage boost, which brings the optimal TTK down to .6 seconds, and Target Lock had its nerf on SMGs reverted, bringing it back into prominence." Masterwork	Range tags:pvp
+dimwishlist:item=302039451&perks=1482024992,3142289711,588594999,31345821
+dimwishlist:item=302039451&perks=1482024992,3142289711,588594999,365154968
+dimwishlist:item=302039451&perks=1482024992,3142289711,3938834702,31345821
+dimwishlist:item=302039451&perks=1482024992,3142289711,3938834702,365154968
+
+// Mirror Imago (pvp) (Adept Holofoil)
+//notes: blueberries.gg/weapons/mirror-imago-god-rolls/ PvP Roll: All-Around (A) "For PvP, range is one of the most important stats, which is why we are bumping it as much as possible here. Smallbore, Accurized Rounds, and a range masterwork will be all you need to pump out a few extra meters of dropoff. For Perk 1, Moving Target is easily your best option here with To the Pain as a good alternative. With how much movement is available to players, having something that helps you stick and move while shooting is perfect, and To the Pain helps in those dicey fights. Perk 2 has a good spread of damage perks to pick from, but Sword Logic or Target Lock are your top choices. Sword Logic nets you a solid 20% damage boost, which brings the optimal TTK down to .6 seconds, and Target Lock had its nerf on SMGs reverted, bringing it back into prominence." Masterwork	Range tags:pvp
+dimwishlist:item=4116546788&perks=1482024992,3142289711,588594999,31345821
+dimwishlist:item=4116546788&perks=1482024992,3142289711,588594999,365154968
+dimwishlist:item=4116546788&perks=1482024992,3142289711,3938834702,31345821
+dimwishlist:item=4116546788&perks=1482024992,3142289711,3938834702,365154968
+
+
+// Lotus-Eater (god-pve) (Adept)
+//notes: blueberries.gg/weapons/lotus-eater-god-rolls/ PvE Roll: All-Around (S) "Starting off our PvE Roll, we’ve opted for Quick Launch as it provides a solid bump to Velocity, and a healthy increase to Handling which is always appreciated on Special weapons. This Velocity is further increased by High-Explosive Ordnance and a Velocity Masterwork. Our magazine choice also has the added benefit of slightly boosting our Blast Radius. Perk slot 1 has a plethora of brilliant options. While we have chosen Repulsor Brace as our main pick, it is tough to ignore Feeding Frenzy and Reconstruction. If you don’t want to fully lean into a Void build, one of those reload perks will serve you well. Perk slot 2 comes with the perk on everybody’s lips: Destabilizing Rounds. This is brilliant when paired with Repulsor Brace, but it also works well alone. However, if you want to forgo the Volatile capabilities of the perk, you can opt for Withering Gaze and treat Lotus-Eater as a utility pick rather than an add-clearing tool." Masterwork	Velocity tags:god-pve
+dimwishlist:item=2697143634&perks=3525010810,1380253176,776531651,2048641572
+
+
+// Lotus-Eater (god-pvp) (Adept)
+//notes: blueberries.gg/weapons/lotus-eater-god-rolls/ PvP Roll: All-Around (C) "Like our PvE roll, Quick Launch and a Velocity Masterwork are our preferred picks to boost our Velocity. However, we instead opt for High-Velocity Rounds here to maximize the speed at which our shots will travel. For perk slot 1, Strategist is the only somewhat viable pick as it will provide a consistent benefit on kill. While some other traits may give a more noticeable boost on kill, you won’t be able to take full advantage of the bonus due to the ammo economy on the weapon. In perk slot 2, you can opt for High Ground or Withering Gaze. High Ground is the best pick, as it will give you a damage bonus when above your enemy, which is always welcome." Masterwork	Velocity tags:god-pvp
+dimwishlist:item=2697143634&perks=3525010810,2822142346,880644845,2319119708
+
+
+// Lotus-Eater (pve) (Adept)
+//notes: blueberries.gg/weapons/lotus-eater-god-rolls/ PvE Roll: All-Around (S) "Starting off our PvE Roll, we’ve opted for Quick Launch as it provides a solid bump to Velocity, and a healthy increase to Handling which is always appreciated on Special weapons. This Velocity is further increased by High-Explosive Ordnance and a Velocity Masterwork. Our magazine choice also has the added benefit of slightly boosting our Blast Radius. Perk slot 1 has a plethora of brilliant options. While we have chosen Repulsor Brace as our main pick, it is tough to ignore Feeding Frenzy and Reconstruction. If you don’t want to fully lean into a Void build, one of those reload perks will serve you well. Perk slot 2 comes with the perk on everybody’s lips: Destabilizing Rounds. This is brilliant when paired with Repulsor Brace, but it also works well alone. However, if you want to forgo the Volatile capabilities of the perk, you can opt for Withering Gaze and treat Lotus-Eater as a utility pick rather than an add-clearing tool." Masterwork	Velocity tags:pve
+dimwishlist:item=2697143634&perks=3525010810,1380253176,776531651,2048641572
+dimwishlist:item=2697143634&perks=3525010810,1380253176,776531651,1134488199
+dimwishlist:item=2697143634&perks=3525010810,1380253176,2779035018,2048641572
+dimwishlist:item=2697143634&perks=3525010810,1380253176,2779035018,1134488199
+dimwishlist:item=2697143634&perks=3525010810,1380253176,1523832109,2048641572
+dimwishlist:item=2697143634&perks=3525010810,1380253176,1523832109,1134488199
+
+
+// Psychopomp (god-pve) (Holofoil)
+//notes: blueberries.gg/weapons/psychopomp-god-rolls/ PvE Roll: All-Around (S) "Our roll on Psychopomp is gearing it towards being used as a DPS option, so Quick Launch and High-Velocity Rounds are ideal here, thanks to the Handling and Velocity they provide. In Perk 1, you can choose whether to use this weapon as a DPS option with Envious Arsenal or an add-clear option with Ambitious Assassin; the choice is yours, depending on what you wish your Psychopomp to accomplish. For Perk 2, we suggest Rolling Storm as it gives you a way to utilize Bolt Charge; however, Frenzy is a very suitable alternative, especially if you are using this weapon for add-clear." Masterwork	Handling tags:god-pve
+dimwishlist:item=3840794631&perks=3525010810,2822142346,3987942396,3218042543
+dimwishlist:item=3840794631&perks=3525010810,2822142346,2010801679,3218042543
+
+// Psychopomp (god-pve) (Adept)
+//notes: blueberries.gg/weapons/psychopomp-god-rolls/ PvE Roll: All-Around (S) "Our roll on Psychopomp is gearing it towards being used as a DPS option, so Quick Launch and High-Velocity Rounds are ideal here, thanks to the Handling and Velocity they provide. In Perk 1, you can choose whether to use this weapon as a DPS option with Envious Arsenal or an add-clear option with Ambitious Assassin; the choice is yours, depending on what you wish your Psychopomp to accomplish. For Perk 2, we suggest Rolling Storm as it gives you a way to utilize Bolt Charge; however, Frenzy is a very suitable alternative, especially if you are using this weapon for add-clear." Masterwork	Handling tags:god-pve
+dimwishlist:item=2553380021&perks=3525010810,2822142346,3987942396,3218042543
+dimwishlist:item=2553380021&perks=3525010810,2822142346,2010801679,3218042543
+
+// Psychopomp (god-pve) (Adept Holofoil)
+//notes: blueberries.gg/weapons/psychopomp-god-rolls/ PvE Roll: All-Around (S) "Our roll on Psychopomp is gearing it towards being used as a DPS option, so Quick Launch and High-Velocity Rounds are ideal here, thanks to the Handling and Velocity they provide. In Perk 1, you can choose whether to use this weapon as a DPS option with Envious Arsenal or an add-clear option with Ambitious Assassin; the choice is yours, depending on what you wish your Psychopomp to accomplish. For Perk 2, we suggest Rolling Storm as it gives you a way to utilize Bolt Charge; however, Frenzy is a very suitable alternative, especially if you are using this weapon for add-clear." Masterwork	Handling tags:god-pve
+dimwishlist:item=704410186&perks=3525010810,2822142346,3987942396,3218042543
+dimwishlist:item=704410186&perks=3525010810,2822142346,2010801679,3218042543
+
+
+// Psychopomp (pve) (Holofoil)
+//notes: blueberries.gg/weapons/psychopomp-god-rolls/ PvE Roll: All-Around (S) "Our roll on Psychopomp is gearing it towards being used as a DPS option, so Quick Launch and High-Velocity Rounds are ideal here, thanks to the Handling and Velocity they provide. In Perk 1, you can choose whether to use this weapon as a DPS option with Envious Arsenal or an add-clear option with Ambitious Assassin; the choice is yours, depending on what you wish your Psychopomp to accomplish. For Perk 2, we suggest Rolling Storm as it gives you a way to utilize Bolt Charge; however, Frenzy is a very suitable alternative, especially if you are using this weapon for add-clear." Masterwork	Handling tags:pve
+dimwishlist:item=3840794631&perks=3525010810,2822142346,3987942396,3218042543
+dimwishlist:item=3840794631&perks=3525010810,2822142346,3987942396,4104185692
+dimwishlist:item=3840794631&perks=3525010810,2822142346,2010801679,3218042543
+dimwishlist:item=3840794631&perks=3525010810,2822142346,2010801679,4104185692
+
+// Psychopomp (pve) (Adept)
+//notes: blueberries.gg/weapons/psychopomp-god-rolls/ PvE Roll: All-Around (S) "Our roll on Psychopomp is gearing it towards being used as a DPS option, so Quick Launch and High-Velocity Rounds are ideal here, thanks to the Handling and Velocity they provide. In Perk 1, you can choose whether to use this weapon as a DPS option with Envious Arsenal or an add-clear option with Ambitious Assassin; the choice is yours, depending on what you wish your Psychopomp to accomplish. For Perk 2, we suggest Rolling Storm as it gives you a way to utilize Bolt Charge; however, Frenzy is a very suitable alternative, especially if you are using this weapon for add-clear." Masterwork	Handling tags:pve
+dimwishlist:item=2553380021&perks=3525010810,2822142346,3987942396,3218042543
+dimwishlist:item=2553380021&perks=3525010810,2822142346,3987942396,4104185692
+dimwishlist:item=2553380021&perks=3525010810,2822142346,2010801679,3218042543
+dimwishlist:item=2553380021&perks=3525010810,2822142346,2010801679,4104185692
+
+// Psychopomp (pve) (Adept Holofoil)
+//notes: blueberries.gg/weapons/psychopomp-god-rolls/ PvE Roll: All-Around (S) "Our roll on Psychopomp is gearing it towards being used as a DPS option, so Quick Launch and High-Velocity Rounds are ideal here, thanks to the Handling and Velocity they provide. In Perk 1, you can choose whether to use this weapon as a DPS option with Envious Arsenal or an add-clear option with Ambitious Assassin; the choice is yours, depending on what you wish your Psychopomp to accomplish. For Perk 2, we suggest Rolling Storm as it gives you a way to utilize Bolt Charge; however, Frenzy is a very suitable alternative, especially if you are using this weapon for add-clear." Masterwork	Handling tags:pve
+dimwishlist:item=704410186&perks=3525010810,2822142346,3987942396,3218042543
+dimwishlist:item=704410186&perks=3525010810,2822142346,3987942396,4104185692
+dimwishlist:item=704410186&perks=3525010810,2822142346,2010801679,3218042543
+dimwishlist:item=704410186&perks=3525010810,2822142346,2010801679,4104185692
+
+
+// Fatebringer (god-pve) (TIMELOST)
+//notes: blueberries.gg/weapons/fatebringer-god-rolls/ PvE Roll: All-Around (S) "For our barrel, we are going to opt for Smallbore. However, you can most likely go for any option, as barrels in PvE aren’t too important on primary weapons. For the magazine, Appended Mag is ideal to bump that magazine size up from 10 to 12. For Perk 1, Explosive Payload is the clear winner as it provides good utility to the weapon while also dealing slightly more damage. In Perk 2, you have some more choice. Frenzy is ideal, thanks to its damage and stat bonuses, but Firefly or even Elemental Honing can work too." Masterwork	Range tags:god-pve
+dimwishlist:item=4219826183&perks=1482024992,1087426260,3038247973,4104185692
+
+
+// Fatebringer (god-pvp) (TIMELOST)
+//notes: blueberries.gg/weapons/fatebringer-god-rolls/ PvP Roll: All-Around (A) "Barrels are more important in PvP, so we should shoot for Smallbore here, although you can also opt for other Range-improving barrels. For our magazine, we are looking for Accurised Rounds to boost the range as far as possible. n perk slot 1, Explosive Payload and Opening Shot are the ideal picks, and what you choose will come down to personal preference. However, in Perk 2, Eye of the Storm is the best pick. While Magnificent Howl is an okay alternative, Eye of the Storm is consistently too good." Masterwork	Range tags:god-pvp
+dimwishlist:item=4219826183&perks=1482024992,3142289711,3038247973,699525795
+dimwishlist:item=4219826183&perks=1482024992,3142289711,47981717,699525795
+
+
+// Fatebringer (pve) (TIMELOST)
+//notes: blueberries.gg/weapons/fatebringer-god-rolls/ PvE Roll: All-Around (S) "For our barrel, we are going to opt for Smallbore. However, you can most likely go for any option, as barrels in PvE aren’t too important on primary weapons. For the magazine, Appended Mag is ideal to bump that magazine size up from 10 to 12. For Perk 1, Explosive Payload is the clear winner as it provides good utility to the weapon while also dealing slightly more damage. In Perk 2, you have some more choice. Frenzy is ideal, thanks to its damage and stat bonuses, but Firefly or even Elemental Honing can work too." Masterwork	Range tags:pve
+dimwishlist:item=4219826183&perks=1482024992,1087426260,3038247973,4104185692
+dimwishlist:item=4219826183&perks=1482024992,1087426260,3038247973,3824105627
+
+
+
+
+
 
 title:stagionali s26 giorno
 
