@@ -9,6 +9,158 @@ title:S26 Heresy (Uncraftable) Weapons
 description:These weapons all get 2 origin traits - the new Willing Vessel trait and the old King’s Fall trait Runneth Over. Runneth Over is a known quantity and it is fine - overflowing mags in fireteam settings. Willing Vessel is pretty similar giving out stats, but has a better base functionality that improves with fireteam members. In general, Willing Vessel is probably the play on roaming and general use weapons like primaries and Runneth Over would in theory be the play on heavy weapons and DPS weapons. For clarity the Runneth Over perk is only an option on the “shiny” aka Double Perk versions of these guns.
 
 
+
+
+// Afterlight () (Normal)
+//notes: SpaceMonkey's Weapon Guide (https://docs.google.com/document/d/1KGxePntz2loCYlAhdKm0fJyyf_YURJ1Zd7L1smsu4-c) Recommended Perks 1st choice "This is neat insofar as its a Discord add clearing fusion rifle. If that is good enough or not remains to be seen, but it’s a nifty trick!" Masterwork: Charge Time
+dimwishlist:item=3228630258&perks=3250034553,1687452232,3978468247,1427256713
+dimwishlist:item=3228630258&perks=3250034553,1687452232,3978468247,2048641572
+
+
+// Afterlight () (Normal)
+//notes: SpaceMonkey's Weapon Guide (https://docs.google.com/document/d/1KGxePntz2loCYlAhdKm0fJyyf_YURJ1Zd7L1smsu4-c) Recommended Perks "This is neat insofar as its a Discord add clearing fusion rifle. If that is good enough or not remains to be seen, but it’s a nifty trick!" Masterwork: Charge Time, Reload
+dimwishlist:item=3228630258&perks=3250034553,1687452232,3978468247,1427256713
+dimwishlist:item=3228630258&perks=3250034553,1687452232,3978468247,2048641572
+dimwishlist:item=3228630258&perks=3250034553,1687452232,1556840489,1427256713
+dimwishlist:item=3228630258&perks=3250034553,1687452232,1556840489,2048641572
+dimwishlist:item=3228630258&perks=3250034553,2680121939,3978468247,1427256713
+dimwishlist:item=3228630258&perks=3250034553,2680121939,3978468247,2048641572
+dimwishlist:item=3228630258&perks=3250034553,2680121939,1556840489,1427256713
+dimwishlist:item=3228630258&perks=3250034553,2680121939,1556840489,2048641572
+dimwishlist:item=3228630258&perks=1482024992,1687452232,3978468247,1427256713
+dimwishlist:item=3228630258&perks=1482024992,1687452232,3978468247,2048641572
+dimwishlist:item=3228630258&perks=1482024992,1687452232,1556840489,1427256713
+dimwishlist:item=3228630258&perks=1482024992,1687452232,1556840489,2048641572
+dimwishlist:item=3228630258&perks=1482024992,2680121939,3978468247,1427256713
+dimwishlist:item=3228630258&perks=1482024992,2680121939,3978468247,2048641572
+dimwishlist:item=3228630258&perks=1482024992,2680121939,1556840489,1427256713
+dimwishlist:item=3228630258&perks=1482024992,2680121939,1556840489,2048641572
+dimwishlist:item=3228630258&perks=4090651448,1687452232,3978468247,1427256713
+dimwishlist:item=3228630258&perks=4090651448,1687452232,3978468247,2048641572
+dimwishlist:item=3228630258&perks=4090651448,1687452232,1556840489,1427256713
+dimwishlist:item=3228630258&perks=4090651448,1687452232,1556840489,2048641572
+dimwishlist:item=3228630258&perks=4090651448,2680121939,3978468247,1427256713
+dimwishlist:item=3228630258&perks=4090651448,2680121939,3978468247,2048641572
+dimwishlist:item=3228630258&perks=4090651448,2680121939,1556840489,1427256713
+dimwishlist:item=3228630258&perks=4090651448,2680121939,1556840489,2048641572
+dimwishlist:item=3228630258&perks=1840239774,1687452232,3978468247,1427256713
+dimwishlist:item=3228630258&perks=1840239774,1687452232,3978468247,2048641572
+dimwishlist:item=3228630258&perks=1840239774,1687452232,1556840489,1427256713
+dimwishlist:item=3228630258&perks=1840239774,1687452232,1556840489,2048641572
+dimwishlist:item=3228630258&perks=1840239774,2680121939,3978468247,1427256713
+dimwishlist:item=3228630258&perks=1840239774,2680121939,3978468247,2048641572
+dimwishlist:item=3228630258&perks=1840239774,2680121939,1556840489,1427256713
+dimwishlist:item=3228630258&perks=1840239774,2680121939,1556840489,2048641572
+
+
+// Refusal of the Call () (Normal)
+//notes: SpaceMonkey's Weapon Guide (https://docs.google.com/document/d/1KGxePntz2loCYlAhdKm0fJyyf_YURJ1Zd7L1smsu4-c) Recommended Perks 1st choice "It’s a glaive. For many people that can just be the end of the paragraph. It does get to do one cool trick though which is to use its projectiles to pop an enemy shield and then use melees (which count as kinetic) to benefit from the huge disruption break bonus." Masterwork: Shield Duration
+dimwishlist:item=3269398063&perks=2713678205,679225683,923806249,1683379515
+
+
+// Refusal of the Call () (Normal)
+//notes: SpaceMonkey's Weapon Guide (https://docs.google.com/document/d/1KGxePntz2loCYlAhdKm0fJyyf_YURJ1Zd7L1smsu4-c) Recommended Perks "It’s a glaive. For many people that can just be the end of the paragraph. It does get to do one cool trick though which is to use its projectiles to pop an enemy shield and then use melees (which count as kinetic) to benefit from the huge disruption break bonus." Masterwork: Shield Duration, Reload, Handling
+dimwishlist:item=3269398063&perks=2713678205,679225683,923806249,1683379515
+dimwishlist:item=3269398063&perks=2713678205,679225683,923806249,31345821
+dimwishlist:item=3269398063&perks=2713678205,679225683,951095735,1683379515
+dimwishlist:item=3269398063&perks=2713678205,679225683,951095735,31345821
+dimwishlist:item=3269398063&perks=2713678205,3721627275,923806249,1683379515
+dimwishlist:item=3269398063&perks=2713678205,3721627275,923806249,31345821
+dimwishlist:item=3269398063&perks=2713678205,3721627275,951095735,1683379515
+dimwishlist:item=3269398063&perks=2713678205,3721627275,951095735,31345821
+dimwishlist:item=3269398063&perks=2713678205,1087426260,923806249,1683379515
+dimwishlist:item=3269398063&perks=2713678205,1087426260,923806249,31345821
+dimwishlist:item=3269398063&perks=2713678205,1087426260,951095735,1683379515
+dimwishlist:item=3269398063&perks=2713678205,1087426260,951095735,31345821
+dimwishlist:item=3269398063&perks=2713678205,3142289711,923806249,1683379515
+dimwishlist:item=3269398063&perks=2713678205,3142289711,923806249,31345821
+dimwishlist:item=3269398063&perks=2713678205,3142289711,951095735,1683379515
+dimwishlist:item=3269398063&perks=2713678205,3142289711,951095735,31345821
+dimwishlist:item=3269398063&perks=580685494,679225683,923806249,1683379515
+dimwishlist:item=3269398063&perks=580685494,679225683,923806249,31345821
+dimwishlist:item=3269398063&perks=580685494,679225683,951095735,1683379515
+dimwishlist:item=3269398063&perks=580685494,679225683,951095735,31345821
+dimwishlist:item=3269398063&perks=580685494,3721627275,923806249,1683379515
+dimwishlist:item=3269398063&perks=580685494,3721627275,923806249,31345821
+dimwishlist:item=3269398063&perks=580685494,3721627275,951095735,1683379515
+dimwishlist:item=3269398063&perks=580685494,3721627275,951095735,31345821
+dimwishlist:item=3269398063&perks=580685494,1087426260,923806249,1683379515
+dimwishlist:item=3269398063&perks=580685494,1087426260,923806249,31345821
+dimwishlist:item=3269398063&perks=580685494,1087426260,951095735,1683379515
+dimwishlist:item=3269398063&perks=580685494,1087426260,951095735,31345821
+dimwishlist:item=3269398063&perks=580685494,3142289711,923806249,1683379515
+dimwishlist:item=3269398063&perks=580685494,3142289711,923806249,31345821
+dimwishlist:item=3269398063&perks=580685494,3142289711,951095735,1683379515
+dimwishlist:item=3269398063&perks=580685494,3142289711,951095735,31345821
+dimwishlist:item=3269398063&perks=5699512,679225683,923806249,1683379515
+dimwishlist:item=3269398063&perks=5699512,679225683,923806249,31345821
+dimwishlist:item=3269398063&perks=5699512,679225683,951095735,1683379515
+dimwishlist:item=3269398063&perks=5699512,679225683,951095735,31345821
+dimwishlist:item=3269398063&perks=5699512,3721627275,923806249,1683379515
+dimwishlist:item=3269398063&perks=5699512,3721627275,923806249,31345821
+dimwishlist:item=3269398063&perks=5699512,3721627275,951095735,1683379515
+dimwishlist:item=3269398063&perks=5699512,3721627275,951095735,31345821
+dimwishlist:item=3269398063&perks=5699512,1087426260,923806249,1683379515
+dimwishlist:item=3269398063&perks=5699512,1087426260,923806249,31345821
+dimwishlist:item=3269398063&perks=5699512,1087426260,951095735,1683379515
+dimwishlist:item=3269398063&perks=5699512,1087426260,951095735,31345821
+dimwishlist:item=3269398063&perks=5699512,3142289711,923806249,1683379515
+dimwishlist:item=3269398063&perks=5699512,3142289711,923806249,31345821
+dimwishlist:item=3269398063&perks=5699512,3142289711,951095735,1683379515
+dimwishlist:item=3269398063&perks=5699512,3142289711,951095735,31345821
+
+
+// Division () (Normal)
+//notes: SpaceMonkey's Weapon Guide (https://docs.google.com/document/d/1KGxePntz2loCYlAhdKm0fJyyf_YURJ1Zd7L1smsu4-c) Recommended Perks 1st chice "This is perfectly fine. It’s a little strange that Anonymous Autumn was just released with almost the same (if not better) perk pool in a slightly better archetype. That being said if you like heavy burst sidearms this should be serviceable. It feels like this gun should have gotten jolting feedback instead of voltshot to more differentiate, but alas. Overall this looks fine." Masterwork: Reload
+dimwishlist:item=2903168058&perks=4090651448,3230963543,684456054,2173046394
+
+
+// Division () (Normal)
+//notes: SpaceMonkey's Weapon Guide (https://docs.google.com/document/d/1KGxePntz2loCYlAhdKm0fJyyf_YURJ1Zd7L1smsu4-c) Recommended Perks "This is perfectly fine. It’s a little strange that Anonymous Autumn was just released with almost the same (if not better) perk pool in a slightly better archetype. That being said if you like heavy burst sidearms this should be serviceable. It feels like this gun should have gotten jolting feedback instead of voltshot to more differentiate, but alas. Overall this looks fine." Masterwork: Reload. Range
+dimwishlist:item=2903168058&perks=4090651448,3230963543,684456054,2173046394
+dimwishlist:item=2903168058&perks=4090651448,3230963543,684456054,3708227201
+dimwishlist:item=2903168058&perks=4090651448,3230963543,691659142,2173046394
+dimwishlist:item=2903168058&perks=4090651448,3230963543,691659142,3708227201
+dimwishlist:item=2903168058&perks=4090651448,106909392,684456054,2173046394
+dimwishlist:item=2903168058&perks=4090651448,106909392,684456054,3708227201
+dimwishlist:item=2903168058&perks=4090651448,106909392,691659142,2173046394
+dimwishlist:item=2903168058&perks=4090651448,106909392,691659142,3708227201
+dimwishlist:item=2903168058&perks=4090651448,3142289711,684456054,2173046394
+dimwishlist:item=2903168058&perks=4090651448,3142289711,684456054,3708227201
+dimwishlist:item=2903168058&perks=4090651448,3142289711,691659142,2173046394
+dimwishlist:item=2903168058&perks=4090651448,3142289711,691659142,3708227201
+dimwishlist:item=2903168058&perks=1840239774,3230963543,684456054,2173046394
+dimwishlist:item=2903168058&perks=1840239774,3230963543,684456054,3708227201
+dimwishlist:item=2903168058&perks=1840239774,3230963543,691659142,2173046394
+dimwishlist:item=2903168058&perks=1840239774,3230963543,691659142,3708227201
+dimwishlist:item=2903168058&perks=1840239774,106909392,684456054,2173046394
+dimwishlist:item=2903168058&perks=1840239774,106909392,684456054,3708227201
+dimwishlist:item=2903168058&perks=1840239774,106909392,691659142,2173046394
+dimwishlist:item=2903168058&perks=1840239774,106909392,691659142,3708227201
+dimwishlist:item=2903168058&perks=1840239774,3142289711,684456054,2173046394
+dimwishlist:item=2903168058&perks=1840239774,3142289711,684456054,3708227201
+dimwishlist:item=2903168058&perks=1840239774,3142289711,691659142,2173046394
+dimwishlist:item=2903168058&perks=1840239774,3142289711,691659142,3708227201
+
+
+// Mirror Imago () (Normal)
+//notes: SpaceMonkey's Weapon Guide (https://docs.google.com/document/d/1KGxePntz2loCYlAhdKm0fJyyf_YURJ1Zd7L1smsu4-c) Recommended Perks "This is the worst SMG archetype in the game and there isn’t anything in the perk columns that saves this gun. Pass." Masterwork: Reload, Range
+dimwishlist:item=3234363830&perks=1840239774,3230963543,3713215006,831391274
+dimwishlist:item=3234363830&perks=1840239774,3230963543,3713215006,31345821
+dimwishlist:item=3234363830&perks=1840239774,106909392,3713215006,831391274
+dimwishlist:item=3234363830&perks=1840239774,106909392,3713215006,31345821
+dimwishlist:item=3234363830&perks=4090651448,3230963543,3713215006,831391274
+dimwishlist:item=3234363830&perks=4090651448,3230963543,3713215006,31345821
+dimwishlist:item=3234363830&perks=4090651448,106909392,3713215006,831391274
+dimwishlist:item=3234363830&perks=4090651448,106909392,3713215006,31345821
+dimwishlist:item=3234363830&perks=3250034553,3230963543,3713215006,831391274
+dimwishlist:item=3234363830&perks=3250034553,3230963543,3713215006,31345821
+dimwishlist:item=3234363830&perks=3250034553,106909392,3713215006,831391274
+dimwishlist:item=3234363830&perks=3250034553,106909392,3713215006,31345821
+
+
+
+
 // Abyssal Edge ()
 //notes: SpaceMonkey's Weapon Guide (https://docs.google.com/document/d/1KGxePntz2loCYlAhdKm0fJyyf_YURJ1Zd7L1smsu4-c) Recommended Perks "Totally fine stand-in for Summum Bonum, but it isn’t the best in class. " Masterwork: Impact
 dimwishlist:item=547165496&perks=3666208348,269888150,1749209109,1089671869
