@@ -1,5 +1,120 @@
 title: stf75stf wishlist
 
+title:atto 2
+
+// Afterlight (god-pve) (Normal)
+//notes: Giorno Gaming (https://www.youtube.com/watch?v=u05l3skgooE) tags:god-pve
+dimwishlist:item=3228630258&perks=2010801679,1427256713
+
+
+// Afterlight (pve) (Normal)
+//notes: Giorno Gaming (https://www.youtube.com/watch?v=u05l3skgooE) tags:pve
+dimwishlist:item=3228630258&perks=1556840489,2048641572
+dimwishlist:item=3228630258&perks=1556840489,1546637391
+dimwishlist:item=3228630258&perks=1556840489,4082225868
+dimwishlist:item=3228630258&perks=691659142,2048641572
+dimwishlist:item=3228630258&perks=691659142,1546637391
+dimwishlist:item=3228630258&perks=691659142,4082225868
+dimwishlist:item=3228630258&perks=1631667848,2048641572
+dimwishlist:item=3228630258&perks=1631667848,1546637391
+dimwishlist:item=3228630258&perks=1631667848,4082225868
+
+
+// Afterlight (pvp) (Normal)
+//notes: Giorno Gaming (https://www.youtube.com/watch?v=u05l3skgooE) tags:pvp
+dimwishlist:item=3228630258&perks=1645158859,1799762209
+
+
+// Refusal of the Call (god-pve) (Normal)
+//notes: blueberries.gg/weapons/refusal-of-the-call-god-rolls/ PvE Roll: All-Around (A) "As the goal is to swap to Refusal after landing a kill with a different weapon, boosting our handling is top priority. Tempered Truss Rod, Swap Mag, and a handling masterwork should do you just fine. Discord has barely any contenders in its slot. While Envious Assassin and Replenishing Aegis are nice, Discord refunds the ammo from thin air, instead of pulling from reserves. Slice is the only other worthwhile perk as it can make those close-up encounters less stressful. As for Perk 2, Sword Logic just pairs so well with Discord that other options seem lackluster. However, Close to Melee is a solid alternative as it too can take advantage of Discord’s ammo refund." Masterwork	Handling tags:god-pve
+dimwishlist:item=3269398063&perks=5699512,3721627275,3978468247,31345821
+
+
+// Refusal of the Call (god-pvp) (Normal)
+//notes: blueberries.gg/weapons/refusal-of-the-call-god-rolls/ PvP Roll: All-Around (B) "Contrasting our PvE roll, we’re going to focus solely on range for PvP. Ballistic Tuning, Accurized Rounds, and a range masterwork will give it a solid bump and will make our perk 1 choice even stronger. Speaking of, Impulse Amplifier is that perk. Tacking on the 35% bonus gives Refusal a whopping 175 m/s projectile velocity! And while it might seem like an odd choice, Disruption Break for Perk 2 is actually a very solid pick. As the glaive melee is coded as a Kinetic attack, it will benefit from the 50% damage debuff, allowing for a shot-melee kill at all resilience tiers!" Masterwork	Range tags:god-pvp
+dimwishlist:item=3269398063&perks=1263609309,3142289711,951095735,1683379515
+
+
+// Refusal of the Call (pve) (Normal)
+//notes: blueberries.gg/weapons/refusal-of-the-call-god-rolls/ PvE Roll: All-Around (A) "As the goal is to swap to Refusal after landing a kill with a different weapon, boosting our handling is top priority. Tempered Truss Rod, Swap Mag, and a handling masterwork should do you just fine. Discord has barely any contenders in its slot. While Envious Assassin and Replenishing Aegis are nice, Discord refunds the ammo from thin air, instead of pulling from reserves. Slice is the only other worthwhile perk as it can make those close-up encounters less stressful. As for Perk 2, Sword Logic just pairs so well with Discord that other options seem lackluster. However, Close to Melee is a solid alternative as it too can take advantage of Discord’s ammo refund." Masterwork	Handling tags:pve
+dimwishlist:item=3269398063&perks=5699512,3721627275,3978468247,31345821
+dimwishlist:item=3269398063&perks=5699512,3721627275,3978468247,1782407750
+dimwishlist:item=3269398063&perks=5699512,3721627275,923806249,31345821
+dimwishlist:item=3269398063&perks=5699512,3721627275,923806249,1782407750
+
+
+// Refusal of the Call (pve) (Normal)
+//notes: Giorno Gaming (https://www.youtube.com/watch?v=u05l3skgooE) tags:pve
+dimwishlist:item=3269398063&perks=3526486541,2224838837
+dimwishlist:item=3269398063&perks=3526486541,1782407750
+dimwishlist:item=3269398063&perks=3526486541,3773585912
+dimwishlist:item=3269398063&perks=1966281507,2224838837
+dimwishlist:item=3269398063&perks=1966281507,1782407750
+dimwishlist:item=3269398063&perks=1966281507,3773585912
+
+
+// Division (god-pve) (Normal)
+//notes: blueberries.gg/weapons/division-god-rolls/ PvE Roll: All-Around (A) "Our PvE roll with begin with Fluted Barrel, Tactical Mag, and a handling masterwork, a classic combination that provides a nice balance of potent stats for PvE. Eddy Current isn’t an absurdly popular pick these days, but it’s the best the first column has here. Plus, it fits nicely with our final perk pick, which is Voltshot. Assuming you’re rocking an Arc build (which will be more potent this Episode through the artifact!), this combination is great for more casual activities." Masterwork	Handling tags:god-pve
+dimwishlist:item=2903168058&perks=1840239774,106909392,684456054,2173046394
+
+
+// Division (god-pvp) (Normal)
+//notes: blueberries.gg/weapons/division-god-rolls/ PvP Roll: All-Around (A) "Building into the range stat of this weapon doesn’t actually increase its effective range much, so we’ll instead prioritize stability. Smallbore, Steady Rounds, and a stability masterwork are perfect for this. To the Pain is our choice for column one, which is great since you’re likely to be taking a lot of damage when fighting so close range. As for the second column, Sword Logic is our top pick, which allows for a 0.47s (two burst) time to kill against all resilience levels." Masterwork	Stability tags:god-pvp
+dimwishlist:item=2903168058&perks=1482024992,3177308360,3938834702,31345821
+
+
+// Division (god-pve) (Normal)
+//notes: Giorno Gaming (https://www.youtube.com/watch?v=u05l3skgooE) tags:god-pve
+dimwishlist:item=2903168058&perks=684456054,2173046394
+
+
+// Division (pvp) (Normal)
+//notes: Giorno Gaming (https://www.youtube.com/watch?v=u05l3skgooE) tags:pvp
+dimwishlist:item=2903168058&perks=3938834702,699525795
+dimwishlist:item=2903168058&perks=3938834702,1015611457
+
+
+// Division (pve) (Normal)
+//notes: Giorno Gaming (https://www.youtube.com/watch?v=u05l3skgooE) pugni tags:pve
+dimwishlist:item=2903168058&perks=691659142,4082225868
+dimwishlist:item=2903168058&perks=1631667848,4082225868
+
+
+// Mirror Imago (god-pve) (Normal)
+//notes: blueberries.gg/weapons/mirror-imago-god-rolls/ PvE Roll: All-Around (C) "For some basic QoL, we’ll be running Fluted Barrel and Tactical Mag, as these keep the weapon feeling very consistent. Pair it with a stability masterwork and the Willing Vessel origin trait, and you’ll have no issue keeping shots on target. Perk 1 doesn’t have a lot of PvE options, but Grave Robber or Pugilist are easily the top two. Subsistence, while nice, might struggle in higher end activities or against heftier ads. As for Perk 2, any of the four damage options are nice, but Sword Logic or Swashbuckler feed into Perk 1’s options so that it’s hard to pick any others." Masterwork	Stability tags:god-pve
+dimwishlist:item=3234363830&perks=1840239774,106909392,1631667848,31345821
+dimwishlist:item=3234363830&perks=1840239774,106909392,1631667848,4082225868
+
+
+// Mirror Imago (god-pvp) (Normal)
+//notes: blueberries.gg/weapons/mirror-imago-god-rolls/ PvP Roll: All-Around (A) "For PvP, range is one of the most important stats, which is why we are bumping it as much as possible here. Smallbore, Accurized Rounds, and a range masterwork will be all you need to pump out a few extra meters of dropoff. For Perk 1, Moving Target is easily your best option here with To the Pain as a good alternative. With how much movement is available to players, having something that helps you stick and move while shooting is perfect, and To the Pain helps in those dicey fights. Perk 2 has a good spread of damage perks to pick from, but Sword Logic or Target Lock are your top choices. Sword Logic nets you a solid 20% damage boost, which brings the optimal TTK down to .6 seconds, and Target Lock had its nerf on SMGs reverted, bringing it back into prominence." Masterwork	Range tags:god-pvp
+dimwishlist:item=3234363830&perks=1482024992,3142289711,588594999,31345821
+dimwishlist:item=3234363830&perks=1482024992,3142289711,588594999,365154968
+
+
+// Mirror Imago (pve) (Normal)
+//notes: blueberries.gg/weapons/mirror-imago-god-rolls/ PvE Roll: All-Around (C) "For some basic QoL, we’ll be running Fluted Barrel and Tactical Mag, as these keep the weapon feeling very consistent. Pair it with a stability masterwork and the Willing Vessel origin trait, and you’ll have no issue keeping shots on target. Perk 1 doesn’t have a lot of PvE options, but Grave Robber or Pugilist are easily the top two. Subsistence, while nice, might struggle in higher end activities or against heftier ads. As for Perk 2, any of the four damage options are nice, but Sword Logic or Swashbuckler feed into Perk 1’s options so that it’s hard to pick any others." Masterwork	Stability tags:pve
+dimwishlist:item=3234363830&perks=1840239774,106909392,1631667848,31345821
+dimwishlist:item=3234363830&perks=1840239774,106909392,1631667848,4082225868
+dimwishlist:item=3234363830&perks=1840239774,106909392,691659142,31345821
+dimwishlist:item=3234363830&perks=1840239774,106909392,691659142,4082225868
+
+
+// Mirror Imago (pvp) (Normal)
+//notes: blueberries.gg/weapons/mirror-imago-god-rolls/ PvP Roll: All-Around (A) "For PvP, range is one of the most important stats, which is why we are bumping it as much as possible here. Smallbore, Accurized Rounds, and a range masterwork will be all you need to pump out a few extra meters of dropoff. For Perk 1, Moving Target is easily your best option here with To the Pain as a good alternative. With how much movement is available to players, having something that helps you stick and move while shooting is perfect, and To the Pain helps in those dicey fights. Perk 2 has a good spread of damage perks to pick from, but Sword Logic or Target Lock are your top choices. Sword Logic nets you a solid 20% damage boost, which brings the optimal TTK down to .6 seconds, and Target Lock had its nerf on SMGs reverted, bringing it back into prominence." Masterwork	Range tags:pvp
+dimwishlist:item=3234363830&perks=1482024992,3142289711,588594999,31345821
+dimwishlist:item=3234363830&perks=1482024992,3142289711,588594999,365154968
+dimwishlist:item=3234363830&perks=1482024992,3142289711,3938834702,31345821
+dimwishlist:item=3234363830&perks=1482024992,3142289711,3938834702,365154968
+
+
+// Mirror Imago (pve) (Normal)
+//notes: Giorno Gaming (https://www.youtube.com/watch?v=u05l3skgooE) tags:pve
+dimwishlist:item=3234363830&perks=3643424744,3108830275
+dimwishlist:item=3234363830&perks=3643424744,31345821
+dimwishlist:item=3234363830&perks=1820235745,3108830275
+dimwishlist:item=3234363830&perks=1820235745,31345821
+
 
 
 title:blueberries.gg s26
@@ -1267,7 +1382,7 @@ dimwishlist:item=1757177186&perks=684456054,3218042543
 
 
 // Watchful Eye (god-pve)
-//notes: tags:god-pve
+//notes: Giorno Gaming (https://www.youtube.com/watch?v=u05l3skgooE) tags:god-pve
 dimwishlist:item=1757177186&perks=684456054,3966416502
 
 
